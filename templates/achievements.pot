@@ -1,0 +1,204 @@
+# LANGUAGE translation for 非幸存者 for the following files:
+#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Not-Survivors\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+msgid "新手"
+msgstr ""
+
+msgid "完成一轮游戏。"
+msgstr ""
+
+msgid "老手"
+msgstr ""
+
+msgid "通关一轮游戏。"
+msgstr ""
+
+msgid "好身手！"
+msgstr ""
+
+msgid "闪避率达到 60%。"
+msgstr ""
+
+msgid "飞毛腿"
+msgstr ""
+
+msgid "速度达到 2。"
+msgstr ""
+
+msgid "人形坦克"
+msgstr ""
+
+msgid "护甲达到 15。"
+msgstr ""
+
+msgid "奥术"
+msgstr ""
+
+msgid "持有【伤害类型为法术的武器】通关。"
+msgstr ""
+
+msgid "长手"
+msgstr ""
+
+msgid "攻击距离达到 200。"
+msgstr ""
+
+msgid "药罐子"
+msgstr ""
+
+msgid "药瓶恢复达到 20。"
+msgstr ""
+
+msgid "武器大师"
+msgstr ""
+
+msgid "持有至少 3 个道具【铁匠锤子】。"
+msgstr ""
+
+msgid "精打细算"
+msgstr ""
+
+msgid "通关时持有道具数量不超过 20。"
+msgstr ""
+
+msgid "运营大师"
+msgstr ""
+
+msgid "使用角色【土豆】时获取了道具【双持】。"
+msgstr ""
+
+msgid "朝圣"
+msgstr ""
+
+msgid "获得一次5级具。"
+msgstr ""
+
+msgid "人类荣光"
+msgstr ""
+
+msgid "使用角色【战斗人形】，在游戏结束时持有至少 20 个道具【机魂】。"
+msgstr ""
+
+msgid "我全都要！"
+msgstr ""
+
+msgid "获得道具【坏点】。"
+msgstr ""
+
+msgid "我还有一条命呢！"
+msgstr ""
+
+msgid "通关时持有复活道具。"
+msgstr ""
+
+msgid "空手道？"
+msgstr ""
+
+msgid "在武器有空位的情况下通关。"
+msgstr ""
+
+msgid "真正的勇者"
+msgstr ""
+
+msgid "在不持有道具【读取存档】的情况下使用【勇者】通关。"
+msgstr ""
+
+msgid "毕业了！"
+msgstr ""
+
+msgid "在标准难度下使用【初始角色】通关游戏。"
+msgstr ""
+
+msgid "冲刺！冲！"
+msgstr ""
+
+msgid "在标准难度下使用【骑士】通关游戏。"
+msgstr ""
+
+msgid "花园保卫战"
+msgstr ""
+
+msgid "在标准难度下使用【妈瑞可瑞死妈死】通关游戏。"
+msgstr ""
+
+msgid "全能者"
+msgstr ""
+
+msgid "在标准难度下使用【土豆】通关游戏。"
+msgstr ""
+
+msgid "狩猎艺术"
+msgstr ""
+
+msgid "在标准难度下使用【狩龙人】通关游戏。"
+msgstr ""
+
+msgid "日常清扫"
+msgstr ""
+
+msgid "在标准难度下使用【神社巫女】通关游戏。"
+msgstr ""
+
+msgid "修行还在继续……"
+msgstr ""
+
+msgid "在标准难度下使用【精灵】通关游戏。"
+msgstr ""
+
+msgid "修行刚刚开始！"
+msgstr ""
+
+msgid "在标准难度下使用【勇者】通关游戏。"
+msgstr ""
+
+msgid "半人马之力"
+msgstr ""
+
+msgid "在标准难度下使用【将军】通关游戏。"
+msgstr ""
+
+msgid "朝圣者"
+msgstr ""
+
+msgid "在标准难度下使用【朝圣者】通关游戏。"
+msgstr ""
+
+msgid "纳垢"
+msgstr ""
+
+msgid "在标准难度下使用【容器】通关游戏。"
+msgstr ""
+
+msgid "灭绝"
+msgstr ""
+
+msgid "在标准难度下使用【战斗人形】通关游戏。"
+msgstr ""
+
+msgid "上大鞋！"
+msgstr ""
+
+msgid "在标准难度下使用【商人】通关游戏。"
+msgstr ""
+
+msgid "精准手法"
+msgstr ""
+
+msgid "在标准难度下使用【盗贼】通关游戏。"
+msgstr ""
+
+msgid "梦游"
+msgstr ""
+
+msgid "在标准难度下使用【爱丽丝】通关游戏。"
+msgstr ""
+

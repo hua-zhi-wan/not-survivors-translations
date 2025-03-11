@@ -1,0 +1,144 @@
+# LANGUAGE translation for 非幸存者 for the following files:
+#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Not-Survivors\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+msgid "手枪"
+msgstr ""
+
+msgid "非常破旧的手枪，曾经被一众充满信仰与希望的骑士用作入门练习的新人武器。"
+msgstr ""
+
+msgid "长矛"
+msgstr ""
+
+msgid "沉重的长矛，见证了无数文明的兴衰和战争的残酷。"
+msgstr ""
+
+msgid "无锋剑"
+msgstr ""
+
+msgid "“少年人的梦想，踏上旅途的兴奋。”"
+msgstr ""
+
+msgid "AK47"
+msgstr ""
+
+msgid "在现代战争的钢铁风暴中，AK-47以其无与伦比的耐用性和致命的火力，成为了战场上的传奇。它不仅是一把枪，更是对抗压迫、捍卫自由的象征。"
+msgstr ""
+
+msgid "光子法杖"
+msgstr ""
+
+msgid "有什么东西能快得过光呢？"
+msgstr ""
+
+msgid "豆射手"
+msgstr ""
+
+msgid "“勤奋工作、承担责任，以及一份健康的早餐：阳光与高纤维二氧化碳的合理搭配，这就是我的秘诀！”"
+msgstr ""
+
+msgid "霰弹枪"
+msgstr ""
+
+msgid "经典的泵动式霰弹枪，拉动护木的声音依旧清脆且安全可靠。"
+msgstr ""
+
+msgid "无限真空刃"
+msgstr ""
+
+msgid "以无数的真空之刃将敌人切碎。"
+msgstr ""
+
+msgid "手里剑"
+msgstr ""
+
+msgid "每一名忍者的必备武器，更是那些精通潜行和暗杀技巧的战士们的得力助手。"
+msgstr ""
+
+msgid "火焰法杖"
+msgstr ""
+
+msgid "有什么东西能烧得过火呢？"
+msgstr ""
+
+msgid "鲜红魔镰"
+msgstr ""
+
+msgid "化身流丽死神，手持不死身躯之血铸成的魔镰奋战。"
+msgstr ""
+
+msgid "西洋剑"
+msgstr ""
+
+msgid "感受优雅的战斗艺术。"
+msgstr ""
+
+msgid "弹弓"
+msgstr ""
+
+msgid "“半夜打你家玻璃！”"
+msgstr ""
+
+msgid "苦无"
+msgstr ""
+
+msgid "每一名忍者的必备武器，更是那些行走在阴影中的刺客们的首选武器。"
+msgstr ""
+
+msgid "灵体长矛"
+msgstr ""
+
+msgid "似乎有一股淡淡的鱼腥味，这让你充满了决心。"
+msgstr ""
+
+msgid "战斧"
+msgstr ""
+
+msgid "“兽人永不为奴！”"
+msgstr ""
+
+msgid "空手？"
+msgstr ""
+
+msgid "觉醒了杀意之波动，即便赤手空拳也能爆发出强大的杀伤力。"
+msgstr ""
+
+msgid "妈妈的菜刀"
+msgstr ""
+
+msgid "戳！戳！戳！"
+msgstr ""
+
+msgid "M4A1"
+msgstr ""
+
+msgid "在现代战场的无情风暴中，M4A1以其无与伦比的适应性和致命的精确度，成为了士兵们手中的信赖之选。"
+msgstr ""
+
+msgid "M870"
+msgstr ""
+
+msgid "在现代战场中，M870以其泵动式的威力和模块化的灵活性，成为了战士们手中的毁灭使者。"
+msgstr ""
+
+msgid "十字架"
+msgstr ""
+
+msgid "别把他带进恶魔城。"
+msgstr ""
+
+msgid "XIII.死亡"
+msgstr ""
+
+msgid "无谓的反抗。"
+msgstr ""
+

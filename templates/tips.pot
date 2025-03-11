@@ -1,0 +1,39 @@
+# LANGUAGE translation for 非幸存者 for the following files:
+#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Not-Survivors\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+msgid "战斗阶段未收集的经验点数会在回合结束时部分自动收集。"
+msgstr ""
+
+msgid "切换武器会重置攻击动作，但切换武器存在冷却时间。"
+msgstr ""
+
+msgid "攻速属性对法杖类武器的攻击频率影响较小。"
+msgstr ""
+
+msgid "不同武器对各属性的利用效率不同。"
+msgstr ""
+
+msgid "幸运属性会影响宝箱中的道具等级分布。幸运属性过低时，宝箱内不会开出高级道具，且无法获得高级武器。幸运属性较高时，宝箱内会移除低等级道具。"
+msgstr ""
+
+msgid "击杀体型变大的精英怪物可以获得掉落物。当有剩余道具时，掉落物固定为宝箱，否则固定为药剂。"
+msgstr ""
+
+msgid "生命值越低，怪物掉落药剂的概率越高。"
+msgstr ""
+
+msgid "连续多回合不受到伤害会获得“神秘奖励”。"
+msgstr ""
+
+msgid "击败BOSS会获得丰厚的额外奖励。"
+msgstr ""
+

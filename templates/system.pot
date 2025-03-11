@@ -1,0 +1,664 @@
+# LANGUAGE translation for 非幸存者 for the following files:
+# res://scenes/ui/pause_screen.tscn
+# res://scenes/ui/almanac_menu/achievements.tscn
+# res://scenes/ui/almanac_menu/achievement_detail.tscn
+# res://scenes/ui/almanac_menu/almanac.tscn
+# res://scenes/ui/almanac_menu/almanac_item.tscn
+# res://scenes/ui/almanac_menu/complex_detail.tscn
+# res://scenes/ui/game_over_menu/game_over.tscn
+# res://scenes/ui/game_over_menu/game_over_icon_item.tscn
+# res://scenes/ui/settings_menu/settings.tscn
+# res://scenes/ui/side_panel/selected_item.tscn
+# res://scenes/ui/side_panel/side_icon_item.tscn
+# res://scenes/ui/side_panel/side_panel.tscn
+# res://scenes/ui/side_panel/stats_item.tscn
+# res://scenes/ui/side_panel/stats_panel.tscn
+# res://scenes/ui/side_panel/treasures_panel.tscn
+# res://scenes/ui/title_menu/completed_achievement.tscn
+# res://scenes/ui/title_menu/title_screen.tscn
+# res://scenes/ui/title_menu/title_ui.tscn
+# res://scenes/ui/upgrade_menu/buy_treasure.tscn
+# res://scenes/ui/upgrade_menu/difficulty_selection_panel.tscn
+# res://scenes/ui/upgrade_menu/equip_weapon_complex.tscn
+# res://scenes/ui/upgrade_menu/equip_weapon_panel.tscn
+# res://scenes/ui/upgrade_menu/free_selector_item.tscn
+# res://scenes/ui/upgrade_menu/increase_attribute.tscn
+# res://scenes/ui/upgrade_menu/initial_loadout_panel.tscn
+# res://scenes/ui/upgrade_menu/level_up_root.tscn
+# res://scenes/ui/upgrade_menu/next_wave_panel.tscn
+# res://scenes/ui/upgrade_menu/pickup_treasure_weapon.tscn
+# res://scenes/ui/upgrade_menu/pickup_treasure_weapon_root.tscn
+# res://scenes/ui/upgrade_menu/store_root.tscn
+# res://scenes/ui/upgrade_menu/upgrades.tscn
+# res://scripts/ui/achievements.gd
+# res://scripts/ui/achievement_detail.gd
+# res://scripts/ui/almanac.gd
+# res://scripts/ui/almanac_item.gd
+# res://scripts/ui/boss_screen.gd
+# res://scripts/ui/damage_label.gd
+# res://scripts/ui/difficulty_selection_panel.gd
+# res://scripts/ui/equiped_weapon.gd
+# res://scripts/ui/equip_weapon_panel.gd
+# res://scripts/ui/event_queue_container.gd
+# res://scripts/ui/free_selector_item.gd
+# res://scripts/ui/game_over_icon_item.gd
+# res://scripts/ui/game_over_panel.gd
+# res://scripts/ui/hud.gd
+# res://scripts/ui/increase_attribute.gd
+# res://scripts/ui/increase_attribute_panel.gd
+# res://scripts/ui/initial_loadout_panel.gd
+# res://scripts/ui/next_wave_panel.gd
+# res://scripts/ui/pause_screen.gd
+# res://scripts/ui/pickup_treasure_weapon.gd
+# res://scripts/ui/pickup_treasure_weapon_panel.gd
+# res://scripts/ui/selected_item.gd
+# res://scripts/ui/settings.gd
+# res://scripts/ui/settings_dropdown.gd
+# res://scripts/ui/settings_item.gd
+# res://scripts/ui/settings_slider.gd
+# res://scripts/ui/settings_switch.gd
+# res://scripts/ui/side_icon_item.gd
+# res://scripts/ui/side_panel.gd
+# res://scripts/ui/stats_item.gd
+# res://scripts/ui/stats_panel.gd
+# res://scripts/ui/title_background.gd
+# res://scripts/ui/title_screen.gd
+# res://scripts/ui/treasures_panel.gd
+# res://scripts/ui/upgrades.gd
+# res://scripts/ui/virtual_joypad.gd
+# res://scripts/resources/achievement_item.gd
+# res://scripts/resources/bullet_pack.gd
+# res://scripts/resources/character_item.gd
+# res://scripts/resources/game_database.gd
+# res://scripts/resources/saved_game.gd
+# res://scripts/resources/saved_progress.gd
+# res://scripts/resources/treasure_item.gd
+# res://scripts/resources/upgrade_attribute.gd
+# res://scripts/resources/weapon_item.gd
+# res://scripts/resources/waves/enemy_item.gd
+# res://scripts/resources/waves/enemy_list.gd
+# res://scripts/resources/waves/enemy_pack.gd
+# res://scripts/resources/waves/wave_config.gd
+# res://scripts/resources/move_behaviors/approaching_move.gd
+# res://scripts/resources/move_behaviors/circling_move.gd
+# res://scripts/resources/move_behaviors/crossing_move.gd
+# res://scripts/resources/move_behaviors/move_behavior.gd
+# res://scripts/resources/move_behaviors/standing_move.gd
+# res://scripts/resources/death_rattles/bullet_rattle.gd
+# res://scripts/resources/death_rattles/death_rattle.gd
+# res://scripts/resources/death_rattles/explosion_rattle.gd
+# res://scripts/resources/death_rattles/summon_rattle.gd
+# res://scripts/resources/attack_methods/aimed_attack.gd
+# res://scripts/resources/attack_methods/aimed_bullet.gd
+# res://scripts/resources/attack_methods/aimed_explosion.gd
+# res://scripts/resources/attack_methods/attack_mode.gd
+# res://scripts/resources/attack_methods/bullet_attack.gd
+# res://scripts/resources/attack_methods/cure_attack.gd
+# res://scripts/resources/attack_methods/laser_attack.gd
+# res://scripts/resources/attack_methods/lock_on_explode_attack.gd
+# res://scripts/resources/attack_methods/magic_attack.gd
+# res://scripts/resources/attack_methods/rush_attack.gd
+# res://scripts/resources/attack_methods/rush_bullet_attack.gd
+# res://scripts/resources/attack_methods/summon_attack.gd
+# res://scripts/calcwrite/attr_node.gd
+# res://scripts/calcwrite/calcwrite.gd
+# res://scripts/calcwrite/calc_node.gd
+# res://scripts/calcwrite/const_node.gd
+# res://scripts/calcwrite/value_node.gd
+# res://scripts/effects/agony_curse.gd
+# res://scripts/effects/cross_hair.gd
+# res://scripts/effects/electric_arc.gd
+# res://scripts/effects/general_rush.gd
+# res://scripts/effects/mermaid_echo.gd
+# res://scripts/effects/poison_pool.gd
+# res://scripts/effects/splash.gd
+# res://scripts/enemy/behavior.gd
+# res://scripts/enemy/enemy.gd
+# res://scripts/enemy/enemy_boss.gd
+# res://scripts/enemy/enemy_bullet.gd
+# res://scripts/enemy/enemy_container.gd
+# res://scripts/enemy/enemy_explosion.gd
+# res://scripts/enemy/enemy_square_bullet_magic.gd
+# res://scripts/enemy/enemy_tracking_bullet.gd
+# res://scripts/enemy/parent_enemy_bullet.gd
+# res://scripts/enemy/spawn_point.gd
+# res://scripts/enemy/spell_point.gd
+# res://scripts/entity/damage_area.gd
+# res://scripts/entity/familiar.gd
+# res://scripts/entity/follow_body.gd
+# res://scripts/entity/obstacle.gd
+# res://scripts/entity/pickup_item.gd
+# res://scripts/global/audio_center.gd
+# res://scripts/global/config.gd
+# res://scripts/global/game_controller.gd
+# res://scripts/global/player_stats.gd
+# res://scripts/global/progress.gd
+# res://scripts/global/sound_effect.gd
+# res://scripts/global/symbol_table.gd
+# res://scripts/global/translation_utils.gd
+# res://scripts/global/treasure_utils.gd
+# res://scripts/global/ui_utils.gd
+# res://scripts/player/bullet.gd
+# res://scripts/player/camera.gd
+# res://scripts/player/player.gd
+# res://scripts/player/satellite.gd
+# res://scripts/player/weapon.gd
+#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 非幸存者\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+#: scenes/ui/pause_screen.tscn
+msgid "回到游戏"
+msgstr ""
+
+#: scenes/ui/pause_screen.tscn
+#: scenes/ui/title_menu/title_ui.tscn
+msgid "设置"
+msgstr ""
+
+#: scenes/ui/pause_screen.tscn
+msgid "结束本局"
+msgstr ""
+
+#: scenes/ui/pause_screen.tscn
+#: scenes/ui/almanac_menu/achievements.tscn
+#: scenes/ui/almanac_menu/almanac.tscn
+msgid "返回标题画面"
+msgstr ""
+
+#: scenes/ui/almanac_menu/achievements.tscn
+#: scenes/ui/title_menu/title_ui.tscn
+msgid "成就"
+msgstr ""
+
+#: scenes/ui/almanac_menu/achievement_detail.tscn
+#: scenes/ui/title_menu/completed_achievement.tscn
+msgid "解锁："
+msgstr ""
+
+#: scenes/ui/almanac_menu/almanac.tscn
+#: scenes/ui/title_menu/title_ui.tscn
+msgid "图鉴"
+msgstr ""
+
+#: scenes/ui/game_over_menu/game_over.tscn
+msgid "游戏结束"
+msgstr ""
+
+#: scenes/ui/game_over_menu/game_over.tscn
+msgid "再来一局"
+msgstr ""
+
+#: scenes/ui/game_over_menu/game_over.tscn
+msgid "回到标题画面"
+msgstr ""
+
+#: scenes/ui/game_over_menu/game_over.tscn
+msgid "无尽模式"
+msgstr ""
+
+#: scenes/ui/game_over_menu/game_over.tscn
+#: scripts/ui/pickup_treasure_weapon.gd
+#: scripts/ui/selected_item.gd
+msgid "角色"
+msgstr ""
+
+#: scenes/ui/game_over_menu/game_over.tscn
+#: scripts/ui/selected_item.gd
+msgid "武器"
+msgstr ""
+
+#: scenes/ui/game_over_menu/game_over.tscn
+#: scripts/ui/selected_item.gd
+#: scripts/resources/character_item.gd
+msgid "道具"
+msgstr ""
+
+#: scenes/ui/settings_menu/settings.tscn
+msgid "媒体设置"
+msgstr ""
+
+#: scenes/ui/settings_menu/settings.tscn
+msgid "游戏设置"
+msgstr ""
+
+#: scenes/ui/settings_menu/settings.tscn
+#: scenes/ui/side_panel/selected_item.tscn
+msgid "返回"
+msgstr ""
+
+#: scenes/ui/settings_menu/settings.tscn
+msgid "返回上级"
+msgstr ""
+
+#: scenes/ui/settings_menu/settings.tscn
+msgid "音乐音效"
+msgstr ""
+
+#: scenes/ui/settings_menu/settings.tscn
+msgid "显示效果"
+msgstr ""
+
+#: scenes/ui/settings_menu/settings.tscn
+msgid "音乐音量"
+msgstr ""
+
+#: scenes/ui/settings_menu/settings.tscn
+msgid "音效音量"
+msgstr ""
+
+#: scenes/ui/settings_menu/settings.tscn
+msgid "全屏"
+msgstr ""
+
+#: scenes/ui/settings_menu/settings.tscn
+msgid "语言"
+msgstr ""
+
+#: scenes/ui/settings_menu/settings.tscn
+msgid "动态伤害显示"
+msgstr ""
+
+#: scenes/ui/settings_menu/settings.tscn
+msgid "默认标准难度"
+msgstr ""
+
+#: scenes/ui/settings_menu/settings.tscn
+msgid "屏幕暗角"
+msgstr ""
+
+#: scenes/ui/settings_menu/settings.tscn
+msgid "屏幕抖动"
+msgstr ""
+
+#: scenes/ui/side_panel/side_panel.tscn
+msgid "属性"
+msgstr ""
+
+#: scenes/ui/side_panel/side_panel.tscn
+msgid "物品"
+msgstr ""
+
+#: scenes/ui/side_panel/side_panel.tscn
+msgid "StatsPanel"
+msgstr ""
+
+#: scenes/ui/side_panel/side_panel.tscn
+msgid "TreasuresPanel"
+msgstr ""
+
+#: scenes/ui/title_menu/completed_achievement.tscn
+msgid "达成成就！"
+msgstr ""
+
+#: scenes/ui/title_menu/completed_achievement.tscn
+msgid "好！"
+msgstr ""
+
+#: scenes/ui/title_menu/title_ui.tscn
+msgid "Not Survivors"
+msgstr ""
+
+#: scenes/ui/title_menu/title_ui.tscn
+msgid "继续"
+msgstr ""
+
+#: scenes/ui/title_menu/title_ui.tscn
+msgid "开始游戏"
+msgstr ""
+
+#: scenes/ui/title_menu/title_ui.tscn
+msgid "退出"
+msgstr ""
+
+#: scenes/ui/upgrade_menu/buy_treasure.tscn
+msgid "购买"
+msgstr ""
+
+#: scenes/ui/upgrade_menu/buy_treasure.tscn
+#: scripts/ui/pickup_treasure_weapon.gd
+msgid "锁定"
+msgstr ""
+
+#: scenes/ui/upgrade_menu/difficulty_selection_panel.tscn
+msgid "选择难度"
+msgstr ""
+
+#: scenes/ui/upgrade_menu/difficulty_selection_panel.tscn
+msgid ""
+"简单难度：\n"
+"\n"
+"回合结束[color=skyblue]自动回收80%经验值[/color]。\n"
+"敌人的[color=green]生命[/color]和[color=yellow]伤害[/color]会更低。\n"
+"生命值会以[color=royalblue]人畜无害的蓝色[/color]显示。\n"
+"[color=red]无法解锁完整成就[/color]。"
+msgstr ""
+
+#: scenes/ui/upgrade_menu/difficulty_selection_panel.tscn
+#: scenes/ui/upgrade_menu/increase_attribute.tscn
+#: scenes/ui/upgrade_menu/pickup_treasure_weapon.tscn
+msgid "选择"
+msgstr ""
+
+#: scenes/ui/upgrade_menu/difficulty_selection_panel.tscn
+msgid ""
+"标准难度：\n"
+"\n"
+"回合结束[color=red]只自动回收50%经验值[/color]。\n"
+"[color=red]敌人伤害会越来越高[/color]。\n"
+"游戏结束后可以进入[color=skyblue]无尽模式[/color]。\n"
+"[color=gray]这是游戏设计原本的预期难度。[/color]"
+msgstr ""
+
+#: scenes/ui/upgrade_menu/equip_weapon_complex.tscn
+msgid "装备到这里"
+msgstr ""
+
+#: scenes/ui/upgrade_menu/equip_weapon_panel.tscn
+msgid "装备武器到……"
+msgstr ""
+
+#: scenes/ui/upgrade_menu/equip_weapon_panel.tscn
+#: scenes/ui/upgrade_menu/pickup_treasure_weapon_root.tscn
+msgid "放弃"
+msgstr ""
+
+#: scenes/ui/upgrade_menu/initial_loadout_panel.tscn
+msgid "角色选择"
+msgstr ""
+
+#: scenes/ui/upgrade_menu/level_up_root.tscn
+msgid "等级提升！"
+msgstr ""
+
+#: scenes/ui/upgrade_menu/next_wave_panel.tscn
+msgid "继续前进"
+msgstr ""
+
+#: scenes/ui/upgrade_menu/pickup_treasure_weapon_root.tscn
+msgid "获得道具！"
+msgstr ""
+
+#: scenes/ui/upgrade_menu/pickup_treasure_weapon_root.tscn
+#: scripts/ui/pickup_treasure_weapon_panel.gd
+msgid "重置"
+msgstr ""
+
+#: scenes/ui/upgrade_menu/store_root.tscn
+msgid "选择你想购买的道具"
+msgstr ""
+
+#: scenes/ui/upgrade_menu/store_root.tscn
+msgid "结束"
+msgstr ""
+
+#: scenes/ui/upgrade_menu/upgrades.tscn
+msgid "我们安全了，暂时的。"
+msgstr ""
+
+#: scenes/ui/upgrade_menu/upgrades.tscn
+msgid "你听到了吗？"
+msgstr ""
+
+#: scripts/ui/achievement_detail.gd
+#: scripts/ui/pickup_treasure_weapon.gd
+#: scripts/ui/selected_item.gd
+#: scripts/ui/side_icon_item.gd
+msgid ""
+msgstr ""
+
+#: scripts/ui/game_over_panel.gd
+msgid "已完成"
+msgstr ""
+
+#: scripts/ui/game_over_panel.gd
+msgid "无尽"
+msgstr ""
+
+#: scripts/ui/hud.gd
+msgid "第%d波/共%d波"
+msgstr ""
+
+#: scripts/ui/hud.gd
+msgid "第%d波/无尽"
+msgstr ""
+
+#: scripts/ui/next_wave_panel.gd
+msgid "提示："
+msgstr ""
+
+#: scripts/ui/pickup_treasure_weapon.gd
+#: scripts/ui/selected_item.gd
+msgid "???"
+msgstr ""
+
+#: scripts/ui/pickup_treasure_weapon.gd
+msgid "已购买"
+msgstr ""
+
+#: scripts/ui/pickup_treasure_weapon.gd
+msgid "[解锁]"
+msgstr ""
+
+#: scripts/ui/pickup_treasure_weapon_panel.gd
+msgid "幸运消耗%d"
+msgstr ""
+
+#: scripts/ui/pickup_treasure_weapon_panel.gd
+msgid "刷新"
+msgstr ""
+
+#: scripts/ui/pickup_treasure_weapon_panel.gd
+msgid "%dG"
+msgstr ""
+
+#: scripts/ui/selected_item.gd
+msgid "【唯一】"
+msgstr ""
+
+#: scripts/ui/stats_panel.gd
+msgid "波次"
+msgstr ""
+
+#: scripts/ui/stats_panel.gd
+msgid "等级"
+msgstr ""
+
+#: scripts/ui/stats_panel.gd
+msgid "生命值"
+msgstr ""
+
+#: scripts/ui/stats_panel.gd
+msgid "可获得道具"
+msgstr ""
+
+#: scripts/ui/stats_panel.gd
+#: scripts/global/symbol_table.gd
+msgid "拾取范围"
+msgstr ""
+
+#: scripts/ui/stats_panel.gd
+msgid "金币"
+msgstr ""
+
+#: scripts/resources/weapon_item.gd
+msgid "伤害"
+msgstr ""
+
+#: scripts/resources/weapon_item.gd
+msgid "冷却时间"
+msgstr ""
+
+#: scripts/resources/weapon_item.gd
+msgid "范围"
+msgstr ""
+
+#: scripts/resources/weapon_item.gd
+#: scripts/global/symbol_table.gd
+msgid "暴击率"
+msgstr ""
+
+#: scripts/resources/weapon_item.gd
+#: scripts/global/symbol_table.gd
+msgid "暴击效果"
+msgstr ""
+
+#: scripts/resources/weapon_item.gd
+msgid "击退"
+msgstr ""
+
+#: scripts/resources/weapon_item.gd
+#: scripts/global/symbol_table.gd
+msgid "生命偷取"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "攻击力"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "法术强度"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "伤害倍率"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "攻击速度"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "速度"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "攻击范围"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "幸运"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "生命上限"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "护甲"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "闪避率"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "贯穿"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "药瓶恢复"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "回合恢复"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "物理"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "法术"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "影响物理攻击效益。随等级提升自然增长。"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "影响法术攻击效益。随等级提升自然增长。"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "影响所有攻击效果的收益。"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "影响武器的攻击动作间隔。"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "影响人物移动速度。上限为2。"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "影响武器攻击动作的感知距离，影响近战武器的体积。"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "影响武器暴击触发概率，影响攻击特效触发概率。"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "影响等级提升时的属性质量，影响道具品质。"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "人物最大生命值。随等级提升自然增长。"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "人物受到攻击时，按照护甲值减免一部分伤害。"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "人物受到飞行道具攻击时，依照概率免受此伤害。上限为60%。"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "影响武器暴击伤害。"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "枪械"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "冷兵器"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "魔法"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "溅射"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "弹射"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "随从"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "投射物"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "本回合内可能掉落的宝箱数量。每回合会自然增加1，拾取宝箱会扣除。"
+msgstr ""
+
+#: scripts/player/player.gd
+msgid "闪避"
+msgstr ""

@@ -1,0 +1,789 @@
+# LANGUAGE translation for 非幸存者 for the following files:
+#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Not-Survivors\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+
+msgid "悲伤洋葱"
+msgstr ""
+
+msgid "射速上升！"
+msgstr ""
+
+msgid "鼓风机"
+msgstr ""
+
+msgid "“嘿章鱼哥！”"
+msgstr ""
+
+msgid "吵闹画像"
+msgstr ""
+
+msgid "他会和你并肩……"
+msgstr ""
+
+msgid "生成一个环绕物，对接触到的敌人造成{{0}}的魔法伤害。"
+msgstr ""
+
+msgid "铁匠锤子"
+msgstr ""
+
+msgid "“铁锤是力量！铁锤是信仰！”"
+msgstr ""
+
+msgid "获得一把新武器。"
+msgstr ""
+
+msgid "16号插入栓"
+msgstr ""
+
+msgid "“我原谅你了。”"
+msgstr ""
+
+msgid "治疗效果生效会同时为你提供经验值。\n"
+"每回合这个效果提供的经验值有上限。"
+msgstr ""
+
+msgid "人鱼回响"
+msgstr ""
+
+msgid "“和我一起成为偶像吧！”"
+msgstr ""
+
+msgid "近战武器一次挥动命中敌人超过3个时，会在面前区域内形成一个恢复法阵。\n"
+"法阵持续2s，走入法阵可以恢复{{0}}-{{1}}（根据已损血量提升）\n"
+"这个效果有4秒的冷却。"
+msgstr ""
+
+msgid "苦痛诅咒"
+msgstr ""
+
+msgid "他使你渴望战争。"
+msgstr ""
+
+msgid "暴击会对敌人所在的位置施加神罚效果，产生一次范围伤害，造成{{0}}伤害。\n"
+"这个效果有至多4秒的冷却。你每持有一个苦痛诅咒，诅咒效果的冷却时间越短。"
+msgstr ""
+
+msgid "贯通弹"
+msgstr ""
+
+msgid "设计用于射击并贯穿目标。"
+msgstr ""
+
+msgid "为你的远程武器提供贯穿能力。\n"
+"但每贯穿一个目标，该子弹伤害衰减为当前的50%。"
+msgstr ""
+
+msgid "板砖"
+msgstr ""
+
+msgid "《我佛慈悲》"
+msgstr ""
+
+msgid "大力丸"
+msgstr ""
+
+msgid "江湖骗子的常用伎俩。"
+msgstr ""
+
+msgid "非酋"
+msgstr ""
+
+msgid "“这游戏有SR吗？”"
+msgstr ""
+
+msgid "物理必修二"
+msgstr ""
+
+msgid "——讲科学，破迷信。"
+msgstr ""
+
+msgid "说的道理"
+msgstr ""
+
+msgid "欧内的手，好汉！"
+msgstr ""
+
+msgid "雅各布天梯"
+msgstr ""
+
+msgid "“赐我圣火！”"
+msgstr ""
+
+msgid "你的暴击伤害会对首次命中的目标产生一次{{0}}的电弧伤害。\n"
+"你每持有一个雅各布天梯，电弧伤害即可多连接一个目标。\n"
+"这个效果有 0.6 秒冷却。"
+msgstr ""
+
+msgid "双持"
+msgstr ""
+
+msgid "像个战神！"
+msgstr ""
+
+msgid "战斗时同时使用所有已装备的武器。\n"
+"但你的伤害修正为{{0}}。"
+msgstr ""
+
+msgid "IX.隐者"
+msgstr ""
+
+msgid "隐藏自己。"
+msgstr ""
+
+msgid "延长受击无敌时间至1s。"
+msgstr ""
+
+msgid "致命节奏"
+msgstr ""
+
+msgid "（已于14.10版本移除）"
+msgstr ""
+
+msgid "每次攻击会使你获得一个临时的攻速提升。最高可获得6.0的攻速提升。停止攻击1秒后，攻速提升效果会清零。"
+msgstr ""
+
+msgid "VII.战车"
+msgstr ""
+
+msgid "本能与意志。"
+msgstr ""
+
+msgid "当生命值少于50%时，根据已损生命值提供至多50%伤害倍率。"
+msgstr ""
+
+msgid "XVI.塔"
+msgstr ""
+
+msgid "终将倒塌。"
+msgstr ""
+
+msgid "你的暴击率将会折算给攻击倍率。\n"
+"作为代价，你的暴击率会被清空。"
+msgstr ""
+
+msgid "通缉上升！"
+msgstr ""
+
+msgid "“我从没碰过这么烫的东西！”"
+msgstr ""
+
+msgid "敌群数目永久增加。"
+msgstr ""
+
+msgid "X.命运之轮"
+msgstr ""
+
+msgid "变幻无常，命中注定。"
+msgstr ""
+
+msgid "允许你消耗幸运重置当前道具选择。\n"
+"单回合内多次使用会增大消耗。"
+msgstr ""
+
+msgid "0.愚者"
+msgstr ""
+
+msgid "愚者之旅。"
+msgstr ""
+
+msgid "按照等级次序移除最早获得的最多3个道具，补偿对应数目的剩余道具掉落。"
+msgstr ""
+
+msgid "II.女祭司"
+msgstr ""
+
+msgid "属于所有人的光辉。"
+msgstr ""
+
+msgid "当前回合内，你获得的药瓶会给你带来+5法术强度提升修正。"
+msgstr ""
+
+msgid "子弹时间"
+msgstr ""
+
+msgid "像Neo一样闪躲子弹吧！"
+msgstr ""
+
+msgid "降低敌人子弹速度10%。"
+msgstr ""
+
+msgid "黑心"
+msgstr ""
+
+msgid "脆弱而易怒。"
+msgstr ""
+
+msgid "每累计失去最大生命20%时，对所有敌人造成{{0}}伤害，并消除弹幕。"
+msgstr ""
+
+msgid "可以坐的椅子"
+msgstr ""
+
+msgid "？：3A大作的门槛（确信"
+msgstr ""
+
+msgid "回合结束时恢复一定血量。"
+msgstr ""
+
+msgid "XIV.节制"
+msgstr ""
+
+msgid "调和。"
+msgstr ""
+
+msgid "放弃获取武器或道具时，你可以获得一次属性提升。"
+msgstr ""
+
+msgid "库因克"
+msgstr ""
+
+msgid "“吃吧……”"
+msgstr ""
+
+msgid "每秒失去1点生命（不会导致角色死亡）。"
+msgstr ""
+
+msgid "棍花"
+msgstr ""
+
+msgid "“是大圣回来了！”"
+msgstr ""
+
+msgid "挥起棍子，抵御一切！\n"
+"每3次近战武器攻击的挥砍可以抵挡飞行道具。"
+msgstr ""
+
+msgid "VI.恋人"
+msgstr ""
+
+msgid "他、她或者它，会拯救你。"
+msgstr ""
+
+msgid "回合结束后自动回收所有未拾取的药瓶。"
+msgstr ""
+
+msgid "广告位招租"
+msgstr ""
+
+msgid "来个“XX饮品”给我打钱谢谢！"
+msgstr ""
+
+msgid "提升药瓶的恢复能力。"
+msgstr ""
+
+msgid "圣水"
+msgstr ""
+
+msgid "——只对恶魔有效"
+msgstr ""
+
+msgid "暴击会对敌人所在的位置施加圣水效果，每 0.25 秒造成{{0}}伤害。\n"
+"这个效果有 3 秒的冷却。\n"
+"圣水效果持续时间至少为 2 秒。你每持有一个圣水，圣水效果的持续时间延长 1 秒。"
+msgstr ""
+
+msgid "坐标之力"
+msgstr ""
+
+msgid "总有人要偿还罪孽。"
+msgstr ""
+
+msgid "放弃道具时，可获得道具+1。"
+msgstr ""
+
+msgid "杀意之波动"
+msgstr ""
+
+msgid "能够破坏一切的究极力量。"
+msgstr ""
+
+msgid "强化你的空手状态。\n"
+"“空手”重新回到武器池。"
+msgstr ""
+
+msgid "1UP蘑菇"
+msgstr ""
+
+msgid "加一条命！"
+msgstr ""
+
+msgid "角色死亡时，会以当前生命的50%原地复生。\n"
+"生效后移除此道具。"
+msgstr ""
+
+msgid "蓝色方块"
+msgstr ""
+
+msgid "过去并未消逝，甚至并未过去。"
+msgstr ""
+
+msgid "回到上一波次。\n"
+"永久提升敌人强度。"
+msgstr ""
+
+msgid "XV.恶魔"
+msgstr ""
+
+msgid "无尽渴望与自我束缚。"
+msgstr ""
+
+msgid "每持有一个道具，你的法术强度会修正减少{{0}}。这个修正不会高于{{1}}"
+msgstr ""
+
+msgid "I.魔术师"
+msgstr ""
+
+msgid "变化莫测，心想事成。"
+msgstr ""
+
+msgid "胡桃"
+msgstr ""
+
+msgid "胡桃说：“人们想知道，经常被僵尸啃的感觉怎样。他们不知道，我有限的感觉，只能让我感到一种麻麻的感觉。像是，令人放松的背部按摩。”"
+msgstr ""
+
+msgid "生成一个可以抵挡子弹的环绕物。"
+msgstr ""
+
+msgid "懒骨头"
+msgstr ""
+
+msgid "“找八份工作就有八份假期。”"
+msgstr ""
+
+msgid "停止移动时，法术强度修正+25%。"
+msgstr ""
+
+msgid "勤快骨头"
+msgstr ""
+
+msgid "“人类！”"
+msgstr ""
+
+msgid "Rabot-2333"
+msgstr ""
+
+msgid "把接下来的一个 "hurt" 转化为 "block" ~"
+msgstr ""
+
+msgid "回合开始时获得一个护盾。"
+msgstr ""
+
+msgid "大生命药水"
+msgstr ""
+
+msgid "“喝得更爽！”"
+msgstr ""
+
+msgid "掉落的生命药水有 50% 的概率变为大生命药水。\n"
+"拾取大生命药水时，额外恢复角色{{0}}生命值。"
+msgstr ""
+
+msgid "无响应"
+msgstr ""
+
+msgid "按 Ctrl + Alt + Delete 打开任务管理器。"
+msgstr ""
+
+msgid "弹幕"
+msgstr ""
+
+msgid "——因为太长了看不清所以必须要慢下来……"
+msgstr ""
+
+msgid "神经网络"
+msgstr ""
+
+msgid "21世纪最伟大的发明。"
+msgstr ""
+
+msgid "等级提升时，额外使你的{{0}}和{{1}}两者中最高的属性+2。"
+msgstr ""
+
+msgid "魂火"
+msgstr ""
+
+msgid "每回合自动生成2个白色魂火，对接触到的敌人造成{{0}}伤害，或抵挡飞行道具。生效后会消失。"
+msgstr ""
+
+msgid "XIX.太阳"
+msgstr ""
+
+msgid "洞察一切真相，但权力在你手上。"
+msgstr ""
+
+msgid "环绕物变远。"
+msgstr ""
+
+msgid "XVII.星星"
+msgstr ""
+
+msgid "希望，成长，获得新生。"
+msgstr ""
+
+msgid "鱼"
+msgstr ""
+
+msgid "它还活着！"
+msgstr ""
+
+msgid "暴击暴击"
+msgstr ""
+
+msgid "特别狠的一下。"
+msgstr ""
+
+msgid "暴击率每超过100%，可固定多享有一次暴击收益，不足100%的部分可以再次判定暴击。"
+msgstr ""
+
+msgid "蜕变挽歌"
+msgstr ""
+
+msgid "为武器灌输神圣的力量。"
+msgstr ""
+
+msgid "生命大于50%时，普通攻击会释放和当前武器攻击相当的剑气。"
+msgstr ""
+
+msgid "弱欲之壶"
+msgstr ""
+
+msgid "自己从卡组抽两张。"
+msgstr ""
+
+msgid "可获得道具 +2"
+msgstr ""
+
+msgid "爆炸胡桃"
+msgstr ""
+
+msgid "“我唯一的遗憾，就是只有一颗装满了硝化甘油的内心，这对草坪的保护远远不够。”"
+msgstr ""
+
+msgid "生成一个可以爆炸的环绕物，接触敌人时会产生爆炸并销毁，造成{{0}}伤害。\n"
+"这个环绕物有3秒的重置时间。"
+msgstr ""
+
+msgid "计分板"
+msgstr ""
+
+msgid "只要我掉血的够快，死亡就追不上我！"
+msgstr ""
+
+msgid "受到的伤害会缓慢结算，回合结束时清空未结算的剩余伤害。"
+msgstr ""
+
+msgid "银弹"
+msgstr ""
+
+msgid "解决一切问题。"
+msgstr ""
+
+msgid "远程武器贯穿伤害不再衰减。"
+msgstr ""
+
+msgid "XIX.月亮"
+msgstr ""
+
+msgid "照亮你的内心。"
+msgstr ""
+
+msgid "暴击会在敌人所在的位置产生一枚可以贯穿大量敌人的冰霜子弹，造成{{0}}伤害并暴击。\n"
+"每持有一个月亮，会多产生一枚随机方向的冰霜子弹。\n"
+"这个效果有1秒的冷却。"
+msgstr ""
+
+msgid "XXI.审判"
+msgstr ""
+
+msgid "唤醒潜能，自我审判。"
+msgstr ""
+
+msgid "每次升级降低1点攻击力。"
+msgstr ""
+
+msgid "IV.皇帝"
+msgstr ""
+
+msgid "无法违抗。"
+msgstr ""
+
+msgid "在有BOSS的回合开始时，获得一个护盾。"
+msgstr ""
+
+msgid "VIII.力量"
+msgstr ""
+
+msgid "并非蛮力。"
+msgstr ""
+
+msgid "合并图层"
+msgstr ""
+
+msgid "坏了！撤不回了！"
+msgstr ""
+
+msgid "所有属性不再下降。"
+msgstr ""
+
+msgid "初始角色"
+msgstr ""
+
+msgid "画这个角色的美术已经跑路了……"
+msgstr ""
+
+msgid "骑士"
+msgstr ""
+
+msgid "其实这是一件盔甲，你只需要穿上它就好。战斗几乎是全自动的。"
+msgstr ""
+
+msgid "升级时以随机属性提升来代替自由加点。"
+msgstr ""
+
+msgid "妈瑞可瑞死妈死"
+msgstr ""
+
+msgid "圣诞快乐！"
+msgstr ""
+
+msgid "受到接触伤害时反弹同等伤害并击退。\n"
+"移动速度修正为10%。"
+msgstr ""
+
+msgid "土豆"
+msgstr ""
+
+msgid "拯救被异形占领的星球幸存者。"
+msgstr ""
+
+msgid "每两回合可以获得一把新武器，最多可以同时装备六把武器。\n"
+"每多装备一把武器会带来更低的伤害修正。"
+msgstr ""
+
+msgid "狩龙人"
+msgstr ""
+
+msgid "每次攻击动作会受到2点献祭伤害并积攒1点怒气，切换武器时怒气会重新计量。\n"
+"怒气累计到达5点时，切换武器后的第一次攻击为会造成巨额伤害的狂怒攻击。若此伤害为近战武器造成，则根据此伤害恢复自身生命值（这个恢复效果不会超过最大生命值的20%）。"
+msgstr ""
+
+msgid "神社巫女"
+msgstr ""
+
+msgid "攻击会积攒魂火，最多8团。这个效果有3秒冷却时间。\n"
+"魂火会环绕在角色周围，帮助角色抵挡子弹，并对接触的敌人造成200%的魔法伤害。\n"
+"持有魂火会使你的攻击力下降。"
+msgstr ""
+
+msgid "精灵"
+msgstr ""
+
+msgid "只能装备两把相同的武器。\n"
+"切换武器时会进行一次闪躲。闪躲时，攻击的暴击率会更高。"
+msgstr ""
+
+msgid "勇者"
+msgstr ""
+
+msgid "等级提升所需要的经验值更多。\n"
+"游戏结束会保留存档，再次选择该角色时可以读取上次游戏进度。"
+msgstr ""
+
+msgid "将军"
+msgstr ""
+
+msgid "只能装备两把相同的武器。\n"
+"切换武器时会进行一次冲撞，对路径上的敌人造成50%的物理伤害，并在终点处产生一次地震。地震造成200%物理伤害并击退，其范围受角色攻击范围的影响。"
+msgstr ""
+
+msgid "朝圣者"
+msgstr ""
+
+msgid "你们打一架，打赢的去喂虫子。"
+msgstr ""
+
+msgid "生成一条圣蛇，持续追向玩家并冲刺。\n"
+"头部会对玩家造成伤害，身体会对接触到的敌人造成{{0}}伤害。"
+msgstr ""
+
+msgid "容器"
+msgstr ""
+
+msgid "若生命值已满时拾取生命药剂，你获得一次属性提升加点，但同时扣除部分基础属性。"
+msgstr ""
+
+msgid "战斗人形"
+msgstr ""
+
+msgid "伤害修正为80%。\n"
+"回合开始时生成一个环绕角色的魂火。若一段时间后魂火未被破坏，则角色获得一个[机魂]道具。机魂道具的叠加会为玩家带来不同的提升。"
+msgstr ""
+
+msgid "商人"
+msgstr ""
+
+msgid "其实开店是为了攒钱上大鞋……"
+msgstr ""
+
+msgid "升级所需的经验值更多。\n"
+"获取经验值同时获取等量金币，回合结束时可以使用金币购买道具。\n"
+"宝箱不再提供自选道具，改为获得金币。"
+msgstr ""
+
+msgid "盗贼"
+msgstr ""
+
+msgid "花枝丸说用手柄玩特别有意思！"
+msgstr ""
+
+msgid "更灵活的指定攻击方位。"
+msgstr ""
+
+msgid "爱丽丝"
+msgstr ""
+
+msgid "生命归零时进入濒死状态，每秒持续流血{{0}}并获得{{1}}生命偷取。\n"
+"这个效果每回合限一次，每次触发永久增加{{2}}伤害倍率。"
+msgstr ""
+
+msgid "色欲"
+msgstr ""
+
+msgid "Lust."
+msgstr ""
+
+msgid "你的生命上限修正为 75%，同时失去所有生命恢复手段。\n"
+"但你的生命值会在回合开始时补满。"
+msgstr ""
+
+msgid "贪婪"
+msgstr ""
+
+msgid "Greed."
+msgstr ""
+
+msgid "经验收益翻倍。\n"
+"但无法选择升级属性。"
+msgstr ""
+
+msgid "懒惰"
+msgstr ""
+
+msgid "Sloth."
+msgstr ""
+
+msgid "将你的攻击力转化为 50% 的法术强度修正。\n"
+"但你的额外移速修正为 25%。"
+msgstr ""
+
+msgid "愤怒"
+msgstr ""
+
+msgid "Wrath."
+msgstr ""
+
+msgid "你的伤害倍率修正为 120%。\n"
+"但你的护甲修正为 20%。"
+msgstr ""
+
+msgid "嫉妒"
+msgstr ""
+
+msgid "Envy."
+msgstr ""
+
+msgid "BOSS的生命值降低30%。"
+msgstr ""
+
+msgid "傲慢"
+msgstr ""
+
+msgid "Pride."
+msgstr ""
+
+msgid "将你的法术强度转化为 50% 的攻击力修正。\n"
+"但你的额外攻击范围修正为 50%。"
+msgstr ""
+
+msgid "暴食"
+msgstr ""
+
+msgid "Gluttony."
+msgstr ""
+
+msgid "自动拾取所有掉落的经验。"
+msgstr ""
+
+msgid "慷慨"
+msgstr ""
+
+msgid "Charity."
+msgstr ""
+
+msgid "升级时，你的属性品质提高一个等级。"
+msgstr ""
+
+msgid "贞洁"
+msgstr ""
+
+msgid "Chastity."
+msgstr ""
+
+msgid "每{{0}}秒恢复{{1}}生命值。"
+msgstr ""
+
+msgid "勤奋"
+msgstr ""
+
+msgid "Diligence."
+msgstr ""
+
+msgid "获得等同于等级的攻击力修正。"
+msgstr ""
+
+msgid "温和"
+msgstr ""
+
+msgid "Patience."
+msgstr ""
+
+msgid "成功闪避攻击时恢复生命值。\n"
+"闪避修正+20%，允许溢出闪避属性上限。"
+msgstr ""
+
+msgid "宽容"
+msgstr ""
+
+msgid "Kindness."
+msgstr ""
+
+msgid "BOSS的生命值降低30%。"
+msgstr ""
+
+msgid "谦逊"
+msgstr ""
+
+msgid "Humility."
+msgstr ""
+
+msgid "获得等同于等级的法术强度修正。"
+msgstr ""
+
+msgid "节制"
+msgstr ""
+
+msgid "Temperance."
+msgstr ""
+
+msgid "自动拾取所有掉落的经验。"
+msgstr ""
+
