@@ -54,7 +54,6 @@
 # res://scripts/ui/selected_item.gd
 # res://scripts/ui/settings.gd
 # res://scripts/ui/settings_dropdown.gd
-# res://scripts/ui/settings_item.gd
 # res://scripts/ui/settings_slider.gd
 # res://scripts/ui/settings_switch.gd
 # res://scripts/ui/side_icon_item.gd
@@ -216,6 +215,7 @@ msgid "武器"
 msgstr ""
 
 #: scenes/ui/game_over_menu/game_over.tscn
+#: scripts/ui/pickup_treasure_weapon.gd
 #: scripts/ui/selected_item.gd
 #: scripts/resources/character_item.gd
 msgid "道具"
@@ -436,6 +436,11 @@ msgstr ""
 
 #: scripts/ui/pickup_treasure_weapon.gd
 #: scripts/ui/selected_item.gd
+msgid "【唯一】"
+msgstr ""
+
+#: scripts/ui/pickup_treasure_weapon.gd
+#: scripts/ui/selected_item.gd
 msgid "???"
 msgstr ""
 
@@ -457,10 +462,6 @@ msgstr ""
 
 #: scripts/ui/pickup_treasure_weapon_panel.gd
 msgid "%dG"
-msgstr ""
-
-#: scripts/ui/selected_item.gd
-msgid "【唯一】"
 msgstr ""
 
 #: scripts/ui/stats_panel.gd
@@ -661,4 +662,16 @@ msgstr ""
 
 #: scripts/player/player.gd
 msgid "闪避"
+msgstr ""
+
+#: scripts/player/player.gd
+msgid "格挡"
+msgstr ""
+
+#: scripts/player/player.gd
+msgid "升级"
+msgstr ""
+
+#: scripts/player/satellite.gd
+msgid "吸收机魂"
 msgstr ""

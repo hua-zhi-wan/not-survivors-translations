@@ -10,6 +10,38 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
 
+msgid "坏点"
+msgstr ""
+
+msgid "“谁给我屏幕捅了？”"
+msgstr ""
+
+msgid "他会让你的屏幕看起来坏掉了一块，仅此而已。\n"
+"当你看到他时说明当前道具池已经空了。"
+msgstr ""
+
+msgid "机魂"
+msgstr ""
+
+msgid "“愿人类，荣光永存。”"
+msgstr ""
+
+msgid "根据持有机魂数量执行效果：\n"
+"1个：生成一个阻挡子弹的小机器人环绕物。\n"
+"2个：机器人阻挡伤害后不再消失，并对接触单位造成一定的物理伤害。\n"
+"3个：机器人不再环绕角色，而是跟随角色并自动向周围发射子弹，造成物理伤害。\n"
+"4个及以上：重复以上步骤。"
+msgstr ""
+
+msgid "读取存档"
+msgstr ""
+
+msgid "“让我们欢庆新一任勇者的诞生！”"
+msgstr ""
+
+msgid "读取上一次游戏结束时勇者的存档。"
+msgstr ""
+
 msgid "悲伤洋葱"
 msgstr ""
 
@@ -371,7 +403,7 @@ msgstr ""
 msgid "Rabot-2333"
 msgstr ""
 
-msgid "把接下来的一个 "hurt" 转化为 "block" ~"
+msgid "把接下来的一个 \"hurt\" 转化为 \"block\" ~"
 msgstr ""
 
 msgid "回合开始时获得一个护盾。"
@@ -785,5 +817,386 @@ msgid "Temperance."
 msgstr ""
 
 msgid "自动拾取所有掉落的经验。"
+msgstr ""
+
+msgid "空手"
+msgstr ""
+
+msgid "啥也没有"
+msgstr ""
+
+msgid "手枪"
+msgstr ""
+
+msgid "非常破旧的手枪，曾经被一众充满信仰与希望的骑士用作入门练习的新人武器。"
+msgstr ""
+
+msgid "长矛"
+msgstr ""
+
+msgid "沉重的长矛，见证了无数文明的兴衰和战争的残酷。"
+msgstr ""
+
+msgid "无锋剑"
+msgstr ""
+
+msgid "“少年人的梦想，踏上旅途的兴奋。”"
+msgstr ""
+
+msgid "AK47"
+msgstr ""
+
+msgid "在现代战争的钢铁风暴中，AK-47以其无与伦比的耐用性和致命的火力，成为了战场上的传奇。它不仅是一把枪，更是对抗压迫、捍卫自由的象征。"
+msgstr ""
+
+msgid "光子法杖"
+msgstr ""
+
+msgid "有什么东西能快得过光呢？"
+msgstr ""
+
+msgid "豆射手"
+msgstr ""
+
+msgid "“勤奋工作、承担责任，以及一份健康的早餐：阳光与高纤维二氧化碳的合理搭配，这就是我的秘诀！”"
+msgstr ""
+
+msgid "霰弹枪"
+msgstr ""
+
+msgid "经典的泵动式霰弹枪，拉动护木的声音依旧清脆且安全可靠。"
+msgstr ""
+
+msgid "无限真空刃"
+msgstr ""
+
+msgid "以无数的真空之刃将敌人切碎。"
+msgstr ""
+
+msgid "手里剑"
+msgstr ""
+
+msgid "每一名忍者的必备武器，更是那些精通潜行和暗杀技巧的战士们的得力助手。"
+msgstr ""
+
+msgid "火焰法杖"
+msgstr ""
+
+msgid "有什么东西能烧得过火呢？"
+msgstr ""
+
+msgid "鲜红魔镰"
+msgstr ""
+
+msgid "化身流丽死神，手持不死身躯之血铸成的魔镰奋战。"
+msgstr ""
+
+msgid "西洋剑"
+msgstr ""
+
+msgid "感受优雅的战斗艺术。"
+msgstr ""
+
+msgid "弹弓"
+msgstr ""
+
+msgid "“半夜打你家玻璃！”"
+msgstr ""
+
+msgid "苦无"
+msgstr ""
+
+msgid "每一名忍者的必备武器，更是那些行走在阴影中的刺客们的首选武器。"
+msgstr ""
+
+msgid "灵体长矛"
+msgstr ""
+
+msgid "似乎有一股淡淡的鱼腥味，这让你充满了决心。"
+msgstr ""
+
+msgid "战斧"
+msgstr ""
+
+msgid "“兽人永不为奴！”"
+msgstr ""
+
+msgid "空手？"
+msgstr ""
+
+msgid "觉醒了杀意之波动，即便赤手空拳也能爆发出强大的杀伤力。"
+msgstr ""
+
+msgid "妈妈的菜刀"
+msgstr ""
+
+msgid "戳！戳！戳！"
+msgstr ""
+
+msgid "M4A1"
+msgstr ""
+
+msgid "在现代战场的无情风暴中，M4A1以其无与伦比的适应性和致命的精确度，成为了士兵们手中的信赖之选。"
+msgstr ""
+
+msgid "M870"
+msgstr ""
+
+msgid "在现代战场中，M870以其泵动式的威力和模块化的灵活性，成为了战士们手中的毁灭使者。"
+msgstr ""
+
+msgid "十字架"
+msgstr ""
+
+msgid "别把他带进恶魔城。"
+msgstr ""
+
+msgid "XIII.死亡"
+msgstr ""
+
+msgid "无谓的反抗。"
+msgstr ""
+
+msgid "新手"
+msgstr ""
+
+msgid "完成一轮游戏。"
+msgstr ""
+
+msgid "老手"
+msgstr ""
+
+msgid "通关一轮游戏。"
+msgstr ""
+
+msgid "好身手！"
+msgstr ""
+
+msgid "闪避率达到 60%。"
+msgstr ""
+
+msgid "飞毛腿"
+msgstr ""
+
+msgid "速度达到 2。"
+msgstr ""
+
+msgid "人形坦克"
+msgstr ""
+
+msgid "护甲达到 15。"
+msgstr ""
+
+msgid "奥术"
+msgstr ""
+
+msgid "持有【伤害类型为法术的武器】通关。"
+msgstr ""
+
+msgid "长手"
+msgstr ""
+
+msgid "攻击距离达到 200。"
+msgstr ""
+
+msgid "药罐子"
+msgstr ""
+
+msgid "药瓶恢复达到 20。"
+msgstr ""
+
+msgid "武器大师"
+msgstr ""
+
+msgid "持有至少 3 个道具【铁匠锤子】。"
+msgstr ""
+
+msgid "精打细算"
+msgstr ""
+
+msgid "通关时持有道具数量不超过 20。"
+msgstr ""
+
+msgid "运营大师"
+msgstr ""
+
+msgid "使用角色【土豆】时获取了道具【双持】。"
+msgstr ""
+
+msgid "朝圣"
+msgstr ""
+
+msgid "获得一次5级具。"
+msgstr ""
+
+msgid "人类荣光"
+msgstr ""
+
+msgid "使用角色【战斗人形】，在游戏结束时持有至少 20 个道具【机魂】。"
+msgstr ""
+
+msgid "我全都要！"
+msgstr ""
+
+msgid "获得道具【坏点】。"
+msgstr ""
+
+msgid "我还有一条命呢！"
+msgstr ""
+
+msgid "通关时持有复活道具。"
+msgstr ""
+
+msgid "空手道？"
+msgstr ""
+
+msgid "在武器有空位的情况下通关。"
+msgstr ""
+
+msgid "真正的勇者"
+msgstr ""
+
+msgid "在不持有道具【读取存档】的情况下使用【勇者】通关。"
+msgstr ""
+
+msgid "毕业了！"
+msgstr ""
+
+msgid "在标准难度下使用【初始角色】通关游戏。"
+msgstr ""
+
+msgid "冲刺！冲！"
+msgstr ""
+
+msgid "在标准难度下使用【骑士】通关游戏。"
+msgstr ""
+
+msgid "花园保卫战"
+msgstr ""
+
+msgid "在标准难度下使用【妈瑞可瑞死妈死】通关游戏。"
+msgstr ""
+
+msgid "全能者"
+msgstr ""
+
+msgid "在标准难度下使用【土豆】通关游戏。"
+msgstr ""
+
+msgid "狩猎艺术"
+msgstr ""
+
+msgid "在标准难度下使用【狩龙人】通关游戏。"
+msgstr ""
+
+msgid "日常清扫"
+msgstr ""
+
+msgid "在标准难度下使用【神社巫女】通关游戏。"
+msgstr ""
+
+msgid "修行还在继续……"
+msgstr ""
+
+msgid "在标准难度下使用【精灵】通关游戏。"
+msgstr ""
+
+msgid "修行刚刚开始！"
+msgstr ""
+
+msgid "在标准难度下使用【勇者】通关游戏。"
+msgstr ""
+
+msgid "半人马之力"
+msgstr ""
+
+msgid "在标准难度下使用【将军】通关游戏。"
+msgstr ""
+
+msgid "朝圣者"
+msgstr ""
+
+msgid "在标准难度下使用【朝圣者】通关游戏。"
+msgstr ""
+
+msgid "纳垢"
+msgstr ""
+
+msgid "在标准难度下使用【容器】通关游戏。"
+msgstr ""
+
+msgid "灭绝"
+msgstr ""
+
+msgid "在标准难度下使用【战斗人形】通关游戏。"
+msgstr ""
+
+msgid "上大鞋！"
+msgstr ""
+
+msgid "在标准难度下使用【商人】通关游戏。"
+msgstr ""
+
+msgid "精准手法"
+msgstr ""
+
+msgid "在标准难度下使用【盗贼】通关游戏。"
+msgstr ""
+
+msgid "梦游"
+msgstr ""
+
+msgid "在标准难度下使用【爱丽丝】通关游戏。"
+msgstr ""
+
+msgid "幽灵王"
+msgstr ""
+
+msgid "其实只是一张床单……"
+msgstr ""
+
+msgid "史莱姆王"
+msgstr ""
+
+msgid "肚子里似乎有什么宝贝……"
+msgstr ""
+
+msgid "骷髅王"
+msgstr ""
+
+msgid "死过一次……但还不够"
+msgstr ""
+
+msgid "骑士首领"
+msgstr ""
+
+msgid "火力压制！"
+msgstr ""
+
+msgid "战斗阶段未收集的经验点数会在回合结束时部分自动收集。"
+msgstr ""
+
+msgid "切换武器会重置攻击动作，但切换武器存在冷却时间。"
+msgstr ""
+
+msgid "攻速属性对法杖类武器的攻击频率影响较小。"
+msgstr ""
+
+msgid "不同武器对各属性的利用效率不同。"
+msgstr ""
+
+msgid "幸运属性会影响宝箱中的道具等级分布。幸运属性过低时，宝箱内不会开出高级道具，且无法获得高级武器。幸运属性较高时，宝箱内会移除低等级道具。"
+msgstr ""
+
+msgid "击杀体型变大的精英怪物可以获得掉落物。当有剩余道具时，掉落物固定为宝箱，否则固定为药剂。"
+msgstr ""
+
+msgid "生命值越低，怪物掉落药剂的概率越高。"
+msgstr ""
+
+msgid "连续多回合不受到伤害会获得“神秘奖励”。"
+msgstr ""
+
+msgid "击败BOSS会获得丰厚的额外奖励。"
 msgstr ""
 
