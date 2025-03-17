@@ -259,15 +259,7 @@ msgid "全屏"
 msgstr ""
 
 #: scenes/ui/settings_menu/settings.tscn
-msgid "语言"
-msgstr ""
-
-#: scenes/ui/settings_menu/settings.tscn
 msgid "动态伤害显示"
-msgstr ""
-
-#: scenes/ui/settings_menu/settings.tscn
-msgid "默认标准难度"
 msgstr ""
 
 #: scenes/ui/settings_menu/settings.tscn
@@ -276,6 +268,14 @@ msgstr ""
 
 #: scenes/ui/settings_menu/settings.tscn
 msgid "屏幕抖动"
+msgstr ""
+
+#: scenes/ui/settings_menu/settings.tscn
+msgid "语言"
+msgstr ""
+
+#: scenes/ui/settings_menu/settings.tscn
+msgid "默认标准难度"
 msgstr ""
 
 #: scenes/ui/side_panel/side_panel.tscn
@@ -494,7 +494,7 @@ msgid "伤害"
 msgstr ""
 
 #: scripts/resources/weapon_item.gd
-msgid "冷却时间"
+msgid "冷却"
 msgstr ""
 
 #: scripts/resources/weapon_item.gd
@@ -518,6 +518,10 @@ msgstr ""
 #: scripts/resources/weapon_item.gd
 #: scripts/global/symbol_table.gd
 msgid "生命偷取"
+msgstr ""
+
+#: scripts/enemy/enemy.gd
+msgid "吸收"
 msgstr ""
 
 #: scripts/global/symbol_table.gd
