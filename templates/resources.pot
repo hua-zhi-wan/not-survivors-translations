@@ -48,10 +48,10 @@ msgstr ""
 msgid "射速上升！"
 msgstr ""
 
-msgid "鼓风机"
+msgid "吸尘器"
 msgstr ""
 
-msgid "“嘿章鱼哥！”"
+msgid "可以用来抓水母。"
 msgstr ""
 
 msgid "吵闹画像"
@@ -116,7 +116,7 @@ msgstr ""
 msgid "板砖"
 msgstr ""
 
-msgid "《我佛慈悲》"
+msgid "武功再高，也怕菜刀。智力再好，一砖撂倒。"
 msgstr ""
 
 msgid "大力丸"
@@ -188,7 +188,7 @@ msgstr ""
 msgid "本能与意志。"
 msgstr ""
 
-msgid "当生命值少于50%时，根据已损生命值提供至多50%伤害倍率。"
+msgid "当生命值少于50%时，根据已损生命值增加至多50%伤害倍率修正。"
 msgstr ""
 
 msgid "XVI.塔"
@@ -379,7 +379,7 @@ msgstr ""
 msgid "胡桃"
 msgstr ""
 
-msgid "胡桃说：“人们想知道，经常被僵尸啃的感觉怎样。他们不知道，我有限的感觉，只能让我感到一种麻麻的感觉。像是，令人放松的背部按摩。”"
+msgid "\"他们的火力只能让我感到一种麻麻的感觉，像是……令人放松的背部按摩。”"
 msgstr ""
 
 msgid "生成一个可以抵挡子弹的环绕物。"
@@ -443,6 +443,9 @@ msgstr ""
 msgid "魂火"
 msgstr ""
 
+msgid "燃尽你的灵魂。"
+msgstr ""
+
 msgid "每回合自动生成2个白色魂火，对接触到的敌人造成{{0}}伤害，或抵挡飞行道具。生效后会消失。"
 msgstr ""
 
@@ -497,7 +500,7 @@ msgstr ""
 msgid "爆炸胡桃"
 msgstr ""
 
-msgid "“我唯一的遗憾，就是只有一颗装满了硝化甘油的内心，这对草坪的保护远远不够。”"
+msgid "“我仅有的能力就是一颗火热的心，但这对于保护世界来说远远不够。”"
 msgstr ""
 
 msgid "生成一个可以爆炸的环绕物，接触敌人时会产生爆炸并销毁，造成{{0}}伤害。\n"
@@ -529,7 +532,7 @@ msgid "照亮你的内心。"
 msgstr ""
 
 msgid "暴击会在敌人所在的位置产生一枚可以贯穿大量敌人的冰霜子弹，造成{{0}}伤害并暴击。\n"
-"每持有一个月亮，会多产生一枚随机方向的冰霜子弹。\n"
+"每多持有一个月亮，会多产生一枚随机方向的冰霜子弹，但这枚子弹不会对中央的敌人造成更多次伤害。\n"
 "这个效果有1秒的冷却。"
 msgstr ""
 
@@ -566,10 +569,10 @@ msgstr ""
 msgid "所有属性不再下降。"
 msgstr ""
 
-msgid "初始角色"
+msgid "看板娘"
 msgstr ""
 
-msgid "画这个角色的美术已经跑路了……"
+msgid "所有的可选角色都是这位cosplay的。"
 msgstr ""
 
 msgid "骑士"
@@ -686,7 +689,7 @@ msgstr ""
 msgid "陷入歇斯底里的疯狂吧……"
 msgstr ""
 
-msgid "生命归零时进入濒死状态，每秒持续流血{{0}}并获得{{1}}生命偷取（普通攻击产生击杀时恢复生命）。\n"
+msgid "生命归零时进入癫狂状态，每秒持续流血{{0}}并获得{{1}}生命偷取（普通攻击产生击杀时恢复生命）。\n"
 "这个效果每回合限一次，每次触发永久增加{{2}}伤害倍率。"
 msgstr ""
 
@@ -861,7 +864,7 @@ msgstr ""
 msgid "豆射手"
 msgstr ""
 
-msgid "“勤奋工作、承担责任，以及一份健康的早餐：阳光与高纤维二氧化碳的合理搭配，这就是我的秘诀！”"
+msgid "“嘿！不要忘了吃早餐！”"
 msgstr ""
 
 msgid "霰弹枪"
@@ -984,13 +987,13 @@ msgstr ""
 msgid "速度达到 2。"
 msgstr ""
 
-msgid "欧内的手"
+msgid "钢手"
 msgstr ""
 
-msgid "护甲达到 15。"
+msgid "护甲达到 20。"
 msgstr ""
 
-msgid "魔手"
+msgid "暗影魔术手"
 msgstr ""
 
 msgid "持有【伤害类型为法术的武器】通关。"
@@ -1014,52 +1017,52 @@ msgstr ""
 msgid "持有至少 3 个道具【铁匠锤子】。"
 msgstr ""
 
-msgid "精打细算"
+msgid "持家能手"
 msgstr ""
 
 msgid "通关时持有道具数量不超过 20。"
 msgstr ""
 
-msgid "运营大师"
+msgid "运营大师欧菲手"
 msgstr ""
 
 msgid "使用角色【土豆】时获取了道具【双持】。"
 msgstr ""
 
-msgid "朝圣"
+msgid "圣手"
 msgstr ""
 
 msgid "获得一次5级具。"
+msgstr ""
+
+msgid "我全都要（伸手）！"
+msgstr ""
+
+msgid "获得道具【坏点】。"
+msgstr ""
+
+msgid "我还留了一手！"
+msgstr ""
+
+msgid "通关时持有复活道具。"
+msgstr ""
+
+msgid "空手？"
+msgstr ""
+
+msgid "在武器有空位的情况下通关。"
+msgstr ""
+
+msgid "真正的高手"
+msgstr ""
+
+msgid "在不持有道具【读取存档】的情况下使用【勇者】通关。"
 msgstr ""
 
 msgid "人类荣光"
 msgstr ""
 
 msgid "使用角色【战斗人形】，在游戏结束时持有至少 20 个道具【机魂】。"
-msgstr ""
-
-msgid "我全都要！"
-msgstr ""
-
-msgid "获得道具【坏点】。"
-msgstr ""
-
-msgid "我还有一条命呢！"
-msgstr ""
-
-msgid "通关时持有复活道具。"
-msgstr ""
-
-msgid "空手道？"
-msgstr ""
-
-msgid "在武器有空位的情况下通关。"
-msgstr ""
-
-msgid "真正的勇者"
-msgstr ""
-
-msgid "在不持有道具【读取存档】的情况下使用【勇者】通关。"
 msgstr ""
 
 msgid "毕业了！"
@@ -1152,16 +1155,16 @@ msgstr ""
 msgid "在标准难度下使用【爱丽丝】通关游戏。"
 msgstr ""
 
-msgid "幽灵王"
-msgstr ""
-
-msgid "其实只是一张床单……"
-msgstr ""
-
 msgid "史莱姆王"
 msgstr ""
 
 msgid "肚子里似乎有什么宝贝……"
+msgstr ""
+
+msgid "幽灵王"
+msgstr ""
+
+msgid "其实只是一张床单……"
 msgstr ""
 
 msgid "骷髅王"
@@ -1174,6 +1177,12 @@ msgid "骑士首领"
 msgstr ""
 
 msgid "火力压制！"
+msgstr ""
+
+msgid "戈多石像"
+msgstr ""
+
+msgid "创世之神！"
 msgstr ""
 
 msgid "战斗阶段未收集的经验点数会在回合结束时部分自动收集。"

@@ -319,6 +319,11 @@ msgid "退出"
 msgstr ""
 
 #: scenes/ui/upgrade_menu/buy_treasure.tscn
+#: scenes/ui/upgrade_menu/pickup_treasure_weapon.tscn
+msgid "新！"
+msgstr ""
+
+#: scenes/ui/upgrade_menu/buy_treasure.tscn
 msgid "购买"
 msgstr ""
 
@@ -392,7 +397,7 @@ msgid "重置"
 msgstr ""
 
 #: scenes/ui/upgrade_menu/store_root.tscn
-msgid "选择你想购买的道具"
+msgid "购买道具！"
 msgstr ""
 
 #: scenes/ui/upgrade_menu/store_root.tscn
@@ -422,6 +427,10 @@ msgstr ""
 msgid "无尽"
 msgstr ""
 
+#: scripts/ui/game_over_panel.gd
+msgid "失败"
+msgstr ""
+
 #: scripts/ui/hud.gd
 msgid "第%d波/共%d波"
 msgstr ""
@@ -435,8 +444,7 @@ msgid "提示："
 msgstr ""
 
 #: scripts/ui/pickup_treasure_weapon.gd
-#: scripts/ui/selected_item.gd
-msgid "【唯一】"
+msgid "唯一"
 msgstr ""
 
 #: scripts/ui/pickup_treasure_weapon.gd
@@ -461,7 +469,12 @@ msgid "刷新"
 msgstr ""
 
 #: scripts/ui/pickup_treasure_weapon_panel.gd
-msgid "%dG"
+#: scripts/ui/stats_panel.gd
+msgid "金币"
+msgstr ""
+
+#: scripts/ui/selected_item.gd
+msgid "【唯一】"
 msgstr ""
 
 #: scripts/ui/stats_panel.gd
@@ -483,10 +496,6 @@ msgstr ""
 #: scripts/ui/stats_panel.gd
 #: scripts/global/symbol_table.gd
 msgid "拾取范围"
-msgstr ""
-
-#: scripts/ui/stats_panel.gd
-msgid "金币"
 msgstr ""
 
 #: scripts/resources/weapon_item.gd
