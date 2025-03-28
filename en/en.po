@@ -1,0 +1,1657 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Not-Survivors\n"
+"MIME-Version: 1.0\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+msgid "坏点"
+msgstr "Bad Spot"
+
+msgid "“谁给我屏幕捅了？”"
+msgstr "“Who poked my screen?”"
+
+msgid "他会让你的屏幕看起来坏掉了一块，仅此而已。\n"
+"当你看到他时说明当前道具池已经空了。"
+msgstr "He makes your screen look broken. That's all.\n"
+"When you see him, the current item pool is empty."
+
+msgid "机魂"
+msgstr "Mech Soul"
+
+msgid "“愿人类，荣光永存。”"
+msgstr "“May humanity's glory last forever.”"
+
+msgid "根据持有机魂数量执行效果：\n"
+"1个：生成一个阻挡子弹的小机器人环绕物。\n"
+"2个：机器人阻挡伤害后不再消失，并对接触单位造成一定的物理伤害。\n"
+"3个：机器人不再环绕角色，而是跟随角色并自动向周围发射子弹，造成物理伤害。\n"
+"4个及以上：重复以上步骤。"
+msgstr "Effects based on the number of Mech Souls:\n"
+"1: A small robot orbits to block bullets.\n"
+"2: The robot doesn't disappear after blocking and deals physical damage to contacting units.\n"
+"3: The robot follows and auto-fires bullets, dealing physical damage.\n"
+"4+: Repeats the above steps."
+
+msgid "读取存档"
+msgstr "Load Save"
+
+msgid "“让我们欢庆新一任勇者的诞生！”"
+msgstr "“Let's celebrate the birth of a new hero!”"
+
+msgid "读取上一次游戏结束时勇者的存档。"
+msgstr "Load the hero's save from the last game over."
+
+msgid "悲伤洋葱"
+msgstr "Sad Onion"
+
+msgid "射速上升！"
+msgstr "Firing speed increases!"
+
+msgid "吸尘器"
+msgstr "Vacuum Cleaner"
+
+msgid "可以用来抓水母。"
+msgstr "Can be used to catch jellyfish."
+
+msgid "吵闹画像"
+msgstr "Noisy Painting"
+
+msgid "他会和你并肩……"
+msgstr "He will fight alongside you..."
+
+msgid "生成一个环绕物，对接触到的敌人造成{{0}}的魔法伤害。"
+msgstr "Creates an orb that deals {{0}} magical damage to enemies on contact."
+
+msgid "铁匠锤子"
+msgstr "Blacksmith Hammer"
+
+msgid "“铁锤是力量！铁锤是信仰！”"
+msgstr "“The hammer is strength! The hammer is faith!”"
+
+msgid "获得一把新武器。"
+msgstr "Obtain a new weapon."
+
+msgid "16号插入栓"
+msgstr "No. 16 Insert Plug"
+
+msgid "“我原谅你了。”"
+msgstr "“I forgive you.”"
+
+msgid "治疗效果生效会同时为你提供经验值。\n"
+"每回合这个效果提供的经验值有上限。"
+msgstr "Healing grants experience points.\n"
+"Each turn has an XP cap for this effect."
+
+msgid "人鱼回响"
+msgstr "Mermaid Echo"
+
+msgid "“和我一起成为偶像吧！”"
+msgstr "“Become an idol with me!”"
+
+msgid "近战武器一次挥动命中敌人超过3个时，会在面前区域内形成一个恢复法阵。\n"
+"法阵持续2s，走入法阵可以恢复{{0}}-{{1}}（根据已损血量提升）\n"
+"这个效果有4秒的冷却。"
+msgstr "After hitting 3+ enemies with a melee swing, a healing array appears.\n"
+"Lasts 2s, restores {{0}}-{{1}} HP (based on damage taken).\n"
+"4s cooldown."
+
+msgid "苦痛诅咒"
+msgstr "Curse of Suffering"
+
+msgid "他使你渴望战争。"
+msgstr "He makes you crave war."
+
+msgid "暴击会对敌人所在的位置施加神罚效果，产生一次范围伤害，造成{{0}}伤害。\n"
+"这个效果有至多4秒的冷却。你每持有一个苦痛诅咒，诅咒效果的冷却时间越短。"
+msgstr "Crits trigger Divine Punishment at the enemy's location, dealing {{0}} AoE damage.\n"
+"Up to 4s cooldown. Each Curse of Suffering reduces the cooldown."
+
+msgid "贯通弹"
+msgstr "Penetrating Rounds"
+
+msgid "设计用于射击并贯穿目标。"
+msgstr "Designed to shoot through targets."
+
+msgid "为你的远程武器提供贯穿能力。\n"
+"但每贯穿一个目标，该子弹伤害衰减为当前的50%。"
+msgstr "Gives your ranged weapons penetration.\n"
+"Each target reduces bullet damage by 50%."
+
+msgid "板砖"
+msgstr "Brick"
+
+msgid "武功再高，也怕菜刀。智力再好，一砖撂倒。"
+msgstr "No matter how skilled, a kitchen knife can hurt. No matter how smart, a brick can take you down."
+
+msgid "大力丸"
+msgstr "Strength Pill"
+
+msgid "江湖骗子的常用伎俩。"
+msgstr "A common trick of charlatans."
+
+msgid "非酋"
+msgstr "Unlucky One"
+
+msgid "“这游戏有SR吗？”"
+msgstr "“Does this game have SR?”"
+
+msgid "物理必修二"
+msgstr "Physics Required II"
+
+msgid "——讲科学，破迷信。"
+msgstr "Promoting science, dispelling superstition."
+
+msgid "说的道理"
+msgstr "Words of Wisdom"
+
+msgid "欧内的手，好汉！"
+msgstr "O'Neil's Hand, Hero!"
+
+msgid "雅各布天梯"
+msgstr "Jacob's Ladder"
+
+msgid "“赐我圣火！”"
+msgstr "“Grant me holy fire!”"
+
+msgid "你的暴击伤害会对首次命中的目标产生一次{{0}}的电弧伤害。\n"
+"你每持有一个雅各布天梯，电弧伤害即可多连接一个目标。\n"
+"这个效果有 0.6 秒冷却。"
+msgstr "Your crits deal {{0}} arc damage to the first target.\n"
+"Each Jacob's Ladder adds one more target for the arc.\n"
+"0.6s cooldown."
+
+msgid "双持"
+msgstr "Dual Wield"
+
+msgid "像个战神！"
+msgstr "Like a war god!"
+
+msgid "战斗时同时使用所有已装备的武器。\n"
+"但你的伤害修正为{{0}}。"
+msgstr "Use all equipped weapons simultaneously in combat.\n"
+"Damage is modified by {{0}}."
+
+msgid "IX.隐者"
+msgstr "IX. The Hermit"
+
+msgid "隐藏自己。"
+msgstr "Hide yourself."
+
+msgid "延长受击无敌时间至1s。"
+msgstr "Extend invincibility frames to 1s after being hit."
+
+msgid "致命节奏"
+msgstr "Deadly Rhythm"
+
+msgid "（已于14.10版本移除）"
+msgstr "(Removed in version 14.10)"
+
+msgid "每次攻击会使你获得一个临时的攻速提升。最高可获得 0.6 的攻速提升。停止攻击1秒后，攻速提升效果会清零。"
+msgstr "Each attack grants temporary attack speed boost. Max 0.6 increase. Effect resets after 1s of no attacks."
+
+msgid "VII.战车"
+msgstr "VII. The Chariot"
+
+msgid "本能与意志。"
+msgstr "Instinct and Will."
+
+msgid "当生命值少于50%时，根据已损生命值增加至多50%伤害倍率修正。"
+msgstr "Below 50% HP, damage increases by up to 50% based on HP lost."
+
+msgid "XVI.塔"
+msgstr "XVI. The Tower"
+
+msgid "终将倒塌。"
+msgstr "It will fall eventually."
+
+msgid "每{{0}}暴击率提供的{{1}}伤害倍率乘数修正。\n"
+"普通攻击无法暴击。"
+msgstr "Each {{0}} crit chance grants {{1}} damage multiplier.\n"
+"Normal attacks cannot crit."
+
+msgid "通缉上升！"
+msgstr "Wanted Level Rising!"
+
+msgid "“我从没碰过这么烫的东西！”"
+msgstr "“I've never touched anything so hot!”"
+
+msgid "敌群数目永久增加。"
+msgstr "Enemy group size increases permanently."
+
+msgid "X.命运之轮"
+msgstr "X. Wheel of Fortune"
+
+msgid "变幻无常，命中注定。"
+msgstr "Fortune is fickle, fate is certain."
+
+msgid "允许你消耗幸运重置当前道具选择。\n"
+"单回合内多次使用会增大消耗。"
+msgstr "Spend luck to reset current item selection.\n"
+"Cost increases with multiple uses per turn."
+
+msgid "0.愚者"
+msgstr "0. The Fool"
+
+msgid "愚者之旅。"
+msgstr "The Fool's Journey."
+
+msgid "按照等级次序移除最早获得的最多3个道具，补偿对应数目的剩余道具掉落。"
+msgstr "Remove up to 3 earliest acquired items by level order, compensating with remaining item drops."
+
+msgid "II.女祭司"
+msgstr "II. The High Priestess"
+
+msgid "属于所有人的光辉。"
+msgstr "The radiance that belongs to all."
+
+msgid "当前回合内，你获得的药瓶会给你带来+5法术强度提升修正。"
+msgstr "In this round, potions grant +5 spell power bonus."
+
+msgid "子弹时间"
+msgstr "Bullet Time"
+
+msgid "像Neo一样闪躲子弹吧！"
+msgstr "Dodge bullets like Neo!"
+
+msgid "降低敌人子弹速度10%。"
+msgstr "Slows enemy bullets by 10%."
+
+msgid "黑心"
+msgstr "Black Heart"
+
+msgid "脆弱而易怒。"
+msgstr "Fragile and irritable."
+
+msgid "每累计失去最大生命20%时，对所有敌人造成{{0}}伤害，并消除弹幕。"
+msgstr "Every time you lose 20% of max HP, deal {{0}} damage to all enemies and clear bullets."
+
+msgid "可以坐的椅子"
+msgstr "Sittable Chair"
+
+msgid "3A大作的门槛（确信"
+msgstr "The threshold of a triple-A title (convinced)"
+
+msgid "回合结束时恢复一定血量。"
+msgstr "Restores some HP at the end of the round."
+
+msgid "XIV.节制"
+msgstr "XIV. Temperance"
+
+msgid "调和。"
+msgstr "Harmonize."
+
+msgid "放弃获取武器或道具时，你可以获得一次属性提升。"
+msgstr "Renounce a weapon or item to gain a stat boost."
+
+msgid "库因克"
+msgstr "Quincunx"
+
+msgid "“吃吧……”"
+msgstr "“Eat...""
+
+msgid "每秒失去1点生命（不会导致角色死亡）。"
+msgstr "Lose 1 HP per second (won't kill the character)."
+
+msgid "棍花"
+msgstr "Staff Flourish"
+
+msgid "“是大圣回来了！”"
+msgstr "“The Great Sage has returned!”"
+
+msgid "挥起棍子，抵御一切！\n"
+"每3次近战武器攻击的挥砍可以抵挡飞行道具。"
+msgstr "Wield the staff to block everything!\n"
+"Every 3rd melee attack blocks projectiles."
+
+msgid "VI.恋人"
+msgstr "VI. The Lovers"
+
+msgid "他、她或者它，会拯救你。"
+msgstr "He, she, or it will save you."
+
+msgid "回合结束后自动回收所有未拾取的药瓶。"
+msgstr "Automatically recovers all unpicked potions after each round."
+
+msgid "广告位招租"
+msgstr "Ad Space for Rent"
+
+msgid "来个“XX饮品”给我打钱谢谢！"
+msgstr "Send me money for “XX Beverage” please!"
+
+msgid "提升药瓶的恢复能力。"
+msgstr "Enhances potion recovery power."
+
+msgid "圣水"
+msgstr "Holy Water"
+
+msgid "——只对恶魔有效"
+msgstr "—Only effective against demons"
+
+msgid "暴击会对敌人所在的位置施加圣水效果，每 0.25 秒造成{{0}}伤害。\n"
+"这个效果有 3 秒的冷却。\n"
+"圣水效果持续时间至少为 2 秒。你每持有一个圣水，圣水效果的持续时间延长 1 秒。"
+msgstr "Crits apply Holy Water at the enemy's location, dealing {{0}} damage every 0.25s.\n"
+"3s cooldown.\n"
+"Effect lasts at least 2s. Each Holy Water extends duration by 1s."
+
+msgid "坐标之力"
+msgstr "Power of Coordinates"
+
+msgid "总有人要偿还罪孽。"
+msgstr "Someone must atone for sins."
+
+msgid "放弃道具时，可获得道具+1。"
+msgstr "Renounce an item to gain +1 item capacity."
+
+msgid "杀意之波动"
+msgstr "Wave of Murderous Intent"
+
+msgid "能够破坏一切的究极力量。"
+msgstr "The ultimate power that can destroy everything."
+
+msgid "强化你的空手状态。\n"
+"“空手”重新回到武器池。"
+msgstr "Enhances your unarmed state.\n"
+"“Unarmed” returns to the weapon pool."
+
+msgid "1UP蘑菇"
+msgstr "1UP Mushroom"
+
+msgid "加一条命！"
+msgstr "Extra life!"
+
+msgid "角色死亡时，会以当前生命的50%原地复生。\n"
+"生效后移除此道具。"
+msgstr "Revives with 50% HP when character dies.\n"
+"Consumed upon activation."
+
+msgid "蓝色方块"
+msgstr "Blue Cube"
+
+msgid "过去并未消逝，甚至并未过去。"
+msgstr "The past is never dead. It isn't even past."
+
+msgid "回到上一波次。\n"
+"永久提升敌人强度。"
+msgstr "Return to the previous wave.\n"
+"Permanently increases enemy strength."
+
+msgid "XV.恶魔"
+msgstr "XV. The Devil"
+
+msgid "无尽渴望与自我束缚。"
+msgstr "Endless craving and self-restraint."
+
+msgid "每持有一个道具，你的法术强度会修正减少{{0}}。这个修正不会高于{{1}}"
+msgstr "Each item reduces your spell power by {{0}}. This reduction won't exceed {{1}}."
+
+msgid "I.魔术师"
+msgstr "I. The Magician"
+
+msgid "变化莫测，心想事成。"
+msgstr "Unpredictable changes, wishes come true."
+
+msgid "胡桃"
+msgstr "Walnut"
+
+msgid "\"他们的火力只能让我感到一种麻麻的感觉，像是……令人放松的背部按摩。”"
+msgstr "\"Their firepower only gives me a tingling sensation, like... a relaxing back massage.""
+
+msgid "生成一个可以抵挡子弹的环绕物。"
+msgstr "Creates an orb that blocks bullets."
+
+msgid "懒骨头"
+msgstr "Lazy Bones"
+
+msgid "“找八份工作就有八份假期。”"
+msgstr "“Get eight jobs for eight vacations.”"
+
+msgid "停止移动时，法术强度修正+25%。"
+msgstr "Spell power +25% when not moving."
+
+msgid "勤快骨头"
+msgstr "Diligent Bones"
+
+msgid "“人类！”"
+msgstr "“Humanity!”"
+
+msgid "Rabot-2333"
+msgstr "Rabot-2333"
+
+msgid "把接下来的一个 \"hurt\" 转化为 \"block\" ~"
+msgstr "Convert the next \"hurt\" to \"block\" ~"
+
+msgid "回合开始时获得一个护盾。"
+msgstr "Gain a shield at the start of each turn."
+
+msgid "大生命药水"
+msgstr "Greater Health Potion"
+
+msgid "“喝得更爽！”"
+msgstr "“Drink better!”"
+
+msgid "掉落的生命药水有 50% 的概率变为大生命药水。\n"
+"拾取大生命药水时，额外恢复角色{{0}}生命值。"
+msgstr "Health potions have a 50% chance to become Greater.\n"
+"Picking up Greater restores {{0}} extra HP."
+
+msgid "无响应"
+msgstr "No Response"
+
+msgid "按 Ctrl + Alt + Delete 打开任务管理器。"
+msgstr "Press Ctrl + Alt + Delete to open Task Manager."
+
+msgid "弹幕"
+msgstr "Bullet Hell"
+
+msgid "——因为太长了看不清所以必须要慢下来……"
+msgstr "—Too long to see clearly, must slow down..."
+
+msgid "神经网络"
+msgstr "Neural Network"
+
+msgid "21世纪最伟大的发明。"
+msgstr "The greatest invention of the 21st century."
+
+msgid "等级提升时，额外使你的{{0}}和{{1}}两者中最高的属性+2。"
+msgstr "On leveling up, add +2 to the higher of {{0}} or {{1}}."
+
+msgid "魂火"
+msgstr "Soul Flame"
+
+msgid "燃尽你的灵魂。"
+msgstr "Consume your soul."
+
+msgid "每回合自动生成2个白色魂火，对接触到的敌人造成{{0}}伤害，或抵挡飞行道具。生效后会消失。"
+msgstr "Automatically generate 2 white Soul Flames per turn. Deal {{0}} damage to enemies or block projectiles. Disappear after activation."
+
+msgid "XIX.太阳"
+msgstr "XIX. The Sun"
+
+msgid "洞察一切真相，但权力在你手上。"
+msgstr "See all truths, but power is in your hands."
+
+msgid "环绕物变远。"
+msgstr "Orbital objects move farther away."
+
+msgid "XVII.星星"
+msgstr "XVII. The Star"
+
+msgid "希望，成长，获得新生。"
+msgstr "Hope, growth, rebirth."
+
+msgid "鱼"
+msgstr "Fish"
+
+msgid "它还活着！"
+msgstr "It's still alive!"
+
+msgid "暴击暴击"
+msgstr "Crit Overload"
+
+msgid "特别狠的一下。"
+msgstr "A particularly vicious hit."
+
+msgid "暴击率每超过100%，可固定多享有一次暴击收益，不足100%的部分可以再次判定暴击。"
+msgstr "Each 100% crit rate grants an additional guaranteed crit. The remainder can crit again."
+
+msgid "蜕变挽歌"
+msgstr "Elegy of Metamorphosis"
+
+msgid "为武器灌输神圣的力量。"
+msgstr "Infuse weapons with sacred power."
+
+msgid "生命大于50%时，普通攻击会释放和当前武器攻击相当的剑气。"
+msgstr "Normal attacks release sword waves equivalent to current weapon when HP >50%."
+
+msgid "弱欲之壶"
+msgstr "Vessel of Weak Desire"
+
+msgid "自己从卡组抽两张。"
+msgstr "Draw two cards from your deck."
+
+msgid "可获得道具 +2"
+msgstr "+2 obtainable items"
+
+msgid "爆炸胡桃"
+msgstr "Explosive Walnut"
+
+msgid "“我仅有的能力就是一颗火热的心，但这对于保护世界来说远远不够。”"
+msgstr "“My only ability is a fiery heart, but it's far from enough to protect the world.”"
+
+msgid "生成一个可以爆炸的环绕物，接触敌人时会产生爆炸并销毁，造成{{0}}伤害。\n"
+"这个环绕物有3秒的重置时间。"
+msgstr "Creates an explosive orb that detonates on enemy contact, dealing {{0}} damage.\n"
+"3s reset time for the orb."
+
+msgid "计分板"
+msgstr "Scoreboard"
+
+msgid "只要我掉血的够快，死亡就追不上我！"
+msgstr "If I lose HP fast enough, death can't catch me!"
+
+msgid "受到的伤害会缓慢结算，回合结束时清空未结算的剩余伤害。"
+msgstr "Damage is settled slowly, with remaining unsettled damage cleared at the end of the turn."
+
+msgid "银弹"
+msgstr "Silver Bullet"
+
+msgid "解决一切问题。"
+msgstr "Solves all problems."
+
+msgid "远程武器贯穿伤害不再衰减。"
+msgstr "Ranged penetration damage no longer decays."
+
+msgid "XIX.月亮"
+msgstr "XIX. The Moon"
+
+msgid "照亮你的内心。"
+msgstr "Illuminates your inner self."
+
+msgid "暴击会在敌人所在的位置产生一枚可以贯穿大量敌人的冰霜子弹，造成{{0}}伤害并暴击。\n"
+"每多持有一个月亮，会多产生一枚随机方向的冰霜子弹，但这枚子弹不会对中央的敌人造成更多次伤害。\n"
+"这个效果有1秒的冷却。"
+msgstr "Crits create a frost bullet at the enemy's position that penetrates many enemies, dealing {{0}} damage and critting.\n"
+"Each additional Moon creates another frost bullet in a random direction, but it won't hit the central enemy multiple times.\n"
+"1s cooldown."
+
+msgid "XXI.审判"
+msgstr "XXI. Judgment"
+
+msgid "唤醒潜能，自我审判。"
+msgstr "Awaken potential, judge yourself."
+
+msgid "每次升级降低1点攻击力。"
+msgstr "Loses 1 attack power each level up."
+
+msgid "IV.皇帝"
+msgstr "IV. The Emperor"
+
+msgid "无法违抗。"
+msgstr "Cannot be disobeyed."
+
+msgid "在有BOSS的回合开始时，获得一个护盾。"
+msgstr "Gain a shield at the start of rounds with a BOSS."
+
+msgid "VIII.力量"
+msgstr "VIII. Strength"
+
+msgid "并非蛮力。"
+msgstr "Not brute strength."
+
+msgid "合并图层"
+msgstr "Merge Layers"
+
+msgid "坏了！撤不回了！"
+msgstr "Broken! Can't undo!"
+
+msgid "所有属性不再下降。"
+msgstr "All attributes stop decreasing."
+
+msgid "看板娘"
+msgstr "Mascot Girl"
+
+msgid "所有的可选角色都是这位cosplay的。"
+msgstr "All playable characters are cosplayed by her."
+
+msgid "骑士"
+msgstr "Knight"
+
+msgid "其实这是一件盔甲，你只需要穿上它就好。战斗几乎是全自动的。"
+msgstr "This is actually a suit of armor. Just wear it. Combat is almost fully automatic."
+
+msgid "升级时以随机属性提升来代替自由加点。"
+msgstr "Random attribute increases on leveling instead of free point allocation."
+
+msgid "树"
+msgstr "Tree"
+
+msgid "圣诞快乐！"
+msgstr "Merry Christmas!"
+
+msgid "受到接触伤害时反弹同等伤害并击退。\n"
+"移动速度修正为20%。"
+msgstr "Reflect equal damage and knockback on contact damage.\n"
+"Movement speed modified to 20%."
+
+msgid "土豆"
+msgstr "Potato"
+
+msgid "拯救被异形占领的星球幸存者。"
+msgstr "Save survivors on a planet occupied by aliens."
+
+msgid "每两回合可以获得一把新武器，最多可以同时装备六把武器。\n"
+"每多装备一把武器会带来更低的伤害修正。"
+msgstr "Gain a new weapon every two rounds. Max six equipped weapons.\n"
+"Each additional weapon reduces damage modification."
+
+msgid "狩龙人"
+msgstr "Dragon Hunter"
+
+msgid "每次攻击动作会受到2点献祭伤害并积攒1点怒气，切换武器时怒气会重新计量。\n"
+"怒气累计到达5点时，切换武器后的第一次攻击为会造成巨额伤害的狂怒攻击。若此伤害为近战武器造成，则根据此伤害恢复自身生命值（这个恢复效果不会超过最大生命值的20%）。"
+msgstr "Each attack deals 2 sacrifice damage and generates 1 rage. Rage resets when switching weapons.\n"
+"At 5 rage, the first attack after switching is a furious attack dealing massive damage. If from a melee weapon, recover HP based on the damage (capped at 20% max HP)."
+
+msgid "神社巫女"
+msgstr "Shrine Maiden"
+
+msgid "攻击会积攒魂火，最多8团。这个效果有3秒冷却时间。\n"
+"魂火会环绕在角色周围，帮助角色抵挡子弹，并对接触的敌人造成200%的魔法伤害。\n"
+"持有魂火会使你的攻击力下降。"
+msgstr "Attacks generate Soul Flames (max 8). 3s cooldown.\n"
+"Soul Flames orbit the character, block bullets, and deal 200% magical damage to contacting enemies.\n"
+"Having Soul Flames reduces attack power."
+
+msgid "精灵"
+msgstr "Elf"
+
+msgid "只能装备两把相同的武器。\n"
+"切换武器时会进行一次闪躲。闪躲时不会受到伤害，同时临时提升暴击率。"
+msgstr "Can only equip two identical weapons.\n"
+"Switching weapons triggers a dodge. Dodging grants temporary crit rate boost and immunity to damage."
+
+msgid "勇者"
+msgstr "Hero"
+
+msgid "等级提升所需要的经验值更多。\n"
+"游戏结束会保留存档，再次选择该角色时可以读取上次游戏进度。"
+msgstr "Requires more XP to level up.\n"
+"Saves progress on game over. Can load last progress when selecting this character again."
+
+msgid "将军"
+msgstr "General"
+
+msgid "只能装备两把相同的武器。\n"
+"切换武器时会进行一次冲撞，对路径上的敌人造成50%的物理伤害，并在终点处产生一次地震。地震造成200%物理伤害并击退，其范围受角色攻击范围的影响。"
+msgstr "Can only equip two identical weapons.\n"
+"Switching weapons triggers a charge, dealing 50% physical damage to enemies along the path and causing an earthquake at the end point. The earthquake deals 200% physical damage with knockback, with range influenced by the character's attack range."
+
+msgid "朝圣者"
+msgstr "Pilgrim"
+
+msgid "你们打一架，打赢的去喂虫子。"
+msgstr "You fight, and the winner feeds the worms."
+
+msgid "生成一条圣蛇，持续追向玩家并冲刺。\n"
+"头部会对玩家造成伤害，身体会对接触到的敌人造成{{0}}伤害。"
+msgstr "Spawn a holy serpent that continuously pursues the player and dashes.\n"
+"The head damages the player, while the body deals {{0}} damage to contacting enemies."
+
+msgid "容器"
+msgstr "Vessel"
+
+msgid "若生命值已满时拾取生命药剂，你获得一次属性提升加点，但同时扣除{{0}}生命值，{{1}}护甲与{{2}}移动速度。"
+msgstr "If HP is full when picking up a health potion, gain one stat point allocation, but deduct {{0}} HP, {{1}} armor, and {{2}} movement speed."
+
+msgid "战斗人形"
+msgstr "Combat Android"
+
+msgid "伤害修正为80%。\n"
+"回合开始时生成一个环绕角色的魂火。若一段时间后魂火未被破坏，则角色获得一个[机魂]道具。机魂道具的叠加会为玩家带来不同的提升。"
+msgstr "Damage modified to 80%.\n"
+"Creates a Soul Flame around the character at the start of each turn. If undestroyed after a period, the character gains a [Mech Soul] item. Stacking Mech Souls provide different enhancements."
+
+msgid "商人"
+msgstr "Merchant"
+
+msgid "其实开店是为了攒钱上大鞋……"
+msgstr "Actually, running the shop is to save up for big shoes..."
+
+msgid "升级所需的经验值更多。\n"
+"获取经验值同时获取等量金币，回合结束时可以使用金币购买道具。\n"
+"宝箱不再提供自选道具，改为获得金币。"
+msgstr "Requires more XP to level up.\n"
+"Gaining XP also grants equal amount of gold. Use gold to buy items at the end of rounds.\n"
+"Chests no longer provide selectable items, instead grant gold."
+
+msgid "盗贼"
+msgstr "Rogue"
+
+msgid "花枝丸说用手柄玩特别有意思！"
+msgstr "Kazemaru says playing with a controller is especially fun!"
+
+msgid "更灵活的指定攻击方位。"
+msgstr "More flexible attack direction specification."
+
+msgid "爱丽丝"
+msgstr "Alice"
+
+msgid "陷入歇斯底里的疯狂吧……"
+msgstr "Fall into hysterical madness..."
+
+msgid "生命归零时进入癫狂状态，每秒持续流血{{0}}并获得{{1}}生命偷取（普通攻击产生击杀时恢复生命）。\n"
+"这个效果每回合限一次，每次触发永久增加{{2}}伤害倍率。"
+msgstr "Enter frenzy state when HP hits zero, bleeding {{0}} per second and gaining {{1}} life steal (restore HP on normal attack kills).\n"
+"This effect triggers once per round, permanently increasing damage multiplier by {{2}} each time."
+
+msgid "色欲"
+msgstr "Lust"
+
+msgid "Lust."
+msgstr "Lust."
+
+msgid "你的生命上限修正为{{0}}，同时失去所有生命恢复手段。\n"
+"但你的生命值会在回合开始时从满状态重新计算。"
+msgstr "Your max HP is modified to {{0}}, and you lose all HP recovery methods.\n"
+"However, your HP is recalculated from full at the start of each round."
+
+msgid "贪婪"
+msgstr "Greed"
+
+msgid "Greed."
+msgstr "Greed."
+
+msgid "经验收益翻倍。\n"
+"但无法选择升级属性。"
+msgstr "Double experience gains.\n"
+"Cannot select attributes to upgrade."
+
+msgid "懒惰"
+msgstr "Sloth"
+
+msgid "Sloth."
+msgstr "Sloth."
+
+msgid "将你的攻击力转化为 50% 的法术强度修正。\n"
+"但你的额外移速修正为 25%。"
+msgstr "Converts your attack power to 50% spell power modification.\n"
+"Additional movement speed is modified to 25%."
+
+msgid "愤怒"
+msgstr "Wrath"
+
+msgid "Wrath."
+msgstr "Wrath."
+
+msgid "你的伤害倍率修正为 120%。\n"
+"但你的护甲修正为 20%。"
+msgstr "Your damage multiplier is modified to 120%.\n"
+"Armor is modified to 20%."
+
+msgid "嫉妒"
+msgstr "Envy"
+
+msgid "Envy."
+msgstr "Envy."
+
+msgid "BOSS的生命值降低30%。"
+msgstr "Reduces BOSS HP by 30%."
+
+msgid "傲慢"
+msgstr "Pride"
+
+msgid "Pride."
+msgstr "Pride."
+
+msgid "将你的法术强度转化为 50% 的攻击力修正。\n"
+"但你的额外攻击范围修正为 50%。"
+msgstr "Converts your spell power to 50% attack power modification.\n"
+"Additional attack range is modified to 50%."
+
+msgid "暴食"
+msgstr "Gluttony"
+
+msgid "Gluttony."
+msgstr "Gluttony."
+
+msgid "自动拾取所有掉落的经验。"
+msgstr "Automatically picks up all dropped experience."
+
+msgid "慷慨"
+msgstr "Charity"
+
+msgid "Charity."
+msgstr "Charity."
+
+msgid "升级时，你的属性品质提高一个等级。"
+msgstr "Attribute quality increases by one grade on leveling up."
+
+msgid "贞洁"
+msgstr "Chastity"
+
+msgid "Chastity."
+msgstr "Chastity."
+
+msgid "每{{0}}秒恢复{{1}}生命值。"
+msgstr "Restores {{1}} HP every {{0}} seconds."
+
+msgid "勤奋"
+msgstr "Diligence"
+
+msgid "Diligence."
+msgstr "Diligence."
+
+msgid "获得等同于等级的攻击力修正。"
+msgstr "Gains attack power modification equal to level."
+
+msgid "温和"
+msgstr "Patience"
+
+msgid "Patience."
+msgstr "Patience."
+
+msgid "成功闪避攻击时恢复生命值。\n"
+"闪避修正+20%，允许溢出闪避属性上限。"
+msgstr "Restores HP on successful dodge.\n"
+"Dodge modification +20%, allowing exceedance of dodge attribute cap."
+
+msgid "宽容"
+msgstr "Kindness"
+
+msgid "Kindness."
+msgstr "Kindness."
+
+msgid "BOSS的生命值降低30%。"
+msgstr "Reduces BOSS HP by 30%."
+
+msgid "谦逊"
+msgstr "Humility"
+
+msgid "Humility."
+msgstr "Humility."
+
+msgid "获得等同于等级的法术强度修正。"
+msgstr "Gains spell power modification equal to level."
+
+msgid "节制"
+msgstr "Temperance"
+
+msgid "Temperance."
+msgstr "Temperance."
+
+msgid "自动拾取所有掉落的经验。"
+msgstr "Automatically picks up all dropped experience."
+
+msgid "空手"
+msgstr "Unarmed"
+
+msgid "啥也没有"
+msgstr "Nothing"
+
+msgid "手枪"
+msgstr "Pistol"
+
+msgid "非常破旧的手枪，曾经被一众充满信仰与希望的骑士用作入门练习的新人武器。"
+msgstr "A very worn pistol, once used by knights full of faith and hope as a practice weapon for newcomers."
+
+msgid "长矛"
+msgstr "Spear"
+
+msgid "沉重的长矛，见证了无数文明的兴衰和战争的残酷。"
+msgstr "A heavy spear that has witnessed the rise and fall of countless civilizations and the cruelty of war."
+
+msgid "无锋剑"
+msgstr "Edgeless Sword"
+
+msgid "“少年人的梦想，踏上旅途的兴奋。”"
+msgstr "“A young man's dream, the excitement of setting off on a journey.”"
+
+msgid "AK47"
+msgstr "AK47"
+
+msgid "在现代战争的钢铁风暴中，AK-47以其无与伦比的耐用性和致命的火力，成为了战场上的传奇。"
+msgstr "In the steel storms of modern warfare, the AK-47 has become a legend on the battlefield with its unparalleled durability and lethal firepower."
+
+msgid "光子法杖"
+msgstr "Photon Staff"
+
+msgid "有什么东西能快得过光呢？"
+msgstr "What can be faster than light?"
+
+msgid "豆射手"
+msgstr "Peashooter"
+
+msgid "“嘿！不要忘了吃早餐！”"
+msgstr "“Hey! Don't forget to have breakfast!”"
+
+msgid "霰弹枪"
+msgstr "Shotgun"
+
+msgid "经典的泵动式霰弹枪，拉动护木的声音依旧清脆且安全可靠。"
+msgstr "A classic pump-action shotgun, the sound of pulling the slide is still crisp and reliable."
+
+msgid "无限真空刃"
+msgstr "Infinite Vacuum Blade"
+
+msgid "以无数的真空之刃将敌人切碎。"
+msgstr "Shreds enemies with countless vacuum blades."
+
+msgid "手里剑"
+msgstr "Shuriken"
+
+msgid "每一名忍者的必备武器，更是那些精通潜行和暗杀技巧的战士们的得力助手。"
+msgstr "An essential weapon for every ninja, and a trusted assistant for warriors skilled in stealth and assassination."
+
+msgid "火焰法杖"
+msgstr "Flame Staff"
+
+msgid "有什么东西能烧得过火呢？"
+msgstr "What can burn hotter than fire?"
+
+msgid "鲜红魔镰"
+msgstr "Crimson Demon Scythe"
+
+msgid "化身流丽死神，手持不死身躯之血铸成的魔镰奋战。"
+msgstr "Become a beautiful reaper, fighting with a demon scythe forged from the blood of undead bodies."
+
+msgid "西洋剑"
+msgstr "Rapier"
+
+msgid "感受优雅的战斗艺术。"
+msgstr "Experience the elegant art of combat."
+
+msgid "弹弓"
+msgstr "Slingshot"
+
+msgid "“半夜打你家玻璃！”"
+msgstr "“Breaking your windows at midnight!”"
+
+msgid "苦无"
+msgstr "Kunai"
+
+msgid "每一名忍者的必备武器，更是那些行走在阴影中的刺客们的首选武器。"
+msgstr "An essential weapon for every ninja, and the preferred weapon for assassins who walk in shadows."
+
+msgid "灵体长矛"
+msgstr "Ethereal Spear"
+
+msgid "似乎有一股淡淡的鱼腥味，这让你充满了决心。"
+msgstr "There seems to be a faint fishy smell, which fills you with determination."
+
+msgid "战斧"
+msgstr "Battle Axe"
+
+msgid "“兽人永不为奴！”"
+msgstr "“Orcs shall never be slaves!”"
+
+msgid "空手？"
+msgstr "Unarmed?"
+
+msgid "觉醒了杀意之波动，即便赤手空拳也能爆发出强大的杀伤力。"
+msgstr "Awakened the波动 of murderous intent, even unarmed can unleash powerful killing power."
+
+msgid "妈妈的菜刀"
+msgstr "Mom's Kitchen Knife"
+
+msgid "戳！戳！戳！"
+msgstr "Stab! Stab! Stab!"
+
+msgid "M4A1"
+msgstr "M4A1"
+
+msgid "在现代战场的无情风暴中，M4A1以其无与伦比的适应性和致命的精确度，成为了士兵们手中的信赖之选。"
+msgstr "In the relentless storms of modern battlefields, the M4A1 has become the trusted choice for soldiers with its unparalleled adaptability and lethal accuracy."
+
+msgid "M870"
+msgstr "M870"
+
+msgid "在现代战场中，M870以其泵动式的威力和模块化的灵活性，成为了战士们手中的毁灭使者。"
+msgstr "On modern battlefields, the M870 has become a harbinger of destruction for warriors with its pump-action power and modular flexibility."
+
+msgid "十字架"
+msgstr "Crucifix"
+
+msgid "别把他带进恶魔城。"
+msgstr "Don't bring it into Castle Dracula."
+
+msgid "XIII.死亡"
+msgstr "XIII. Death"
+
+msgid "无谓的反抗。"
+msgstr "Futile resistance."
+
+msgid "新手"
+msgstr "Novice"
+
+msgid "完成一轮游戏。"
+msgstr "Complete one round of the game."
+
+msgid "老手"
+msgstr "Veteran"
+
+msgid "通关一轮游戏。"
+msgstr "Clear one round of the game."
+
+msgid "好身手！"
+msgstr "Great skills!"
+
+msgid "闪避率达到 60%。"
+msgstr "Dodge rate reaches 60%."
+
+msgid "飞毛腿"
+msgstr "Swift Runner"
+
+msgid "速度达到 2。"
+msgstr "Speed reaches 2."
+
+msgid "钢手"
+msgstr "Iron Fist"
+
+msgid "护甲达到 20。"
+msgstr "Armor reaches 20."
+
+msgid "暗影魔术手"
+msgstr "Shadow Magician"
+
+msgid "持有【伤害类型为法术的武器】通关。"
+msgstr "Clear the game with weapons of spell damage type."
+
+msgid "长手"
+msgstr "Long Arm"
+
+msgid "攻击距离达到 200。"
+msgstr "Attack range reaches 200."
+
+msgid "回春妙手"
+msgstr "Healing Touch"
+
+msgid "药瓶恢复达到 20。"
+msgstr "Potion recovery reaches 20."
+
+msgid "好多手！"
+msgstr "So many hands!"
+
+msgid "持有至少 3 个道具【铁匠锤子】。"
+msgstr "Possess at least 3 items of [Blacksmith Hammer]."
+
+msgid "持家能手"
+msgstr "Household Expert"
+
+msgid "通关时持有道具数量不超过 20。"
+msgstr "Clear the game with no more than 20 items."
+
+msgid "运营大师欧菲手"
+msgstr "Operations Master O'Fei Hand"
+
+msgid "使用角色【土豆】时获取了道具【双持】。"
+msgstr "Acquire the item [Dual Wield] when using the character [Potato]."
+
+msgid "圣手"
+msgstr "Holy Hand"
+
+msgid "获得一次5级具。"
+msgstr "Obtain a level 5 item once."
+
+msgid "我全都要（伸手）！"
+msgstr "I want it all (reach out)!"
+
+msgid "获得道具【坏点】。"
+msgstr "Acquire the item [Bad Spot]."
+
+msgid "我还留了一手！"
+msgstr "I've kept one more!"
+
+msgid "通关时持有复活道具。"
+msgstr "Clear the game while holding a revival item."
+
+msgid "空手？"
+msgstr "Unarmed?"
+
+msgid "在武器有空位的情况下通关。"
+msgstr "Clear the game with weapon slots available."
+
+msgid "真正的高手"
+msgstr "True Master"
+
+msgid "在不持有道具【读取存档】的情况下使用【勇者】通关。"
+msgstr "Clear the game using [Hero] without holding the item [Load Save]."
+
+msgid "人类荣光"
+msgstr "Glory of Humanity"
+
+msgid "使用角色【战斗人形】，在游戏结束时持有至少 20 个道具【机魂】。"
+msgstr "Use the character [Combat Android] and hold at least 20 [Mech Soul] items at game end."
+
+msgid "毕业了！"
+msgstr "Graduated!"
+
+msgid "在标准难度下使用【初始角色】通关游戏。"
+msgstr "Clear the game on Standard difficulty using [Initial Character]."
+
+msgid "冲刺！冲！"
+msgstr "Sprint! Charge!"
+
+msgid "在标准难度下使用【骑士】通关游戏。"
+msgstr "Clear the game on Standard difficulty using [Knight]."
+
+msgid "花园保卫战"
+msgstr "Garden Defense"
+
+msgid "在标准难度下使用【树】通关游戏。"
+msgstr "Clear the game on Standard difficulty using [Tree]."
+
+msgid "全能者"
+msgstr "Omni-Expert"
+
+msgid "在标准难度下使用【土豆】通关游戏。"
+msgstr "Clear the game on Standard difficulty using [Potato]."
+
+msgid "狩猎艺术"
+msgstr "Art of Hunting"
+
+msgid "在标准难度下使用【狩龙人】通关游戏。"
+msgstr "Clear the game on Standard difficulty using [Dragon Hunter]."
+
+msgid "日常清扫"
+msgstr "Daily Cleanup"
+
+msgid "在标准难度下使用【神社巫女】通关游戏。"
+msgstr "Clear the game on Standard difficulty using [Shrine Maiden]."
+
+msgid "修行还在继续……"
+msgstr "Training continues..."
+
+msgid "在标准难度下使用【精灵】通关游戏。"
+msgstr "Clear the game on Standard difficulty using [Elf]."
+
+msgid "修行刚刚开始！"
+msgstr "Training has just begun!"
+
+msgid "在标准难度下使用【勇者】通关游戏。"
+msgstr "Clear the game on Standard difficulty using [Hero]."
+
+msgid "半人马之力"
+msgstr "Centaur's Strength"
+
+msgid "在标准难度下使用【将军】通关游戏。"
+msgstr "Clear the game on Standard difficulty using [General]."
+
+msgid "朝圣者"
+msgstr "Pilgrim"
+
+msgid "在标准难度下使用【朝圣者】通关游戏。"
+msgstr "Clear the game on Standard difficulty using [Pilgrim]."
+
+msgid "纳垢"
+msgstr "Nurgle"
+
+msgid "在标准难度下使用【容器】通关游戏。"
+msgstr "Clear the game on Standard difficulty using [Vessel]."
+
+msgid "灭绝"
+msgstr "Extinction"
+
+msgid "在标准难度下使用【战斗人形】通关游戏。"
+msgstr "Clear the game on Standard difficulty using [Combat Android]."
+
+msgid "上大鞋！"
+msgstr "Get the Big Shoes!"
+
+msgid "在标准难度下使用【商人】通关游戏。"
+msgstr "Clear the game on Standard difficulty using [Merchant]."
+
+msgid "精准手法"
+msgstr "Precision Technique"
+
+msgid "在标准难度下使用【盗贼】通关游戏。"
+msgstr "Clear the game on Standard difficulty using [Rogue]."
+
+msgid "梦游"
+msgstr "Sleepwalking"
+
+msgid "在标准难度下使用【爱丽丝】通关游戏。"
+msgstr "Clear the game on Standard difficulty using [Alice]."
+
+msgid "史莱姆王"
+msgstr "Slime King"
+
+msgid "肚子里似乎有什么宝贝……"
+msgstr "There seems to be some treasure in its belly..."
+
+msgid "幽灵王"
+msgstr "Ghost King"
+
+msgid "其实只是一张床单……"
+msgstr "It's actually just a bedsheet..."
+
+msgid "骷髅王"
+msgstr "Skeleton King"
+
+msgid "死过一次……但还不够"
+msgstr "Died once... but it's not enough"
+
+msgid "骑士首领"
+msgstr "Knight Captain"
+
+msgid "火力压制！"
+msgstr "Fire Suppression!"
+
+msgid "戈多石像"
+msgstr "Statue of Gogo"
+
+msgid "创世之神！"
+msgstr "Creator God!"
+
+msgid "战斗阶段未收集的经验点数会在回合结束时部分自动收集。"
+msgstr "Uncollected experience points during combat phases are partially auto-collected at the end of rounds."
+
+msgid "切换武器会重置攻击动作，但切换武器存在冷却时间。"
+msgstr "Switching weapons resets attack animations, but has a cooldown."
+
+msgid "攻速属性对法杖类武器的攻击频率影响较小。"
+msgstr "Attack speed has less impact on staff weapons' attack frequency."
+
+msgid "不同武器对各属性的利用效率不同。"
+msgstr "Different weapons have varying efficiency in utilizing attributes."
+
+msgid "幸运属性会影响宝箱中的道具等级分布。幸运属性过低时，宝箱内不会开出高级道具，且无法获得高级武器。幸运属性较高时，宝箱内会移除低等级道具。"
+msgstr "Luck affects item grade distribution in chests. Low luck prevents high-grade items and weapons. High luck removes low-grade items from chests."
+
+msgid "击杀体型变大的精英怪物可以获得掉落物。当有剩余道具时，掉落物固定为宝箱，否则固定为药剂。"
+msgstr "Defeating enlarged elite monsters grants drops. With remaining items, drops are fixed as chests; otherwise, fixed as potions."
+
+msgid "生命值越低，怪物掉落药剂的概率越高。"
+msgstr "Lower HP increases the chance of monsters dropping potions."
+
+msgid "连续多回合不受到伤害会获得“神秘奖励”。"
+msgstr "Taking no damage for multiple consecutive rounds grants a 'Mysterious Reward'."
+
+msgid "击败BOSS会获得丰厚的额外奖励。"
+msgstr "Defeating a BOSS grants generous additional rewards."
+
+msgid "回到游戏"
+msgstr "Resume Game"
+
+msgid "设置"
+msgstr "Settings"
+
+msgid "结束本局"
+msgstr "End Game"
+
+msgid "返回标题画面"
+msgstr "Return to Title Screen"
+
+msgid "成就"
+msgstr "Achievements"
+
+msgid "解锁："
+msgstr "Unlocked:"
+
+msgid "图鉴"
+msgstr "Compendium"
+
+msgid "游戏结束"
+msgstr "Game Over"
+
+msgid "再来一局"
+msgstr "Play Again"
+
+msgid "回到标题画面"
+msgstr "Return to Title Screen"
+
+msgid "无尽模式"
+msgstr "Endless Mode"
+
+msgid "角色"
+msgstr "Character"
+
+msgid "武器"
+msgstr "Weapon"
+
+msgid "道具"
+msgstr "Item"
+
+msgid "媒体设置"
+msgstr "Media Settings"
+
+msgid "游戏设置"
+msgstr "Game Settings"
+
+msgid "返回"
+msgstr "Back"
+
+msgid "返回上级"
+msgstr "Return to Parent"
+
+msgid "音乐音效"
+msgstr "Music and Sound Effects"
+
+msgid "显示效果"
+msgstr "Display Effects"
+
+msgid "音乐音量"
+msgstr "Music Volume"
+
+msgid "音效音量"
+msgstr "Sound Effects Volume"
+
+msgid "全屏"
+msgstr "Fullscreen"
+
+msgid "动态伤害显示"
+msgstr "Dynamic Damage Display"
+
+msgid "屏幕暗角"
+msgstr "Screen Darkening"
+
+msgid "屏幕抖动"
+msgstr "Screen Shake"
+
+msgid "语言"
+msgstr "Language"
+
+msgid "默认标准难度"
+msgstr "Default Standard Difficulty"
+
+msgid "属性"
+msgstr "Stats"
+
+msgid "物品"
+msgstr "Items"
+
+msgid "StatsPanel"
+msgstr "Stats Panel"
+
+msgid "TreasuresPanel"
+msgstr "Treasures Panel"
+
+msgid "达成成就！"
+msgstr "Achievement Unlocked!"
+
+msgid "好！"
+msgstr "OK!"
+
+msgid "Not Survivors"
+msgstr "Not Survivors"
+
+msgid "继续"
+msgstr "Continue"
+
+msgid "开始游戏"
+msgstr "Start Game"
+
+msgid "关于"
+msgstr "About"
+
+msgid "退出"
+msgstr "Exit"
+
+msgid "新！"
+msgstr "New!"
+
+msgid "购买"
+msgstr "Buy"
+
+msgid "锁定"
+msgstr "Lock"
+
+msgid "选择难度"
+msgstr "Select Difficulty"
+
+msgid ""
+"简单难度：\n"
+"\n"
+"回合结束[color=skyblue]自动回收80%经验值[/color]。\n"
+"敌人的[color=green]生命[/color]和[color=yellow]伤害[/color]会更低。\n"
+"生命值会以[color=royalblue]人畜无害的蓝色[/color]显示。\n"
+"[color=red]无法解锁完整成就[/color]。"
+msgstr ""
+"Easy Difficulty:\n"
+"\n"
+"At the end of each round, [color=skyblue]80% of experience is automatically recovered[/color].\n"
+"Enemies have lower [color=green]health[/color] and [color=yellow]damage[/color].\n"
+"Health values are displayed in [color=royalblue]harmless blue[/color].\n"
+"[color=red]Cannot unlock full achievements[/color]."
+
+msgid "选择"
+msgstr "Select"
+
+msgid ""
+"标准难度：\n"
+"\n"
+"回合结束[color=red]只自动回收50%经验值[/color]。\n"
+"[color=red]敌人伤害会越来越高[/color]。\n"
+"游戏结束后可以进入[color=skyblue]无尽模式[/color]。\n"
+"[color=gray]这是游戏设计原本的预期难度。[/color]"
+msgstr ""
+"Standard Difficulty:\n"
+"\n"
+"At the end of each round, [color=red]only 50% of experience is automatically recovered[/color].\n"
+"[color=red]Enemy damage increases progressively[/color].\n"
+"After game over, you can enter [color=skyblue]Endless Mode[/color].\n"
+"[color=gray]This is the originally intended difficulty of the game design.[/color]"
+
+msgid "装备到这里"
+msgstr "Equip Here"
+
+msgid "装备武器到……"
+msgstr "Equip Weapon To..."
+
+msgid "放弃"
+msgstr "Abandon"
+
+msgid "角色选择"
+msgstr "Character Selection"
+
+msgid "等级提升！"
+msgstr "Level Up!"
+
+msgid "继续前进"
+msgstr "Proceed"
+
+msgid "获得道具！"
+msgstr "Acquire Item!"
+
+msgid "重置"
+msgstr "Reset"
+
+msgid "购买道具！"
+msgstr "Buy Items!"
+
+msgid "结束"
+msgstr "Finish"
+
+msgid "我们安全了，暂时的。"
+msgstr "We're safe, for now."
+
+msgid "你听到了吗？"
+msgstr "Did you hear that?"
+
+msgid ""
+msgstr ""
+
+msgid "已完成"
+msgstr "Completed"
+
+msgid "无尽"
+msgstr "Endless"
+
+msgid "失败"
+msgstr "Failed"
+
+msgid "时间到！"
+msgstr "Time's Up!"
+
+msgid "第%d波/共%d波"
+msgstr "Wave %d/%d"
+
+msgid "第%d波/无尽"
+msgstr "Wave %d/Endless"
+
+msgid "提示："
+msgstr "Tip: "
+
+msgid "唯一"
+msgstr "Unique"
+
+msgid "???"
+msgstr "???"
+
+msgid "已购买"
+msgstr "Purchased"
+
+msgid "[解锁]"
+msgstr "[Unlocked]"
+
+msgid "幸运消耗%d"
+msgstr "Luck Consumed: %d"
+
+msgid "刷新"
+msgstr "Refresh"
+
+msgid "金币"
+msgstr "Gold"
+
+msgid "【唯一】"
+msgstr "[Unique]"
+
+msgid "波次"
+msgstr "Wave"
+
+msgid "等级"
+msgstr "Level"
+
+msgid "生命值"
+msgstr "Hit Point"
+
+msgid "可获得道具"
+msgstr "Acquirable Items"
+
+msgid "拾取范围"
+msgstr "Pickup Range"
+
+msgid "伤害"
+msgstr "Damage"
+
+msgid "冷却"
+msgstr "Cooldown"
+
+msgid "范围"
+msgstr "Range"
+
+msgid "暴击率"
+msgstr "Crit Rate"
+
+msgid "暴击效果"
+msgstr "Crit Effect"
+
+msgid "击退"
+msgstr "Knockback"
+
+msgid "生命偷取"
+msgstr "Life Steal"
+
+msgid "吸收"
+msgstr "Absorb"
+
+msgid "攻击力"
+msgstr "Attack Power"
+
+msgid "法术强度"
+msgstr "Spell Power"
+
+msgid "伤害倍率"
+msgstr "Damage Multiplier"
+
+msgid "攻击速度"
+msgstr "Attack Speed"
+
+msgid "速度"
+msgstr "Speed"
+
+msgid "攻击范围"
+msgstr "Attack Range"
+
+msgid "幸运"
+msgstr "Luck"
+
+msgid "生命上限"
+msgstr "Max Hit Point"
+
+msgid "护甲"
+msgstr "Armor"
+
+msgid "闪避率"
+msgstr "Dodge Rate"
+
+msgid "贯穿"
+msgstr "Penetration"
+
+msgid "药瓶恢复"
+msgstr "Potion Recovery"
+
+msgid "回合恢复"
+msgstr "Turn Recovery"
+
+msgid "物理"
+msgstr "Physical"
+
+msgid "法术"
+msgstr "Magical"
+
+msgid "影响物理攻击效益。随等级提升自然增长。"
+msgstr "Affects physical attack efficiency. Naturally increases with level."
+
+msgid "影响法术攻击效益。随等级提升自然增长。"
+msgstr "Affects magical attack efficiency. Naturally increases with level."
+
+msgid "影响所有攻击效果的收益。"
+msgstr "Affects the returns of all attack effects."
+
+msgid "影响武器的攻击动作间隔。"
+msgstr "Affects the interval between weapon attack animations."
+
+msgid "影响人物移动速度。上限为2。"
+msgstr "Affects character movement speed. Cap is 2."
+
+msgid "影响武器攻击动作的感知距离，影响近战武器的体积。"
+msgstr "Affects the perception distance of weapon attacks and the volume of melee weapons."
+
+msgid "影响武器暴击触发概率，影响攻击特效触发概率。"
+msgstr "Affects weapon critical trigger probability and attack special effect trigger probability."
+
+msgid "影响等级提升时的属性质量，影响道具品质。"
+msgstr "Affects attribute quality on leveling up and item quality."
+
+msgid "人物最大生命值。随等级提升自然增长。"
+msgstr "Character's maximum hitpoint. Naturally increases with level."
+
+msgid "人物受到攻击时，按照护甲值减免一部分伤害。"
+msgstr "Reduces damage taken based on armor value."
+
+msgid "人物受到飞行道具攻击时，依照概率免受此伤害。上限为60%。"
+msgstr "Grants a chance to avoid damage from projectile attacks. Cap is 60%."
+
+msgid "影响武器暴击伤害。"
+msgstr "Affects weapon critical damage."
+
+msgid "枪械"
+msgstr "Firearms"
+
+msgid "冷兵器"
+msgstr "Cold Weapons"
+
+msgid "魔法"
+msgstr "Magic"
+
+msgid "溅射"
+msgstr "Splash"
+
+msgid "弹射"
+msgstr "Bounce"
+
+msgid "随从"
+msgstr "Follower"
+
+msgid "投射物"
+msgstr "Projectile"
+
+msgid "本回合内可能掉落的宝箱数量。每回合会自然增加1，拾取宝箱会扣除。"
+msgstr "Number of chests that may drop this round. Increases naturally by 1 each round, and is deducted when picking up chests."
+
+msgid "闪避"
+msgstr "Dodge"
+
+msgid "格挡"
+msgstr "Block"
+
+msgid "升级"
+msgstr "Level Up"
+
+msgid "吸收机魂"
+msgstr "Absorb Mech Soul"
