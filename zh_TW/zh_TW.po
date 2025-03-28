@@ -1183,7 +1183,7 @@ msgid "Envy."
 msgstr "Envy."
 
 msgid "BOSS的生命值降低30%。"
-msgstr ""BOSS的生命值降低30%。"
+msgstr "BOSS的生命值降低30%。"
 
 msgid "傲慢"
 msgstr "傲慢"
