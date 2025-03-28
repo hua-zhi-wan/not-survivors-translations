@@ -259,7 +259,7 @@ msgstr ""
 msgid "可以坐的椅子"
 msgstr ""
 
-msgid "？：3A大作的门槛（确信"
+msgid "3A大作的门槛（确信"
 msgstr ""
 
 msgid "回合结束时恢复一定血量。"

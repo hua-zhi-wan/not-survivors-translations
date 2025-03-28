@@ -315,6 +315,10 @@ msgid "开始游戏"
 msgstr ""
 
 #: scenes/ui/title_menu/title_ui.tscn
+msgid "关于"
+msgstr ""
+
+#: scenes/ui/title_menu/title_ui.tscn
 msgid "退出"
 msgstr ""
 
@@ -429,6 +433,10 @@ msgstr ""
 
 #: scripts/ui/game_over_panel.gd
 msgid "失败"
+msgstr ""
+
+#: scripts/ui/hud.gd
+msgid "时间到！"
 msgstr ""
 
 #: scripts/ui/hud.gd
