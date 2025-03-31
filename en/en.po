@@ -733,7 +733,7 @@ msgid "色欲"
 msgstr "Lust"
 
 msgid "Lust."
-msgstr "Lust."
+msgstr "Libido."
 
 msgid "你的生命上限修正为{{0}}，同时失去所有生命恢复手段。\n"
 "但你的生命值会在回合开始时从满状态重新计算。"
@@ -744,7 +744,7 @@ msgid "贪婪"
 msgstr "Greed"
 
 msgid "Greed."
-msgstr "Greed."
+msgstr "Avaritia."
 
 msgid "经验收益翻倍。\n"
 "但无法选择升级属性。"
@@ -755,7 +755,7 @@ msgid "懒惰"
 msgstr "Sloth"
 
 msgid "Sloth."
-msgstr "Sloth."
+msgstr "Desidia."
 
 msgid "将你的攻击力转化为 50% 的法术强度修正。\n"
 "但你的额外移速修正为 25%。"
@@ -766,7 +766,7 @@ msgid "愤怒"
 msgstr "Wrath"
 
 msgid "Wrath."
-msgstr "Wrath."
+msgstr "Irae."
 
 msgid "你的伤害倍率修正为 120%。\n"
 "但你的护甲修正为 20%。"
@@ -777,7 +777,7 @@ msgid "嫉妒"
 msgstr "Envy"
 
 msgid "Envy."
-msgstr "Envy."
+msgstr "Invidia."
 
 msgid "BOSS的生命值降低30%。"
 msgstr "Reduces BOSS HP by 30%."
@@ -786,7 +786,7 @@ msgid "傲慢"
 msgstr "Pride"
 
 msgid "Pride."
-msgstr "Pride."
+msgstr "Superbia."
 
 msgid "将你的法术强度转化为 50% 的攻击力修正。\n"
 "但你的额外攻击范围修正为 50%。"
@@ -797,7 +797,7 @@ msgid "暴食"
 msgstr "Gluttony"
 
 msgid "Gluttony."
-msgstr "Gluttony."
+msgstr "Gula."
 
 msgid "自动拾取所有掉落的经验。"
 msgstr "Automatically picks up all dropped experience."
@@ -806,7 +806,7 @@ msgid "慷慨"
 msgstr "Charity"
 
 msgid "Charity."
-msgstr "Charity."
+msgstr "Caritas."
 
 msgid "升级时，你的属性品质提高一个等级。"
 msgstr "Attribute quality increases by one grade on leveling up."
@@ -815,7 +815,7 @@ msgid "贞洁"
 msgstr "Chastity"
 
 msgid "Chastity."
-msgstr "Chastity."
+msgstr "Castitas."
 
 msgid "每{{0}}秒恢复{{1}}生命值。"
 msgstr "Restores {{1}} HP every {{0}} seconds."
@@ -824,7 +824,7 @@ msgid "勤奋"
 msgstr "Diligence"
 
 msgid "Diligence."
-msgstr "Diligence."
+msgstr "Diligentia."
 
 msgid "获得等同于等级的攻击力修正。"
 msgstr "Gains attack power modification equal to level."
@@ -833,7 +833,7 @@ msgid "温和"
 msgstr "Patience"
 
 msgid "Patience."
-msgstr "Patience."
+msgstr "Patientia."
 
 msgid "成功闪避攻击时恢复生命值。\n"
 "闪避修正+20%，允许溢出闪避属性上限。"
@@ -844,7 +844,7 @@ msgid "宽容"
 msgstr "Kindness"
 
 msgid "Kindness."
-msgstr "Kindness."
+msgstr "Benignitas."
 
 msgid "BOSS的生命值降低30%。"
 msgstr "Reduces BOSS HP by 30%."
@@ -853,7 +853,7 @@ msgid "谦逊"
 msgstr "Humility"
 
 msgid "Humility."
-msgstr "Humility."
+msgstr "Humilitas."
 
 msgid "获得等同于等级的法术强度修正。"
 msgstr "Gains spell power modification equal to level."
@@ -862,7 +862,7 @@ msgid "节制"
 msgstr "Temperance"
 
 msgid "Temperance."
-msgstr "Temperance."
+msgstr "Temperantia."
 
 msgid "自动拾取所有掉落的经验。"
 msgstr "Automatically picks up all dropped experience."
