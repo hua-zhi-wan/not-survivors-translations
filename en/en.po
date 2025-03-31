@@ -553,7 +553,7 @@ msgid "照亮你的内心。"
 msgstr "Illuminates your inner self."
 
 msgid "暴击会在敌人所在的位置产生一枚可以贯穿大量敌人的冰霜子弹，造成{{0}}伤害并暴击。\n"
-"每多持有一个月亮，会多产生一枚随机方向的冰霜modified子弹，但这枚子弹不会对中央的敌人造成更多次伤害。\n"
+"每多持有一个月亮，会多产生一枚随机方向的冰霜子弹，但这枚子弹不会对中央的敌人造成更多次伤害。\n"
 "这个效果有1秒的冷却。"
 msgstr "Crits create a frost bullet at the enemy's position that can penetrate many enemies, dealing {{0}} damage and critting.\n"
 "Each Moon creates an extra frost bullet in a random direction, but it won't deal more damage to the central enemy.\n"
