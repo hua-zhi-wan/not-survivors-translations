@@ -1465,7 +1465,7 @@ msgid "失败"
 msgstr "Failed"
 
 msgid "时间到！"
-msgstr "Time's Up!"
+msgstr "Time Up!"
 
 msgid "第%d波/共%d波"
 msgstr "Wave %d/%d"
