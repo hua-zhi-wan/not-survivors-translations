@@ -1,7 +1,7 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Not-Survivors\n"
-"MIME-Version: 1.0\n"
 "Last-Translator: hua-zhi-wan <###########@##.###>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"

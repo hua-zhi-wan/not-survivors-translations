@@ -9,7 +9,7 @@ def update_translations():
     ws = wb.active
 
     # 读取语言列表
-    languages = [cell.value for cell in ws[1]][1:]  # 跳过zh_CN列
+    languages = [cell.value for cell in ws[1]][0:]  # 跳过zh_CN列
 
     # 构建翻译数据 {msgid: {lang: translation}}
     translations = {}
@@ -19,7 +19,7 @@ def update_translations():
             continue
 
         translations[msgid] = {
-            lang: row[i + 1].value or "" for i, lang in enumerate(languages)
+            lang: row[i].value or "" for i, lang in enumerate(languages)
         }
 
     # 更新各语言文件
