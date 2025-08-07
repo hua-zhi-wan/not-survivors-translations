@@ -64,7 +64,6 @@
 # res://scripts/ui/title_screen.gd
 # res://scripts/ui/treasures_panel.gd
 # res://scripts/ui/upgrades.gd
-# res://scripts/ui/virtual_joypad.gd
 # res://scripts/resources/achievement_item.gd
 # res://scripts/resources/bullet_pack.gd
 # res://scripts/resources/character_item.gd
@@ -142,6 +141,13 @@
 # res://scripts/player/player.gd
 # res://scripts/player/satellite.gd
 # res://scripts/player/weapon.gd
+# res://scripts/ui/about.gd
+# res://scripts/ui/get_icon_effect.gd
+# res://scripts/ui/hover_sfx.gd
+# res://scripts/ui/joypad.gd
+# res://scripts/ui/tutorial_panel.gd
+# res://scripts/ui/virtual_controller.gd
+# res://scenes/ui/tutorial_panel.tscn
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
@@ -211,6 +217,7 @@ msgstr ""
 
 #: scenes/ui/game_over_menu/game_over.tscn
 #: scripts/ui/selected_item.gd
+#: scripts/resources/character_item.gd
 msgid "武器"
 msgstr ""
 
@@ -278,6 +285,22 @@ msgstr ""
 msgid "默认标准难度"
 msgstr ""
 
+#: scenes/ui/settings_menu/settings.tscn
+msgid "游戏外使用完整描述"
+msgstr ""
+
+#: scenes/ui/settings_menu/settings.tscn
+msgid "简单难度下使用完整描述"
+msgstr ""
+
+#: scenes/ui/settings_menu/settings.tscn
+msgid "普通难度下使用完整描述"
+msgstr ""
+
+#: scenes/ui/side_panel/side_panel.tscn
+msgid "事件："
+msgstr ""
+
 #: scenes/ui/side_panel/side_panel.tscn
 msgid "属性"
 msgstr ""
@@ -286,12 +309,12 @@ msgstr ""
 msgid "物品"
 msgstr ""
 
-#: scenes/ui/side_panel/side_panel.tscn
-msgid "StatsPanel"
+#: scenes/ui/side_panel/treasures_panel.tscn
+msgid "道具："
 msgstr ""
 
-#: scenes/ui/side_panel/side_panel.tscn
-msgid "TreasuresPanel"
+#: scenes/ui/side_panel/treasures_panel.tscn
+msgid "武器："
 msgstr ""
 
 #: scenes/ui/title_menu/completed_achievement.tscn
@@ -300,10 +323,6 @@ msgstr ""
 
 #: scenes/ui/title_menu/completed_achievement.tscn
 msgid "好！"
-msgstr ""
-
-#: scenes/ui/title_menu/title_ui.tscn
-msgid "Not Survivors"
 msgstr ""
 
 #: scenes/ui/title_menu/title_ui.tscn
@@ -473,6 +492,10 @@ msgid "幸运消耗%d"
 msgstr ""
 
 #: scripts/ui/pickup_treasure_weapon_panel.gd
+msgid "获得武器！"
+msgstr ""
+
+#: scripts/ui/pickup_treasure_weapon_panel.gd
 msgid "刷新"
 msgstr ""
 
@@ -498,12 +521,24 @@ msgid "生命值"
 msgstr ""
 
 #: scripts/ui/stats_panel.gd
-msgid "可获得道具"
+msgid "宝箱"
 msgstr ""
 
 #: scripts/ui/stats_panel.gd
 #: scripts/global/symbol_table.gd
 msgid "拾取范围"
+msgstr ""
+
+#: scripts/ui/upgrades.gd
+msgid "连续无伤奖励 - 额外诅咒道具："
+msgstr ""
+
+#: scripts/ui/upgrades.gd
+msgid "连续无伤奖励 - 额外祝福道具："
+msgstr ""
+
+#: scripts/resources/treasure_item.gd
+msgid "移除"
 msgstr ""
 
 #: scripts/resources/weapon_item.gd
@@ -622,7 +657,7 @@ msgid "影响人物移动速度。上限为2。"
 msgstr ""
 
 #: scripts/global/symbol_table.gd
-msgid "影响武器攻击动作的感知距离，影响近战武器的体积。"
+msgid "影响武器攻击动作的感知距离，影响近战武器的长度。"
 msgstr ""
 
 #: scripts/global/symbol_table.gd
@@ -695,4 +730,36 @@ msgstr ""
 
 #: scripts/player/satellite.gd
 msgid "吸收机魂"
+msgstr ""
+
+#: scripts/ui/tutorial_panel.gd
+msgid "W/S/A/D"
+msgstr ""
+
+#: scripts/ui/tutorial_panel.gd
+msgid "Q/E/空格"
+msgstr ""
+
+#: scripts/ui/tutorial_panel.gd
+msgid "左摇杆"
+msgstr ""
+
+#: scripts/ui/tutorial_panel.gd
+msgid "LB/RB"
+msgstr ""
+
+#: scenes/ui/tutorial_panel.tscn
+msgid "猛推 [color=blue]%s[/color] 以移动"
+msgstr ""
+
+#: scenes/ui/tutorial_panel.tscn
+msgid "接近[color=red]敌人[/color]以自动攻击"
+msgstr ""
+
+#: scenes/ui/tutorial_panel.tscn
+msgid "按下 [color=darkgreen]%s[/color] 以切换武器"
+msgstr ""
+
+#: scenes/ui/tutorial_panel.tscn
+msgid "收集[color=royalblue]经验[/color]与[color=gold]宝箱[/color]，生存下去直到取得胜利"
 msgstr ""
