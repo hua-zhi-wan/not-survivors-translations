@@ -411,6 +411,7 @@ msgid "继续前进"
 msgstr ""
 
 #: scenes/ui/upgrade_menu/pickup_treasure_weapon_root.tscn
+#: scripts/ui/upgrades.gd
 msgid "获得道具！"
 msgstr ""
 
@@ -685,6 +686,18 @@ msgid "影响武器暴击伤害。"
 msgstr ""
 
 #: scripts/global/symbol_table.gd
+msgid "影响远程武器攻击时，子弹穿透敌人的次数。"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "影响拾取药瓶使用时的治疗效果。"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "每回合开始时的恢复一定的生命值。"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
 msgid "枪械"
 msgstr ""
 
@@ -713,7 +726,19 @@ msgid "投射物"
 msgstr ""
 
 #: scripts/global/symbol_table.gd
+msgid "当前波次。随着波次提升，怪物的强度会有所上升。部分波次会有头目出现。"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "当前经验值和下一级所需经验值。每次升级会提升属性。"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
 msgid "本回合内可能掉落的宝箱数量。每回合会自然增加1，拾取宝箱会扣除。"
+msgstr ""
+
+#: scripts/global/symbol_table.gd
+msgid "影响拾取掉落物的范围。生命已满时不拾取药瓶。"
 msgstr ""
 
 #: scripts/player/player.gd
