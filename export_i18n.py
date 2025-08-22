@@ -4,6 +4,9 @@ from openpyxl import Workbook
 from collections import OrderedDict
 
 
+ZH_CN = "zh_CN"
+
+
 def get_pot_msgids():
     """从templates目录提取所有pot文件的唯一msgid（保持顺序）"""
     msgids = OrderedDict()
@@ -24,7 +27,7 @@ def get_po_translations():
 
     for lang in os.listdir("."):
         lang_dir = os.path.join(".", lang)
-        if os.path.isdir(lang_dir) and lang != "templates":
+        if os.path.isdir(lang_dir) and lang != "templates" and lang != ZH_CN:
             po_path = os.path.join(lang_dir, f"{lang}.po")
             if os.path.exists(po_path):
                 po = polib.pofile(po_path)
@@ -42,7 +45,7 @@ def generate_spreadsheet():
     ws = wb.active
 
     # 写入标题行
-    headers = ["zh_CN"] + languages
+    headers = [ZH_CN] + languages
     ws.append(headers)
 
     # 写入翻译内容
