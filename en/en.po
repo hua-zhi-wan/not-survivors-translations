@@ -288,7 +288,7 @@ msgid "像Neo一样闪躲子弹吧！"
 msgstr "Dodge bullets like Neo!"
 
 msgid "降低敌人子弹速度10%。"
-msgstr "Slows enemy bullets by 10%."
+msgstr "Reduce enemy bullet speed by 10%."
 
 msgid "黑心"
 msgstr "Black Heart"
@@ -1784,3 +1784,565 @@ msgstr "Level Up"
 
 msgid "吸收机魂"
 msgstr "Absorb Mech Soul"
+
+msgid "法术伤害环绕物。"
+msgstr "Spell damage aura."
+
+msgid "治疗时获得经验。"
+msgstr "Gain experience when healing."
+
+msgid "近战攻击生成恢复法阵。"
+msgstr "Melee attack generates a healing circle."
+
+msgid "暴击时，造成单次范围法术伤害。"
+msgstr "On critical hit, deal single area spell damage."
+
+msgid "远程武器子弹贯穿。"
+msgstr "Bullets of long-range weapons penetrate."
+
+msgid "暴击时，造成单体法术伤害。叠加可连接多目标。"
+msgstr ""
+"On critical hit, deals single-target spell damage. Stacking allows "
+"connecting multiple targets."
+
+msgid "同时使用所有武器，降低伤害倍率。"
+msgstr "Use all weapons simultaneously, reduce the damage multiplier."
+
+msgid "延长无敌时间。"
+msgstr "Extend invincibility time."
+
+msgid "连续攻击时，临时提升攻击速度。"
+msgstr "During consecutive attacks, temporarily increase attack speed."
+
+msgid "生命值越少，伤害倍率越高。"
+msgstr "The lower the health, the higher the damage multiplier."
+
+msgid "暴击率折算为伤害倍率，无法暴击。"
+msgstr ""
+"The critical hit rate is converted into damage multiplier and cannot "
+"critically hit."
+
+msgid "消耗幸运重置道具。"
+msgstr "Consume the lucky reset item."
+
+msgid ""
+"按照等级次序移除最早获得的最多3个道具，补偿对应数目的剩余道具掉落。\n"
+"\n"
+"{{FOOL}}"
+msgstr ""
+"Remove up to 3 earliest obtained items in order of rank, and compensate with"
+" the corresponding number of remaining item drops.{{FOOL}}"
+
+msgid ""
+"移除最多三个低级道具，补充宝箱掉落。\n"
+"\n"
+"{{FOOL}}"
+msgstr ""
+"Remove up to three low-level items to supplement treasure chest "
+"drops.{{FOOL}}"
+
+msgid "拾取药瓶临时提升法强。"
+msgstr "Picking up the potion temporarily increases ability power."
+
+msgid "降低敌人子弹速度。"
+msgstr "Reduce the enemy's bullet speed."
+
+msgid "受伤时消除弹幕。"
+msgstr "Eliminate bullets when injured."
+
+msgid "放弃获取武器或道具时，你可以获得一次属性提升加点。"
+msgstr ""
+"When you give up acquiring a weapon or item, you can gain one attribute "
+"boost point."
+
+msgid "放弃武器或道具时，获得属性加点。"
+msgstr "When abandoning weapons or items, gain attribute points."
+
+msgid "“棍在身周轮番旋舞，可抵住弹丸箭矢。”"
+msgstr ""
+"\"The staff spins and whirls around the body in turns, capable of blocking "
+"pellets and arrows.\""
+
+msgid "近战攻击有时抵挡子弹。"
+msgstr "Melee attacks sometimes block bullets."
+
+msgid "回合结束时，自动回收所有未拾取的药瓶。"
+msgstr ""
+"At the end of the round, automatically recover all unpicked-up potion "
+"bottles."
+
+msgid "回合结束，自动拾取药瓶。"
+msgstr "Round End, automatically pick up potion."
+
+msgid "“对恶魔有奇效。”"
+msgstr "Highly effective against demons."
+
+msgid "暴击时，造成持续范围法术伤害。"
+msgstr "On critical hit, deals continuous area spell damage."
+
+msgid ""
+"放弃道具时，宝箱+1。\n"
+"你可以通过放弃道具并在下回合重新拾取的方式来重置道具选项。"
+msgstr ""
+"When you discard an item, Treasure Chest +1. You can reset the item options "
+"by discarding an item and re-picking it up in the next round."
+
+msgid "放弃道具时，下回合重置。"
+msgstr "When discarding the item, reset next round."
+
+msgid ""
+"强化你的空手状态。\n"
+"【空手】重新回到武器池。"
+msgstr "Strengthen your unarmed state. [Unarmed] Return to the weapon pool."
+
+msgid "复活次数+1"
+msgstr "Revive Count +1"
+
+msgid "道具越少，法术强度提升越高。"
+msgstr "The fewer items, the higher the spell power increases."
+
+msgid "防御性环绕物。"
+msgstr "Defensive encirclement."
+
+msgid "站立不动时，法术强度修正+25%。"
+msgstr "While standing still, Spell Power Modifier +25%."
+
+msgid "站立不动时，法术强度临时提升。"
+msgstr "When standing still, Spell Power is temporarily increased."
+
+msgid "概率升级药瓶，提升其恢复能力。"
+msgstr ""
+
+msgid "升级时，提升攻击力或法术强度中更高的一方。"
+msgstr ""
+"When leveling up, increase the higher one between attack power and ability "
+"power."
+
+msgid "两个法术伤害环绕物。"
+msgstr "Two spell damage orbs."
+
+msgid "暴击率溢出时提升伤害。"
+msgstr "Increase damage when critical hit rate overflows."
+
+msgid "血量充足时，攻击携带剑气。"
+msgstr "Attacks carry sword energy when health is sufficient."
+
+msgid "宝箱 +2"
+msgstr "Treasure Chest +2"
+
+msgid "可爆炸的法术伤害环绕物。"
+msgstr "Explosive spell damage aura."
+
+msgid "受伤改为持续掉血。"
+msgstr "Injury is changed to continuous blood loss."
+
+msgid "暴击时，产生可穿透的法术伤害飞弹。"
+msgstr "Ranged weapons' penetrating damage no longer decays."
+
+msgid "在有头目的回合开始时，获得一个护盾。"
+msgstr "At the start of the turn when there is a boss, gain a shield."
+
+msgid ""
+"根据持有机魂数量执行效果：\n"
+"1个：生成一个阻挡子弹的小机器人环绕物。\n"
+"2个：机器人对接触单位造成{{0}}物理伤害。\n"
+"3个：机器人不再环绕角色，而是跟随角色并自动向周围发射子弹，造成{{1}}伤害。\n"
+"4个及以上：重复以上效果。"
+msgstr ""
+"Effect based on the number of held Spirit Orbs:\n"
+"1: Generate a small robot orbiter that blocks bullets.\n"
+"2: The robot deals {{0}} physical damage to contacted units.\n"
+"3: The robot no longer orbits the character, but follows the character and automatically fires bullets around it, dealing {{1}} damage.\n"
+"4 or more: Repeat the above effects."
+
+msgid "生成小机器人环绕物。"
+msgstr "Generate small robot surroundings."
+
+msgid "升级自动加点。"
+msgstr "Automatically allocate points on level up."
+
+msgid "移速很慢，反弹伤害。"
+msgstr "Movement speed is very slow, reflects damage."
+
+msgid "煮蛋"
+msgstr "boiled egg"
+
+msgid "为了对抗入侵星球的外星势力，他选择拿起了武器。"
+msgstr ""
+"To fight against the alien forces invading the planet, he chose to take up "
+"arms."
+
+msgid "最多同时装备六把武器。"
+msgstr "At most six weapons can be equipped at the same time."
+
+msgid ""
+"每次攻击会积攒1点怒气，累计到达5点时积满。积满怒气时需切换武器才能继续攻击。\n"
+"积满怒气切换武器后，首次攻击会造成{{0}}伤害，并携带{{1}}的生命偷取。"
+msgstr ""
+"Each attack accumulates 1 point of rage, and it is fully charged when the "
+"total reaches 5 points. When rage is fully charged, you must switch weapons "
+"to continue attacking. After switching weapons when rage is fully charged, "
+"the first attack deals {{0}} damage and has {{1}} life steal."
+
+msgid ""
+"角色会积攒最多8团魂火，这个效果有3秒冷却时间。\n"
+"魂火会环绕在角色周围，帮助角色抵挡子弹，并对接触的敌人造成{{0}}伤害。\n"
+"持有魂火会使你的攻击力下降。"
+msgstr ""
+"The character can accumulate up to 8 Soul Fire orbs, and this effect has a 3-second cooldown.\n"
+"Soul Fire orbs will orbit around the character, helping block bullets and dealing {{0}} damage to enemies they touch.\n"
+"Having Soul Fire orbs will reduce your attack power."
+
+msgid "生成魂火环绕物帮助战斗。"
+msgstr "Generate a soul fire aura to assist in combat."
+
+msgid "切换武器改为闪躲。"
+msgstr "Change weapon switch to dodge."
+
+msgid "重玩该角色可以读档。"
+msgstr "You can load a save to replay this character."
+
+msgid ""
+"只能装备两把相同的武器。\n"
+"切换武器时会进行一次冲撞，对路径上的敌人造成{{0}}伤害，并在终点处产生一次地震。地震对周围造成{{1}}伤害，并产生{{2}}范围的击退。"
+msgstr ""
+"Can only equip two identical weapons. When switching weapons, a charge will "
+"be performed, dealing {{0}} damage to enemies along the path and triggering "
+"an earthquake at the endpoint. The earthquake deals {{1}} damage to the "
+"surrounding area and generates a knockback with a radius of {{2}}."
+
+msgid "切换武器改为冲撞。"
+msgstr "Change weapon switch to charge."
+
+msgid "生成追赶玩家的圣蛇。"
+msgstr "Spawn the holy snake that chases the player."
+
+msgid "若生命值已满时拾取生命药剂，你获得一次属性提升加点，但同时扣除{{0}}生命上限，{{1}}护甲与{{2}}移动速度。"
+msgstr ""
+"If you pick up a health potion when your health is full, you gain one "
+"attribute upgrade point, but it will deduct {{0}} maximum health, {{1}} "
+"armor, and {{2}} movement speed at the same time."
+
+msgid "满血拾取药瓶时，扣除少许属性，获得升级加点。"
+msgstr ""
+"When picking up a potion at full health, deduct a small amount of stats and "
+"gain upgrade points."
+
+msgid "保护魂火可以强化角色。"
+msgstr "Protecting soul fire can strengthen the character."
+
+msgid "从经验和宝箱获取金币，使用金币购买道具。"
+msgstr ""
+"Earn gold coins from experience and treasure chests, and use the gold coins "
+"to buy items."
+
+msgid "自由指定攻击方位。"
+msgstr ""
+"Resurrect when near death, permanently increase damage multiplier, sustain "
+"bleeding, and gain life steal. Limited to once per round."
+
+msgid ""
+"濒死时复活，永久提升伤害倍率，持续流血并获得生命偷取。\n"
+"每回合限一次。"
+msgstr ""
+
+msgid "余烬仍舔旧吻。"
+msgstr "Embers still lick old kisses."
+
+msgid ""
+"你的生命值会在回合开始时从满状态重新计算。\n"
+"但你的生命上限修正为{{0}}，同时失去其他生命恢复手段。"
+msgstr ""
+"Your health will be recalculated from full at the start of the turn. But "
+"your maximum health is adjusted to {{0}}, and you lose other means of health"
+" recovery."
+
+msgid ""
+"每回合自动补满生命，战斗中无法恢复。\n"
+"降低生命上限。"
+msgstr ""
+"Automatically fully restore health each turn; cannot recover during battle. "
+"Reduce maximum health."
+
+msgid "深渊回以金币。"
+msgstr ""
+"Automatically fully restore health each turn; cannot recover during battle. "
+"Reduce maximum health."
+
+msgid "棺内大梦未醒。"
+msgstr "Within the coffin, the great dream has not yet awakened."
+
+msgid "法术强度转为攻击力，降低移速。"
+msgstr "Ability Power converted to Attack Damage, reduces movement speed."
+
+msgid "焚刃亦焚持者。"
+msgstr "Burning the blade also burns the holder."
+
+msgid "提升伤害倍率，降低护甲。"
+msgstr "Increase damage multiplier and reduce armor."
+
+msgid "他人火光刺骨。"
+msgstr "Others' firelight is piercing to the bone."
+
+msgid "头目的生命值降低30%。"
+msgstr "The Boss's health is reduced by 30%."
+
+msgid "头目生命值降低。"
+msgstr "The Boss health reduced."
+
+msgid "昂首步入裂天。"
+msgstr "Step into the splitting sky with head held high."
+
+msgid "攻击力转为法术强度，降低攻击范围。"
+msgstr "Attack Power converted to Ability Power, reducing attack range."
+
+msgid "咀嚼直至自噬。"
+msgstr "Chew until autophagy."
+
+msgid "自动拾取经验。"
+msgstr "Auto pick up experience."
+
+msgid "白骨仍存余温。"
+msgstr "The white bones still retain lingering warmth."
+
+msgid "属性品质等级提高。"
+msgstr "Attribute quality level increased."
+
+msgid "霜刃守心未锈。"
+msgstr "The frost-edged blade guards the heart, unrusted."
+
+msgid "自动恢复生命。"
+msgstr "Automatically restore health."
+
+msgid "挥剑直至剑眠。"
+msgstr "Wield the sword until the sword sleeps."
+
+msgid "大幅提升攻击力。"
+msgstr "Greatly increase attack power."
+
+msgid "荒泊开出白花。"
+msgstr "White flowers bloom on the desolate shore."
+
+msgid "闪避上升，闪避时恢复生命。"
+msgstr "Dodge increased, restore health when dodging."
+
+msgid "让敌影穿身过。"
+msgstr "Let the enemy's shadow pass through the body."
+
+msgid "垂首方见真王。"
+msgstr "Bow your head to see the true king."
+
+msgid "大幅提升法术强度。"
+msgstr "Significantly increase spell power."
+
+msgid "留一隙以窥暗。"
+msgstr "Leave a crack to peer into darkness."
+
+msgid "闪避率达到 40%。"
+msgstr "The evasion rate reaches 40%."
+
+msgid "药瓶恢复达到 15。"
+msgstr "Potion bottle recovery reaches 15."
+
+msgid "运营糕手"
+msgstr "Operations Expert"
+
+msgid "使用角色【煮蛋】时获取了道具【双持】。"
+msgstr "Acquired the item [Shuangchi] when using the character [Zhudan]."
+
+msgid "获得一次5级道具。"
+msgstr "Obtain a Level 5 item."
+
+msgid "头目使用了高速移动！"
+msgstr "The boss used high-speed movement!"
+
+msgid "头目波次结束时未能击杀头目。"
+msgstr "Failed to defeat the boss when the boss wave ended."
+
+msgid "探险家.I"
+msgstr "Explorer.I"
+
+msgid "击败敌人总数超过1000。"
+msgstr "The total number of enemies defeated exceeds 1000."
+
+msgid "探险家.II"
+msgstr "Explorer II"
+
+msgid "击败敌人总数超过3000。"
+msgstr "The total number of enemies defeated exceeds 3000."
+
+msgid "探险家.III"
+msgstr "Explorer.III"
+
+msgid "击败敌人总数超过10000。"
+msgstr "The total number of enemies defeated exceeds 10000."
+
+msgid "探险家.IV"
+msgstr "Explorer IV"
+
+msgid "击败敌人总数超过20000。"
+msgstr "The total number of enemies defeated exceeds 20000."
+
+msgid "修行者.I"
+msgstr "Practitioner.I"
+
+msgid "吸收经验总次数达到2000。"
+msgstr "Total experience absorption times reach 2000."
+
+msgid "修行者.II"
+msgstr "Practitioner.II"
+
+msgid "吸收经验总次数达到6000。"
+msgstr "The total number of experience absorption times has reached 6000."
+
+msgid "修行者.III"
+msgstr "Practitioner.III"
+
+msgid "吸收经验总次数达到20000。"
+msgstr "The total number of experience absorption times reaches 20000."
+
+msgid "修行者.IV"
+msgstr "Practitioner.IV"
+
+msgid "吸收经验总次数达到50000。"
+msgstr "The total number of experience absorption times reaches 50000."
+
+msgid "屠龙者.I"
+msgstr "Dragon Slayer I"
+
+msgid "击败头目总数超过5。"
+msgstr "The total number of bosses defeated exceeds 5."
+
+msgid "屠龙者.II"
+msgstr "Dragon Slayer II"
+
+msgid "击败头目总数超过10。"
+msgstr "The total number of bosses defeated exceeds 10."
+
+msgid "屠龙者.III"
+msgstr "Dragon Slayer III"
+
+msgid "击败头目总数超过20。"
+msgstr "The total number of bosses defeated exceeds 20."
+
+msgid "寻宝猎人.I"
+msgstr "Treasure Hunter I"
+
+msgid "拾取道具累计超过20。"
+msgstr "Picked up items cumulatively exceed 20."
+
+msgid "寻宝猎人.II"
+msgstr "Treasure Hunter.II"
+
+msgid "拾取道具累计超过50。"
+msgstr "Picked up items cumulatively exceed 50."
+
+msgid "寻宝猎人.III"
+msgstr "Treasure Hunter.III"
+
+msgid "拾取道具累计超过200。"
+msgstr "Picked up items cumulatively exceed 200."
+
+msgid "在标准难度下使用【煮蛋】通关游戏。"
+msgstr "Complete the game using [Boiled Egg] on standard difficulty."
+
+msgid "战斗阶段未收集的经验点数会在回合结束时自动收集一半。"
+msgstr ""
+"Half of the uncollected experience points during the combat phase will be "
+"automatically collected at the end of the turn."
+
+msgid "切换武器会重置攻击动作，但切换武器存在1秒的冷却时间。"
+msgstr ""
+"Switching weapons resets the attack animation, but it has a 1-second "
+"cooldown."
+
+msgid "幸运属性会影响宝箱中的道具等级分布。幸运属性过低时，宝箱内不会开出高级道具。幸运属性较高时，宝箱内会移除低等级道具。"
+msgstr ""
+
+msgid "游戏外使用完整描述"
+msgstr "Use complete description outside the game"
+
+msgid "简单难度下使用完整描述"
+msgstr "Use complete descriptions in easy difficulty"
+
+msgid "普通难度下使用完整描述"
+msgstr "Use complete description on normal difficulty"
+
+msgid "事件："
+msgstr "Event:"
+
+msgid "道具："
+msgstr "Props:"
+
+msgid "武器："
+msgstr "Weapon:"
+
+msgid "获得武器！"
+msgstr "Get The Weapon!"
+
+msgid "宝箱"
+msgstr "Treasure Chest"
+
+msgid "连续无伤奖励 - 额外诅咒道具："
+msgstr "Consecutive No Damage Reward - Extra Cursed Item:"
+
+msgid "连续无伤奖励 - 额外祝福道具："
+msgstr "Continuous No-Damage Reward - Additional Blessing Item:"
+
+msgid "移除"
+msgstr "Remove"
+
+msgid "影响武器攻击动作的感知距离，影响近战武器的长度。"
+msgstr ""
+"Affects the perception distance of weapon attack actions and the length of "
+"melee weapons."
+
+msgid "影响远程武器攻击时，子弹穿透敌人的次数。"
+msgstr ""
+"Affects the number of times bullets penetrate enemies when attacking with "
+"long-range weapons."
+
+msgid "影响拾取药瓶使用时的治疗效果。"
+msgstr "Affects the healing effect when picking up and using the potion."
+
+msgid "每回合开始时的恢复一定的生命值。"
+msgstr "Restore a certain amount of health at the start of each round."
+
+msgid "当前波次。随着波次提升，怪物的强度会有所上升。部分波次会有头目出现。"
+msgstr ""
+"Current wave. As the wave increases, the strength of monsters will rise. "
+"Some waves will feature bosses."
+
+msgid "当前经验值和下一级所需经验值。每次升级会提升属性。"
+msgstr ""
+"Current experience points and experience points required for the next level."
+" Each level up increases attributes."
+
+msgid "影响拾取掉落物的范围。生命已满时不拾取药瓶。"
+msgstr ""
+"Affects the range of picking up dropped items. Does not pick up potions when"
+" health is full."
+
+msgid "W/S/A/D"
+msgstr "W/S/A/D"
+
+msgid "Q/E/空格"
+msgstr "Q/E/space"
+
+msgid "左摇杆"
+msgstr "left joystick"
+
+msgid "LB/RB"
+msgstr "LB/RB"
+
+msgid "猛推 [color=blue]%s[/color] 以移动"
+msgstr "Push hard [color=blue]%s[/color] to move"
+
+msgid "接近[color=red]敌人[/color]以自动攻击"
+msgstr "Approach [color=red]enemy[/color] to automatically attack"
+
+msgid "按下 [color=darkgreen]%s[/color] 以切换武器"
+msgstr "Press [color=darkgreen]%s[/color] to switch weapons"
+
+msgid "收集[color=royalblue]经验[/color]与[color=gold]宝箱[/color]，生存下去直到取得胜利"
+msgstr "Collect experience and treasure chests, survive until victory"
