@@ -473,7 +473,8 @@ msgstr ""
 msgid "把接下来的一个 \"hurt\" 转化为 \"block\" ~"
 msgstr ""
 
-msgid "回合开始时获得一个护盾。"
+msgid "回合开始时获得一层护盾。\n"
+"{{SHIELD}}"
 msgstr ""
 
 msgid "大生命药水"
@@ -576,7 +577,7 @@ msgstr ""
 msgid "自己从卡组抽两张。"
 msgstr ""
 
-msgid "宝箱 +2"
+msgid "+2 宝箱"
 msgstr ""
 
 msgid "爆炸胡桃"
@@ -613,7 +614,7 @@ msgstr ""
 msgid "远程武器贯穿伤害不再衰减。"
 msgstr ""
 
-msgid "XIX.月亮"
+msgid "XVIII.月亮"
 msgstr ""
 
 msgid "照亮你的内心。"
@@ -642,7 +643,8 @@ msgstr ""
 msgid "无法违抗。"
 msgstr ""
 
-msgid "在有头目的回合开始时，获得一个护盾。"
+msgid "在有头目的回合开始时，获得一层护盾。\n"
+"{{SHIELD}}"
 msgstr ""
 
 msgid "VIII.力量"
@@ -674,6 +676,107 @@ msgid "根据持有机魂数量执行效果：\n"
 msgstr ""
 
 msgid "生成小机器人环绕物。"
+msgstr ""
+
+msgid "正义"
+msgstr ""
+
+msgid "平衡。"
+msgstr ""
+
+msgid "+4"
+msgstr ""
+
+msgid "“到底能不能留作最后一张牌啊！”"
+msgstr ""
+
+msgid "敌群数量大幅提升。\n"
+"[color=green]宝箱 +4[/color]"
+msgstr ""
+
+msgid "御剑术.I"
+msgstr ""
+
+msgid "以气御剑。"
+msgstr ""
+
+msgid "生成一把剑作为环绕物。\n"
+"它会主动攻击靠近的敌人，造成范围法术伤害。\n"
+"其攻击频率不受攻速的影响。"
+msgstr ""
+
+msgid "环绕物，主动攻击，造成法术伤害。"
+msgstr ""
+
+msgid "晴天娃娃"
+msgstr ""
+
+msgid "“卷袖搴裳手持帚，挂向阴空便摇手。”\n"
+"[right]——【元】李俊民 [/right]"
+msgstr ""
+
+msgid "生成一个晴天娃娃跟班。\n"
+"和她距离较近时，伤害倍率临时提升为原来的{{0}}。"
+msgstr ""
+
+msgid "生成跟班，靠近提升伤害倍率。"
+msgstr ""
+
+msgid "巫术娃娃"
+msgstr ""
+
+msgid "以蕴含魔力的毛线编制而成，也许可以伤害到你想伤害的人。"
+msgstr ""
+
+msgid "生成一个巫术娃娃。不会对角色造成伤害。\n"
+"承受伤害时会传递{{0}}给最早出现的敌人。"
+msgstr ""
+
+msgid "生成娃娃，向敌人传导伤害。"
+msgstr ""
+
+msgid "苹果"
+msgstr ""
+
+msgid "可以让智慧接近你，但会导致医生远离你。"
+msgstr ""
+
+msgid "+{{0}} 生命偷取\n"
+"{{HP_STEAL}}"
+msgstr ""
+
+msgid "XXI.世界"
+msgstr ""
+
+msgid "回报亦有代价，耕耘即可收获。"
+msgstr ""
+
+msgid "下一波次开始时额外生成一个相对弱小的头目，击杀可以照常获得头目奖励。"
+msgstr ""
+
+msgid "下回合生成额外的弱版头目。"
+msgstr ""
+
+msgid "黑黄杖"
+msgstr ""
+
+msgid "「天神下凡」"
+msgstr ""
+
+msgid "首次受到伤害时，无敌时间提升至{{0}}秒。"
+msgstr ""
+
+msgid "变巨术"
+msgstr ""
+
+msgid "最有效的战术才经得起时间的考验。"
+msgstr ""
+
+msgid "武器体积变大，攻击动画变慢。\n"
+"伤害倍率变为{{0}}。"
+msgstr ""
+
+msgid "武器体积变大，动作变慢，伤害倍率上升。"
 msgstr ""
 
 msgid "看板娘"
@@ -724,7 +827,12 @@ msgid "狩龙人"
 msgstr ""
 
 msgid "每次攻击会积攒1点怒气，累计到达5点时积满。积满怒气时需切换武器才能继续攻击。\n"
-"积满怒气切换武器后，首次攻击会造成{{0}}伤害，并携带{{1}}的生命偷取。"
+"积满怒气切换武器后，首次攻击会造成{{0}}伤害，并携带{{1}}的生命偷取。\n"
+"{{HP_STEAL}}"
+msgstr ""
+
+msgid "攻击积攒怒气，怒气满时停止攻击。\n"
+"满怒气下，切换武器首次攻击增伤，并生命偷取。"
 msgstr ""
 
 msgid "神社巫女"
@@ -830,11 +938,28 @@ msgid "陷入歇斯底里的疯狂吧……"
 msgstr ""
 
 msgid "生命归零时进入癫狂状态，每秒持续流血{{0}}并获得{{1}}生命偷取（普通攻击产生击杀时恢复生命）。\n"
-"这个效果每回合限一次，每次触发永久增加{{2}}伤害倍率。"
+"这个效果每回合限一次，每次触发永久增加{{2}}伤害倍率。\n"
+"{{HP_STEAL}}"
 msgstr ""
 
 msgid "濒死时复活，永久提升伤害倍率，持续流血并获得生命偷取。\n"
-"每回合限一次。"
+"每回合限一次。\n"
+"{{HP_STEAL}}"
+msgstr ""
+
+msgid "欧头"
+msgstr ""
+
+msgid "有人问他是职业选手吗，他说，他觉得他是。"
+msgstr ""
+
+msgid "无法主动操作该角色。\n"
+"每次获得新武器时，会替换掉更早获得的武器。\n"
+"升级时会获得更高的基础属性提升。\n"
+""
+msgstr ""
+
+msgid "无法主动控制，武器轮换装备，属性更高。"
 msgstr ""
 
 msgid "色欲"
@@ -1427,6 +1552,12 @@ msgid "梦游"
 msgstr ""
 
 msgid "在标准难度下使用【爱丽丝】通关游戏。"
+msgstr ""
+
+msgid "我觉得我是！"
+msgstr ""
+
+msgid "在标准难度下使用【欧头】通关游戏。"
 msgstr ""
 
 msgid "戈多石像"

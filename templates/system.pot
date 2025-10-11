@@ -542,6 +542,14 @@ msgstr ""
 msgid "移除"
 msgstr ""
 
+#: scripts/resources/treasure_item.gd
+msgid "[color=purple]护盾[/color][color=gray]: 护盾可以让你免受本回合初次受到的伤害。[/color]"
+msgstr ""
+
+#: scripts/resources/treasure_item.gd
+msgid "[color=red]生命偷取[/color][color=gray]: 当使用普通攻击击杀敌人时，恢复与生命偷取等同的生命值。[/color]"
+msgstr ""
+
 #: scripts/resources/weapon_item.gd
 msgid "伤害"
 msgstr ""
