@@ -1,15 +1,15 @@
 # Timothy Liu <liuxf19@163.com>, 2025.
 msgid ""
 msgstr ""
+
+msgid ""
+msgstr ""
 "Project-Id-Version: Not-Survivors\n"
 "Last-Translator: Timothy Liu <liuxf19@163.com>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-
-msgid ""
-msgstr ""
 
 msgid "回到游戏"
 msgstr "回到遊戲"
@@ -2407,3 +2407,9 @@ msgstr ""
 msgid ""
 "[color=red]生命偷取[/color][color=gray]: 当使用普通攻击击杀敌人时，恢复与生命偷取等同的生命值。[/color]"
 msgstr ""
+
+msgid "攻击力转为法术强度，降低移速。"
+msgstr "攻擊力轉為法術強度，降低移速。"
+
+msgid "法术强度转为攻击力，降低攻击范围。"
+msgstr "法術強度轉為攻擊力，降低攻擊範圍。"

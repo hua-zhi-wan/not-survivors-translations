@@ -2592,3 +2592,9 @@ msgid ""
 "[color=red]生命偷取[/color][color=gray]: 当使用普通攻击击杀敌人时，恢复与生命偷取等同的生命值。[/color]"
 msgstr ""
 "[color=red]生命偷取[/color][color=gray]: 当使用普通攻击击杀敌人时，恢复与生命偷取等同的生命值。[/color]"
+
+msgid "攻击力转为法术强度，降低移速。"
+msgstr "攻击力转为法术强度，降低移速。"
+
+msgid "法术强度转为攻击力，降低攻击范围。"
+msgstr "法术强度转为攻击力，降低攻击范围。"

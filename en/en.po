@@ -2569,3 +2569,9 @@ msgid ""
 msgstr ""
 "[color=red]Lifesteal[/color][color=gray]: Restore HP equal to your Lifesteal"
 " stat when landing killing blows with Basic Attacks.[/color]"
+
+msgid "攻击力转为法术强度，降低移速。"
+msgstr "Attack Damage converted to Ability Power, reduces movement speed."
+
+msgid "法术强度转为攻击力，降低攻击范围。"
+msgstr "Ability Power converted to Attack Power, reducing attack range."
