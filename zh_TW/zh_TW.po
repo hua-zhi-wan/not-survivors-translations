@@ -1,15 +1,15 @@
 # Timothy Liu <liuxf19@163.com>, 2025.
 msgid ""
 msgstr ""
-
-msgid ""
-msgstr ""
 "Project-Id-Version: Not-Survivors\n"
 "Last-Translator: Timothy Liu <liuxf19@163.com>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+msgid ""
+msgstr ""
 
 msgid "回到游戏"
 msgstr "回到遊戲"
@@ -1840,7 +1840,7 @@ msgid "概率升级药瓶，提升其恢复能力。"
 msgstr "機率升級藥瓶，提升其恢復能力。"
 
 msgid "升级时，提升攻击力或法术强度中更高的一方。"
-msgstr ""
+msgstr "升級時，提升攻擊力或法術強度中較高的一方。"
 
 msgid "两个法术伤害环绕物。"
 msgstr "兩個法術傷害環繞物。"
@@ -1932,7 +1932,7 @@ msgid "生成追赶玩家的圣蛇。"
 msgstr "生成追趕玩家的聖蛇。"
 
 msgid "若生命值已满时拾取生命药剂，你获得一次属性提升加点，但同时扣除{{0}}生命上限，{{1}}护甲与{{2}}移动速度。"
-msgstr ""
+msgstr "若生命值已滿時拾取生命藥劑，你獲得一次屬性提升加點，但同時扣除{{0}}生命上限，{{1}}護甲與{{2}}移動速度。"
 
 msgid "满血拾取药瓶时，扣除少许属性，获得升级加点。"
 msgstr "若生命值已滿時拾取生命藥劑，你獲得一次屬性提升加點，但同時扣除{{0}}生命上限，{{1}}護甲與{{2}}移動速度。"
@@ -2174,7 +2174,7 @@ msgid "武器："
 msgstr "武器："
 
 msgid "获得武器！"
-msgstr ""
+msgstr "獲得武器！"
 
 msgid "宝箱"
 msgstr "寶箱"
@@ -2237,6 +2237,8 @@ msgid ""
 "回合开始时获得一层护盾。\n"
 "{{SHIELD}}"
 msgstr ""
+"\"回合開始時獲得一層護盾。\n"
+"{{SHIELD}}\""
 
 msgid "+2 宝箱"
 msgstr ""
@@ -2247,166 +2249,171 @@ msgstr ""
 msgid ""
 "在有头目的回合开始时，获得一层护盾。\n"
 "{{SHIELD}}"
-msgstr ""
+msgstr "在有頭目的回合開始時，獲得一層護盾。 {{SHIELD}}"
 
 msgid "正义"
-msgstr ""
+msgstr "正義"
 
 msgid "平衡。"
-msgstr ""
+msgstr "平衡。"
 
 msgid "+4"
-msgstr ""
+msgstr "+4"
 
 msgid "“到底能不能留作最后一张牌啊！”"
-msgstr ""
+msgstr "“到底能不能留作最後一張牌啊！”"
 
 msgid ""
 "敌群数量大幅提升。\n"
 "[color=green]宝箱 +4[/color]"
-msgstr ""
+msgstr "敵群數量大幅提升。 [color=green]寶箱+4[/color]"
 
 msgid "御剑术.I"
-msgstr ""
+msgstr "禦劍術.I"
 
 msgid "以气御剑。"
-msgstr ""
+msgstr "以氣禦劍。"
 
 msgid ""
 "生成一把剑作为环绕物。\n"
 "它会主动攻击靠近的敌人，造成范围法术伤害。\n"
 "其攻击频率不受攻速的影响。"
-msgstr ""
+msgstr "生成一把劍作為環繞物。 它會主動攻擊靠近的敵人，造成範圍法術傷害。 其攻擊頻率不受攻速的影響。"
 
 msgid "环绕物，主动攻击，造成法术伤害。"
-msgstr ""
+msgstr "環繞物，主動攻擊，造成法術傷害。"
 
 msgid "晴天娃娃"
-msgstr ""
+msgstr "晴天娃娃"
 
 msgid ""
 "“卷袖搴裳手持帚，挂向阴空便摇手。”\n"
 "[right]——【元】李俊民 [/right]"
-msgstr ""
+msgstr "「捲袖搴裳手持帚，掛向陰空便搖手。」[right]—【元】李俊 [/right]"
 
 msgid ""
 "生成一个晴天娃娃跟班。\n"
 "和她距离较近时，伤害倍率临时提升为原来的{{0}}。"
-msgstr ""
+msgstr "生成一個晴天娃娃跟班。 和她距離較近時，傷害倍率暫時提升為原來的{{0}}。"
 
 msgid "生成跟班，靠近提升伤害倍率。"
-msgstr ""
+msgstr "生成跟班，靠近提升傷害倍率。"
 
 msgid "巫术娃娃"
-msgstr ""
+msgstr "巫術娃娃"
 
 msgid "以蕴含魔力的毛线编制而成，也许可以伤害到你想伤害的人。"
-msgstr ""
+msgstr "以蘊含魔力的毛線編製而成，或許可以傷害到你想傷害的人。"
 
 msgid ""
 "生成一个巫术娃娃。不会对角色造成伤害。\n"
 "承受伤害时会传递{{0}}给最早出现的敌人。"
-msgstr ""
+msgstr "生成一個巫術娃娃。不會對角色造成傷害。 承受傷害時會傳遞{{0}}給最早出現的敵人。"
 
 msgid "生成娃娃，向敌人传导伤害。"
-msgstr ""
+msgstr "生成娃娃，向敵人傳導傷害。"
 
 msgid "苹果"
-msgstr ""
+msgstr "蘋果"
 
 msgid "可以让智慧接近你，但会导致医生远离你。"
-msgstr ""
+msgstr "可以讓智慧接近你，但會導致醫生遠離你。"
 
 msgid ""
 "+{{0}} 生命偷取\n"
 "{{HP_STEAL}}"
-msgstr ""
+msgstr "+{{0}} 生命偷取{{HP_STEAL}}"
 
 msgid "XXI.世界"
-msgstr ""
+msgstr "XXI.世界"
 
 msgid "回报亦有代价，耕耘即可收获。"
-msgstr ""
+msgstr "回報亦有代價，耕耘即可收穫。"
 
 msgid "下一波次开始时额外生成一个相对弱小的头目，击杀可以照常获得头目奖励。"
-msgstr ""
+msgstr "下一波次開始時額外產生一個相對弱小的頭目，擊殺可以照常獲得頭目獎勵。"
 
 msgid "下回合生成额外的弱版头目。"
-msgstr ""
+msgstr "下回合產生額外的弱版頭目。"
 
 msgid "黑黄杖"
-msgstr ""
+msgstr "黑黃杖"
 
 msgid "「天神下凡」"
-msgstr ""
+msgstr "「天神下凡」"
 
 msgid "首次受到伤害时，无敌时间提升至{{0}}秒。"
-msgstr ""
+msgstr "首次受到傷害時，無敵時間提升至{{0}}秒。"
 
 msgid "变巨术"
-msgstr ""
+msgstr "變巨術"
 
 msgid "最有效的战术才经得起时间的考验。"
-msgstr ""
+msgstr "最有效的戰術才經得起時間的考驗。"
 
 msgid ""
 "武器体积变大，攻击动画变慢。\n"
 "伤害倍率变为{{0}}。"
-msgstr ""
+msgstr "武器體積變大，攻擊動畫變慢。 傷害倍率變成{{0}}。"
 
 msgid "武器体积变大，动作变慢，伤害倍率上升。"
-msgstr ""
+msgstr "武器體積變大，動作變慢，傷害倍率上升。"
 
 msgid ""
 "每次攻击会积攒1点怒气，累计到达5点时积满。积满怒气时需切换武器才能继续攻击。\n"
 "积满怒气切换武器后，首次攻击会造成{{0}}伤害，并携带{{1}}的生命偷取。\n"
 "{{HP_STEAL}}"
 msgstr ""
+"每次攻擊會累積1點怒氣，累計到達5點時積滿。積滿怒氣時需切換武器才能繼續攻擊。 "
+"在滿怒氣切換武器後，首次攻擊會造成{{0}}傷害，並攜帶{{1}}的生命偷取。 {{HP_STEAL}}"
 
 msgid ""
 "攻击积攒怒气，怒气满时停止攻击。\n"
 "满怒气下，切换武器首次攻击增伤，并生命偷取。"
-msgstr ""
+msgstr "攻擊積攢怒氣，怒氣滿時停止攻擊。 滿怒氣下，切換武器首次攻擊增傷，生命偷取。"
 
 msgid ""
 "生命归零时进入癫狂状态，每秒持续流血{{0}}并获得{{1}}生命偷取（普通攻击产生击杀时恢复生命）。\n"
 "这个效果每回合限一次，每次触发永久增加{{2}}伤害倍率。\n"
 "{{HP_STEAL}}"
 msgstr ""
+"生命歸零時進入癲狂狀態，每秒鐘持續流血{{0}}並獲得{{1}}生命偷取（普通攻擊產生擊殺時恢復生命）。 "
+"這個效果每回合限一次，每次觸發永久增加{{2}}傷害倍率。 {{HP_STEAL}}"
 
 msgid ""
 "濒死时复活，永久提升伤害倍率，持续流血并获得生命偷取。\n"
 "每回合限一次。\n"
 "{{HP_STEAL}}"
-msgstr ""
+msgstr "瀕死時復活，永久提升傷害倍率，持續流血並獲得生命偷取。 每回合限一次。 {{HP_STEAL}}"
 
 msgid "欧头"
-msgstr ""
+msgstr "歐頭"
 
 msgid "有人问他是职业选手吗，他说，他觉得他是。"
-msgstr ""
+msgstr "有人問他是職業選手嗎，他說，他覺得他是。"
 
 msgid ""
 "无法主动操作该角色。\n"
 "每次获得新武器时，会替换掉更早获得的武器。\n"
 "升级时会获得更高的基础属性提升。\n"
-msgstr ""
+msgstr "無法主動操作該角色。 每次獲得新武器時，都會替換掉更早獲得的武器。 升級時會獲得更高的基礎屬性提升。"
 
 msgid "无法主动控制，武器轮换装备，属性更高。"
-msgstr ""
+msgstr "無法主動控制，武器輪換裝備，屬性更高。"
 
 msgid "我觉得我是！"
-msgstr ""
+msgstr "我覺得我是！"
 
 msgid "在标准难度下使用【欧头】通关游戏。"
-msgstr ""
+msgstr "在標準難度下使用【歐頭】通關遊戲。"
 
 msgid "[color=purple]护盾[/color][color=gray]: 护盾可以让你免受本回合初次受到的伤害。[/color]"
-msgstr ""
+msgstr "[color=purple]護盾[/color][color=gray]: 護盾可以讓你免受本回合初次受到的傷害。 [/color]"
 
 msgid ""
 "[color=red]生命偷取[/color][color=gray]: 当使用普通攻击击杀敌人时，恢复与生命偷取等同的生命值。[/color]"
 msgstr ""
+"[color=red]生命偷取[/color][color=gray]: 當使用普通攻擊擊殺敵人時，恢復與生命偷取等同的生命值。 [/color]"
 
 msgid "攻击力转为法术强度，降低移速。"
 msgstr "攻擊力轉為法術強度，降低移速。"

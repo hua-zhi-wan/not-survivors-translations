@@ -2482,7 +2482,7 @@ msgstr ""
 "When taking first damage, increases invincibility duration to {{0}} seconds."
 
 msgid "变巨术"
-msgstr ""
+msgstr "Giant Transformation"
 
 msgid "最有效的战术才经得起时间的考验。"
 msgstr "Only the most effective tactics stand the test of time."
@@ -2554,7 +2554,7 @@ msgstr ""
 "up."
 
 msgid "我觉得我是！"
-msgstr ""
+msgstr "I think I am!"
 
 msgid "在标准难度下使用【欧头】通关游戏。"
 msgstr "Complete a run with \"Pro Gamer\" on Standard Difficulty."

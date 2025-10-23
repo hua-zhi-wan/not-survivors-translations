@@ -13,186 +13,180 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "坏点"
-msgstr "ponto morto"
+msgstr "Pixel morto"
 
 msgid "“谁给我屏幕捅了？”"
-msgstr "Quem furou minha tela?"
+msgstr "“Quem cutucou minha tela?”"
 
 msgid ""
 "他会让你的屏幕看起来坏掉了一块，仅此而已。\n"
 "当你看到他时说明当前道具池已经空了。"
 msgstr ""
-"Ele fará com que sua tela pareça ter uma parte quebrada, nada mais do que "
-"isso. Quando você o vê, significa que a piscina de itens atual já está "
-"vazia."
+"Isso faz com que uma parte da tela pareça quebrada, nada mais. Quando isso "
+"acontece, significa que o conjunto de itens atual está vazio."
 
 msgid "读取存档"
-msgstr "Carregar Save"
+msgstr "Carregar jogo"
 
 msgid "“让我们欢庆新一任勇者的诞生！”"
-msgstr "\"Vamos celebrar o nascimento do novo herói!\""
+msgstr "“Vamos celebrar o nascimento de um novo herói!”"
 
 msgid "读取上一次游戏结束时勇者的存档。"
-msgstr "Carregar o arquivo de salvamento do herói no final do último jogo."
+msgstr "Carregue o jogo salvo do herói do último jogo."
 
 msgid "悲伤洋葱"
 msgstr "Cebola Triste"
 
 msgid "射速上升！"
-msgstr "Taxa de tiro aumentada!"
+msgstr "Lágrimas à flor da pele!"
 
 msgid "吸尘器"
-msgstr "aspirador de pó"
+msgstr "Aspirador de pó"
 
 msgid "可以用来抓水母。"
-msgstr "Pode ser usado para pegar medusas."
+msgstr "Pode ser usado para capturar águas-vivas."
 
 msgid "吵闹画像"
-msgstr "Retrato Barulhento"
+msgstr "Pintura Barulhenta"
 
 msgid "他会和你并肩……"
-msgstr "Ele estará contigo ombro a ombro..."
+msgstr "Ele lutará ao seu lado..."
 
 msgid "生成一个环绕物，对接触到的敌人造成{{0}}的魔法伤害。"
 msgstr ""
-"Gere um anel que causa {{0}} de dano mágico aos inimigos que entram em "
+"Cria uma esfera que causa {{0}} de dano mágico aos inimigos ao entrar em "
 "contato."
 
 msgid "法术伤害环绕物。"
-msgstr "Entorno de dano mágico."
+msgstr "Aura de dano mágico."
 
 msgid "铁匠锤子"
-msgstr "martelo de ferreiro"
+msgstr "Martelo de ferreiro"
 
 msgid "“铁锤是力量！铁锤是信仰！”"
-msgstr "\"Martelo é força! Martelo é fé!\""
+msgstr "“O martelo é força! O martelo é fé!”"
 
 msgid "获得一把新武器。"
-msgstr "Obter uma nova arma."
+msgstr "Obtenha uma nova arma."
 
 msgid "16号插入栓"
-msgstr "Pino de Inserção Número 16"
+msgstr "Plugue de inserção nº 16"
 
 msgid "“我原谅你了。”"
-msgstr "\"Eu te perdoo.\""
+msgstr "\"Eu perdôo você.\""
 
 msgid ""
 "治疗效果生效会同时为你提供经验值。\n"
 "每回合这个效果提供的经验值有上限。"
-msgstr ""
-"Quando o efeito de cura entra em vigor, ele fornecerá a você pontos de experiência ao mesmo tempo.\n"
-"A cada turno, os pontos de experiência fornecidos por esse efeito têm um limite máximo."
+msgstr "Cura concede XP. Cada turno tem um limite de XP para esse efeito."
 
 msgid "治疗时获得经验。"
-msgstr "Ganhe experiência durante o tratamento."
+msgstr "Ganhe experiência ao curar."
 
 msgid "人鱼回响"
 msgstr "Eco da Sereia"
 
 msgid "“和我一起成为偶像吧！”"
-msgstr "\"Junte-se a mim para ser um ídolo!\""
+msgstr "“Torne-se um ídolo junto comigo!”"
 
 msgid ""
 "近战武器一次挥动命中敌人超过3个时，会在面前区域内形成一个恢复法阵。\n"
 "法阵持续2s，走入法阵可以恢复{{0}}-{{1}}（根据已损血量提升）\n"
 "这个效果有4秒的冷却。"
 msgstr ""
-"Quando uma arma corpo a corpo atingir mais de 3 inimigos com um golpe, "
-"formará um círculo de recuperação na área à frente. O círculo dura 2s, e "
-"entrar nele permite recuperar {{0}}-{{1}} (aumentando de acordo com a vida "
-"perdida). Este efeito tem um cooldown de 4 segundos."
+"Após atingir 3 ou mais inimigos de uma vez com um golpe corpo a corpo, uma "
+"matriz de cura aparece. Dura 2 s, restaura {{0}}-{{1}} PV (com base no dano "
+"recebido). Tempo de recarga de 4 s."
 
 msgid "近战攻击生成恢复法阵。"
-msgstr "Ataque corpo a corpo gera círculo de recuperação."
+msgstr "Ataque corpo a corpo gera um círculo de cura."
 
 msgid "苦痛诅咒"
 msgstr "Maldição do Sofrimento"
 
 msgid "他使你渴望战争。"
-msgstr "Ele faz você ansiar por guerra."
+msgstr "Ele faz você desejar a guerra."
 
 msgid ""
 "暴击会对敌人所在的位置施加神罚效果，产生一次范围伤害，造成{{0}}伤害。\n"
 "这个效果有至多4秒的冷却。你每持有一个苦痛诅咒，诅咒效果的冷却时间越短。"
 msgstr ""
-"Um Golpe Crítico aplicará o efeito de Punição Divina na posição do inimigo, "
-"causando um dano de área, resultando em {{0}} de dano. Este efeito tem um "
-"cooldown máximo de 4 segundos. Para cada Maldição de Dor que você possui, o "
-"cooldown do efeito da maldição é menor."
+"Acertos críticos ativam Punição Divina no local do inimigo, causando {{0}} "
+"de dano em área. Até 4s de recarga. Cada Maldição do Sofrimento reduz a "
+"recarga."
 
 msgid "暴击时，造成单次范围法术伤害。"
-msgstr "Ao causar um crítico, causa um único dano mágico de área."
+msgstr "Em caso de acerto crítico, causa dano mágico em uma única área."
 
 msgid "贯通弹"
-msgstr "projétil perfurante"
+msgstr "Rodadas Penetrantes"
 
 msgid "设计用于射击并贯穿目标。"
-msgstr "Projetado para atirar e perfurar o alvo."
+msgstr "Projetado para atirar através de alvos."
 
 msgid ""
 "为你的远程武器提供贯穿能力。\n"
 "但每贯穿一个目标，该子弹伤害衰减为当前的50%。"
 msgstr ""
-"Fornece capacidade de penetração para suas armas de longo alcance. Mas cada "
-"vez que penetra um alvo, o dano da bala é reduzido para 50% do atual."
+"Confere penetração às suas armas de longo alcance. Cada penetração reduz o "
+"dano de bala em 50%."
 
 msgid "远程武器子弹贯穿。"
-msgstr "Bala de arma de longo alcance perfura."
+msgstr "Balas de armas de longo alcance penetram."
 
 msgid "板砖"
-msgstr "tijolo plano"
+msgstr "Tijolo"
 
 msgid "武功再高，也怕菜刀。智力再好，一砖撂倒。"
 msgstr ""
-"Por mais alta que seja a arte marcial, ela teme a faca de cozinha. Por mais "
-"inteligente que seja, um tijolo o derruba."
+"Nenhuma arte marcial se compara a uma lâmina, nenhuma sabedoria resiste a um"
+" tijolo."
 
 msgid "大力丸"
 msgstr "Pílula de Força"
 
 msgid "江湖骗子的常用伎俩。"
-msgstr "Artimanhas comuns de enganadores ambulantes."
+msgstr "Um truque comum de charlatães."
 
 msgid "非酋"
-msgstr "azarado"
+msgstr "Azar"
 
 msgid "“这游戏有SR吗？”"
-msgstr "\"Este jogo tem SR?\""
+msgstr "“Este jogo tem SR?”"
 
 msgid "物理必修二"
-msgstr "Física Obrigatória II"
+msgstr "Fundamentos da Física"
 
 msgid "——讲科学，破迷信。"
-msgstr "— Promover a ciência, combater a superstição."
+msgstr "Promovendo a ciência, dissipando a superstição."
 
 msgid "说的道理"
-msgstr "a razão dita"
+msgstr "Vontade da Sabedoria"
 
 msgid "欧内的手，好汉！"
-msgstr "Ó, sua mão, homem valente!"
+msgstr "Aminoac."
 
 msgid "雅各布天梯"
 msgstr "Escada de Jacó"
 
 msgid "“赐我圣火！”"
-msgstr "Conceda-me o fogo sagrado!"
+msgstr "“Conceda-me o fogo sagrado!”"
 
 msgid ""
 "你的暴击伤害会对首次命中的目标产生一次{{0}}的电弧伤害。\n"
 "你每持有一个雅各布天梯，电弧伤害即可多连接一个目标。\n"
 "这个效果有 0.6 秒冷却。"
 msgstr ""
-"Seu dano crítico causará um dano de arco-íris de {{0}} ao alvo atingido pela primeira vez.\n"
-"Por cada Escada de Jacob que você possuir, o dano de arco-íris conectará um alvo adicional.\n"
-"Este efeito tem um tempo de recarga de 0.6 segundos."
+"Seus acertos críticos causam {{0}} de dano de arco ao primeiro alvo. Cada "
+"Escada de Jacob adiciona mais um alvo ao arco. Tempo de recarga de 0,6 s."
 
 msgid "暴击时，造成单体法术伤害。叠加可连接多目标。"
 msgstr ""
-"Em golpe crítico, causa dano mágico a um alvo único. A acumulação permite "
-"conectar múltiplos alvos."
+"Em acerto crítico, causa dano mágico em um único alvo. Acumulável, permite "
+"conectar vários alvos."
 
 msgid "双持"
-msgstr "manuseio duplo"
+msgstr "Empunhadura dupla"
 
 msgid "像个战神！"
 msgstr "Como um deus da guerra!"
@@ -201,35 +195,34 @@ msgid ""
 "战斗时同时使用所有已装备的武器。\n"
 "但你的伤害修正为{{0}}。"
 msgstr ""
-"Durante a batalha, use todas as armas equipadas ao mesmo tempo. Mas sua "
-"correção de dano é {{0}}."
+"Use todas as armas equipadas simultaneamente em combate. Mas o dano é "
+"ajustado para {{0}}."
 
 msgid "同时使用所有武器，降低伤害倍率。"
-msgstr "Usar todas as armas ao mesmo tempo, reduzir o multiplicador de dano."
+msgstr "Use todas as armas simultaneamente, reduza o multiplicador de dano."
 
 msgid "IX.隐者"
 msgstr "IX. O Eremita"
 
 msgid "隐藏自己。"
-msgstr "Esconder-se."
+msgstr "Esconda-se."
 
 msgid "延长受击无敌时间至1s。"
-msgstr "Estender o tempo de invulnerabilidade ao ser atingido para 1s."
+msgstr "Estende os quadros de invencibilidade para 1s após ser atingido."
 
 msgid "延长无敌时间。"
-msgstr "Estender o tempo de invencibilidade."
+msgstr "Aumenta o tempo de invencibilidade."
 
 msgid "致命节奏"
-msgstr "Ritmo Letal"
+msgstr "Ritmo Mortal"
 
 msgid "（已于14.10版本移除）"
-msgstr "(foi removido na versão 14.10)"
+msgstr "(Removido na versão 14.10)"
 
 msgid "每次攻击会使你获得一个临时的攻速提升。最高可获得 0.6 的攻速提升。停止攻击1秒后，攻速提升效果会清零。"
 msgstr ""
-"Cada ataque te concede um aumento temporário de velocidade de ataque. O "
-"aumento máximo de velocidade de ataque é 0,6. Após parar de atacar por 1 "
-"segundo, o efeito de aumento de velocidade de ataque será zerado."
+"Cada ataque concede um aumento temporário na velocidade de ataque. Aumento "
+"máximo de 0,6. O efeito é reiniciado após 1s sem ataques."
 
 msgid "连续攻击时，临时提升攻击速度。"
 msgstr ""
@@ -237,133 +230,130 @@ msgstr ""
 "ataque."
 
 msgid "VII.战车"
-msgstr "VII. Carro de Batalha"
+msgstr "VII. A Carruagem"
 
 msgid "本能与意志。"
-msgstr "Instinto e vontade."
+msgstr "Instinto e Força de Vontade."
 
 msgid "当生命值少于50%时，根据已损生命值增加至多50%伤害倍率修正。"
 msgstr ""
-"Quando a vida for menos de 50%, aumente a correção do multiplicador de dano "
-"em até 50% com base na vida perdida."
+"Quando o HP estiver abaixo de 50%, o multiplicador de dano aumentará em até "
+"50% com base no HP perdido."
 
 msgid "生命值越少，伤害倍率越高。"
-msgstr "Quanto menos vida, maior o multiplicador de dano."
+msgstr "Quanto menor a saúde, maior o multiplicador de dano."
 
 msgid "XVI.塔"
-msgstr "XVI. Torre"
+msgstr "XVI. A Torre"
 
 msgid "终将倒塌。"
-msgstr "Eventualmente desmoronará."
+msgstr "Inevitavelmente irá desmoronar."
 
 msgid ""
 "每{{0}}暴击率提供的{{1}}伤害倍率乘数修正。\n"
 "普通攻击无法暴击。"
 msgstr ""
-"Correção do multiplicador de dano {{1}} fornecido por cada {{0}} de chance de crítico.\n"
-"Ataque normal não pode causar crítico."
+"Cada {{0}} taxa de acerto crítico fornece um ajuste de multiplicador de dano"
+" de {{1}}. Ataques normais não causam acerto crítico."
 
 msgid "暴击率折算为伤害倍率，无法暴击。"
 msgstr ""
-"A chance de crítico é convertida em multiplicador de dano e não pode causar "
-"críticos."
+"A taxa de acerto crítico é convertida em multiplicador de dano e não pode "
+"causar acerto crítico."
 
 msgid "通缉上升！"
-msgstr "Procura aumenta!"
+msgstr "Nível de procurado subindo!"
 
 msgid "“我从没碰过这么烫的东西！”"
-msgstr "\"Eu nunca toquei algo tão quente!\""
+msgstr "“Nunca toquei em nada tão quente!”"
 
 msgid "敌群数目永久增加。"
-msgstr "O número de hordas inimigas aumenta permanentemente."
+msgstr "O tamanho do grupo inimigo aumenta permanentemente."
 
 msgid "X.命运之轮"
 msgstr "X. Roda da Fortuna"
 
 msgid "变幻无常，命中注定。"
-msgstr "Inconstante, destinado."
+msgstr "A fortuna é inconstante, o destino é certo."
 
 msgid ""
 "允许你消耗幸运重置当前道具选择。\n"
 "单回合内多次使用会增大消耗。"
 msgstr ""
-"Permite que você gaste sorte para resetar a seleção atual de itens. Usá-lo "
-"múltiplas vezes em um único turno aumentará o consumo."
+"Permite que você gaste sorte para redefinir a seleção atual de itens. Usar "
+"várias vezes em uma única rodada aumentará o custo."
 
 msgid "消耗幸运重置道具。"
-msgstr "Consumir item de reset de sorte."
+msgstr "Consuma o item de redefinição da sorte."
 
 msgid "0.愚者"
 msgstr "0. O Louco"
 
 msgid "愚者之旅。"
-msgstr "Jornada do Louco."
+msgstr "A Jornada do Tolo."
 
 msgid ""
 "按照等级次序移除最早获得的最多3个道具，补偿对应数目的剩余道具掉落。\n"
 "\n"
 "{{FOOL}}"
 msgstr ""
-"Seguindo a ordem de nível, remover os primeiros obtidos no máximo 3 itens, "
-"compensando com uma quantidade correspondente de drops de itens "
-"restantes.{{FOOL}}"
+"Remova até 3 itens obtidos primeiro em ordem de classificação e compense com"
+" o número correspondente de itens restantes.{{FOOL}}"
 
 msgid ""
 "移除最多三个低级道具，补充宝箱掉落。\n"
 "\n"
 "{{FOOL}}"
 msgstr ""
-"Remover no máximo três itens de baixo nível, complementar os drops de "
-"baús.{{FOOL}}"
+"Remova até três itens de nível baixo para complementar os itens do baú do "
+"tesouro.{{FOOL}}"
 
 msgid "II.女祭司"
-msgstr "II. Sacerdotisa"
+msgstr "II. A Alta Sacerdotisa"
 
 msgid "属于所有人的光辉。"
 msgstr "O brilho que pertence a todos."
 
 msgid "当前回合内，你获得的药瓶会给你带来+5法术强度提升修正。"
-msgstr ""
-"Durante o turno atual, as poções que você obtém lhe concederão um bônus de "
-"+5 de poder mágico."
+msgstr "Nesta rodada, poções concedem +5 de bônus de poder mágico."
 
 msgid "拾取药瓶临时提升法强。"
-msgstr "Pegar a poção aumenta temporariamente o poder mágico."
+msgstr "Pegar a poção aumenta temporariamente o poder da habilidade."
 
 msgid "子弹时间"
-msgstr "Tempo de Bala"
+msgstr "Tempo de bala"
 
 msgid "像Neo一样闪躲子弹吧！"
-msgstr "Como Neo, esquive as balas!"
+msgstr "Desvie das balas como o Neo!"
 
 msgid "降低敌人子弹速度10%。"
-msgstr "Reduzir a velocidade das balas dos inimigos em 10%."
+msgstr "Reduz a velocidade da bala inimiga em 10%."
 
 msgid "降低敌人子弹速度。"
-msgstr "Reduzir a velocidade das balas inimigas."
+msgstr "Reduza a velocidade da bala inimiga."
 
 msgid "黑心"
-msgstr "coração preto"
+msgstr "Coração Negro"
 
 msgid "脆弱而易怒。"
 msgstr "Frágil e irritável."
 
 msgid "每累计失去最大生命20%时，对所有敌人造成{{0}}伤害，并消除弹幕。"
 msgstr ""
-"Cada vez que perder acumuladamente 20% da vida máxima, causar {{0}} de dano "
-"a todos os inimigos e eliminar os projéteis."
+"Toda vez que você perder 20% do HP máximo, cause {{0}} de dano a todos os "
+"inimigos e elimine balas."
 
 msgid "受伤时消除弹幕。"
-msgstr "Eliminar comentários flutuantes quando ferido."
+msgstr "Elimine balas quando estiver ferido."
 
 msgid "可以坐的椅子"
-msgstr "cadeira para sentar"
+msgstr "Cadeira Sentável"
 
 msgid "3A大作的门槛（确信"
-msgstr "Barreira dos títulos AAA (com certeza)"
+msgstr "O limiar de uma obra-prima AAA (convencido"
 
 msgid "回合结束时恢复一定血量。"
-msgstr "Ao fim do turno, recupera uma certa quantidade de vida."
+msgstr "Restaura um pouco de HP no final da rodada."
 
 msgid "XIV.节制"
 msgstr "XIV. Temperança"
@@ -373,316 +363,311 @@ msgstr "Harmonizar."
 
 msgid "放弃获取武器或道具时，你可以获得一次属性提升加点。"
 msgstr ""
-"Ao abandonar a obtenção de armas ou itens, você pode obter um ponto de "
-"aumento de atributos."
+"Quando você desiste de adquirir uma arma ou item, você pode ganhar um ponto "
+"de aumento de atributo."
 
 msgid "放弃武器或道具时，获得属性加点。"
-msgstr "Ao abandonar uma arma ou item, ganhe pontos de atributo."
+msgstr "Ao abandonar armas ou itens, ganhe pontos de atributo."
 
 msgid "库因克"
 msgstr "Quinque"
 
 msgid "“吃吧……”"
-msgstr "Come..."
+msgstr "“Coma então...”"
 
 msgid "每秒失去1点生命（不会导致角色死亡）。"
-msgstr ""
-"Perde 1 ponto de vida a cada segundo (não causa a morte do personagem)."
+msgstr "Perde 1 HP por segundo (não mata o personagem)."
 
 msgid "棍花"
-msgstr "Flor de Cajado"
+msgstr "Equipe Flourish"
 
 msgid "“棍在身周轮番旋舞，可抵住弹丸箭矢。”"
 msgstr ""
-"O pau girava alternadamente ao redor do corpo, podendo bloquear projéteis e "
-"flechas."
+"\"O cajado gira e rodopia ao redor do corpo em turnos, capaz de bloquear "
+"projéteis e flechas.\""
 
 msgid ""
 "挥起棍子，抵御一切！\n"
 "每3次近战武器攻击的挥砍可以抵挡飞行道具。"
 msgstr ""
-"Levante o cajado, defenda tudo!\n"
-"A cada 3 golpes de ataque com armas corpo a corpo, você pode bloquear projéteis."
+"Empunhe o cajado e resista a tudo! A cada 3 ataques corpo a corpo, ele "
+"bloqueia projéteis."
 
 msgid "近战攻击有时抵挡子弹。"
-msgstr "Ataque corpo a corpo às vezes bloqueia balas."
+msgstr "Ataques corpo a corpo às vezes bloqueiam balas."
 
 msgid "VI.恋人"
-msgstr "VI. Amante"
+msgstr "VI. Os Amantes"
 
 msgid "他、她或者它，会拯救你。"
-msgstr "Ele, ela ou ele, irá te salvar."
+msgstr "Ele, ela ou aquilo irá salvá-lo."
 
 msgid "回合结束时，自动回收所有未拾取的药瓶。"
 msgstr ""
-"Ao final do round, recupera automaticamente todos os frascos de poção não "
+"No final da rodada, recupere automaticamente todos os frascos de poção não "
 "coletados."
 
 msgid "回合结束，自动拾取药瓶。"
-msgstr "Fim do round, coleta automática de poções."
+msgstr "Fim da rodada, pega poção automaticamente."
 
 msgid "广告位招租"
 msgstr "Espaço publicitário para alugar"
 
 msgid "来个“XX饮品”给我打钱谢谢！"
-msgstr ""
+msgstr "\"XX Drink\" Pague, obrigado!"
 
 msgid "提升药瓶的恢复能力。"
-msgstr "Aumentar a capacidade de recuperação da poção."
+msgstr "Aumenta a capacidade de recuperação da poção."
 
 msgid "圣水"
-msgstr "água benta"
+msgstr "Água benta"
 
 msgid "“对恶魔有奇效。”"
-msgstr "É altamente eficaz para demônios."
+msgstr "Altamente eficaz contra demônios."
 
 msgid ""
 "暴击会对敌人所在的位置施加圣水效果，每 0.25 秒造成{{0}}伤害。\n"
 "这个效果有 3 秒的冷却。\n"
 "圣水效果持续时间至少为 2 秒。你每持有一个圣水，圣水效果的持续时间延长 1 秒。"
 msgstr ""
-"Um Golpe Crítico aplicará o efeito de Água Santa na posição do inimigo, causando {{0}} de dano a cada 0.25 segundos.\n"
-"Este efeito tem um cooldown de 3 segundos.\n"
-"A duração do efeito de Água Santa é de pelo menos 2 segundos. Cada Água Santa que você possuir aumenta a duração do efeito em 1 segundo."
+"Acertos críticos aplicam Água Benta no local do inimigo, causando {{0}} de "
+"dano a cada 0,25 s. 3 s de recarga. O efeito dura pelo menos 2 s. Cada Água "
+"Benta aumenta a duração em 1 s."
 
 msgid "暴击时，造成持续范围法术伤害。"
-msgstr "Ao acertar um golpe crítico, causa dano mágico contínuo de área."
+msgstr "Em acerto crítico, causa dano mágico de área contínuo."
 
 msgid "坐标之力"
-msgstr "Força das Coordenadas"
+msgstr "Poder das Coordenadas"
 
 msgid "总有人要偿还罪孽。"
-msgstr "Alguém sempre tem que pagar os pecados."
+msgstr "Alguém deve expiar os pecados."
 
 msgid ""
 "放弃道具时，宝箱+1。\n"
 "你可以通过放弃道具并在下回合重新拾取的方式来重置道具选项。"
 msgstr ""
-"Ao abandonar um item, baú +1.\n"
-"Você pode resetar as opções de itens abandonando um item e recuperando-o novamente na próxima rodada."
+"Ao descartar um item, você ganha +1 no Baú do Tesouro. Você pode redefinir "
+"as opções do item descartando um item e pegando-o novamente na próxima "
+"rodada."
 
 msgid "放弃道具时，下回合重置。"
-msgstr "Quando o item for abandonado, a próxima rodada será resetada."
+msgstr "Ao descartar o item, reinicie a próxima rodada."
 
 msgid "杀意之波动"
-msgstr "Onda de Intenção Homicida"
+msgstr "Onda de Intenção Assassina"
 
 msgid "能够破坏一切的究极力量。"
-msgstr "A última força capaz de destruir tudo."
+msgstr "poder supremo que pode destruir tudo."
 
 msgid ""
 "强化你的空手状态。\n"
 "【空手】重新回到武器池。"
 msgstr ""
-"Fortaleça seu estado de mão vazia.\n"
-"【Mão Vazia】Retorne para a piscina de armas."
+"Fortaleça seu estado desarmado. [Desarmado] Retorne ao conjunto de armas."
 
 msgid "1UP蘑菇"
 msgstr "Cogumelo 1UP"
 
 msgid "加一条命！"
-msgstr "Ganhar uma vida!"
+msgstr "Uma vida extra!"
 
 msgid ""
 "角色死亡时，会以当前生命的50%原地复生。\n"
 "生效后移除此道具。"
 msgstr ""
-"Quando o personagem morrer, reviverá no local com 50% da vida atual. Após "
-"ser ativado, este item será removido."
+"Revive com 50% de PV quando o personagem morre. Consumido na ativação."
 
 msgid "复活次数+1"
-msgstr "Número de revives +1"
+msgstr "Reviver Contagem +1"
 
 msgid "蓝色方块"
-msgstr "Quadrado azul"
+msgstr "Cubo Azul"
 
 msgid "过去并未消逝，甚至并未过去。"
-msgstr "O passado não se foi, e nem sequer passou."
+msgstr "O passado nunca desapareceu, nem realmente passou."
 
 msgid ""
 "回到上一波次。\n"
 "永久提升敌人强度。"
 msgstr ""
-"Voltar para a onda anterior. Permanentemente aumentar a intensidade dos "
-"inimigos."
+"Retorna à onda anterior. Aumenta permanentemente a força dos inimigos."
 
 msgid "XV.恶魔"
-msgstr "XV. Demônio"
+msgstr "XV. O Diabo"
 
 msgid "无尽渴望与自我束缚。"
-msgstr "Desejo infinito e auto-restrição."
+msgstr "Desejo infinito e autocontrole."
 
 msgid "每持有一个道具，你的法术强度会修正减少{{0}}。这个修正不会高于{{1}}"
 msgstr ""
-"Por cada item que você possui, sua força mágica sofrerá uma redução "
-"modificada de {{0}}. Esta modificação não ultrapassará {{1}}"
+"Cada item reduz seu poder mágico em {{0}}. Essa redução não excederá {{1}}."
 
 msgid "道具越少，法术强度提升越高。"
-msgstr "Quanto menos itens, maior o aumento do poder mágico."
+msgstr "Quanto menos itens, maior será o aumento do poder mágico."
 
 msgid "I.魔术师"
-msgstr "I. Mago"
+msgstr "I. O Mágico"
 
 msgid "变化莫测，心想事成。"
-msgstr "Mudanças imprevisíveis, tudo o que se deseja se realiza."
+msgstr ""
+"Os ventos da mudança são imprevisíveis; os desejos do coração são "
+"realizados."
 
 msgid "胡桃"
-msgstr "noz"
+msgstr "Noz"
 
 msgid "\"他们的火力只能让我感到一种麻麻的感觉，像是……令人放松的背部按摩。”"
 msgstr ""
-"\"Seu fogo só consegue me fazer sentir uma sensação de formigamento, tipo..."
-" uma massagem relaxante nas costas.\""
+"“O poder de fogo deles só me dá uma sensação de formigamento, como... uma "
+"massagem relaxante nas costas.”"
 
 msgid "生成一个可以抵挡子弹的环绕物。"
-msgstr "Gerar um objeto circundante capaz de resistir a balas."
+msgstr "Cria uma esfera que bloqueia balas."
 
 msgid "防御性环绕物。"
-msgstr "Circunferência defensiva."
+msgstr "Cerco defensivo."
 
 msgid "懒骨头"
-msgstr "preguiçoso"
+msgstr "Ossos preguiçosos"
 
 msgid "“找八份工作就有八份假期。”"
-msgstr "\"Ter oito empregos, ter oito férias.\""
+msgstr "“Ter oito empregos significa ter oito férias.”"
 
 msgid "站立不动时，法术强度修正+25%。"
-msgstr "Quando estiver parado, modificador de poder mágico +25%."
+msgstr "Enquanto estiver parado, Modificador de Poder Mágico +25%."
 
 msgid "站立不动时，法术强度临时提升。"
-msgstr "Quando permanecer parado, o poder mágico é temporariamente aumentado."
+msgstr "Ao ficar parado, o Poder Mágico é temporariamente aumentado."
 
 msgid "勤快骨头"
-msgstr "trabalhador nato"
+msgstr "Ossos Diligentes"
 
 msgid "“人类！”"
-msgstr "Humanos!"
+msgstr "\"Humanidade!\""
 
 msgid "Rabot-2333"
 msgstr "Rabot-2333"
 
 msgid "把接下来的一个 \"hurt\" 转化为 \"block\" ~"
-msgstr "Transforme o próximo \"hurt\" em \"block\" ~"
+msgstr "Converta a próxima “mágoa” em “bloqueio”~"
 
 msgid "回合开始时获得一个护盾。"
 msgstr "No início do turno, ganha um escudo."
 
 msgid "大生命药水"
-msgstr "Poção de Vida Grande"
+msgstr "Poção de Saúde Maior"
 
 msgid "“喝得更爽！”"
-msgstr "\"Beber mais gostoso!\""
+msgstr "“Beba mais refrescantemente!”"
 
 msgid ""
 "掉落的生命药水有 50% 的概率变为大生命药水。\n"
 "拾取大生命药水时，额外恢复角色{{0}}生命值。"
 msgstr ""
-"Poção de Vida que cai tem 50% de chance de virar Grande Poção de Vida. Ao "
-"coletar a Grande Poção de Vida, o personagem recupera {{0}} pontos de vida "
-"extra."
+"Poções de saúde têm 50% de chance de se tornarem Maiores. Pegar uma Poção de"
+" Saúde Maior restaura {{0}} PV EXTRA."
 
 msgid "概率升级药瓶，提升其恢复能力。"
-msgstr ""
-"Frasco de poção com upgrade probabilístico, aumentando sua capacidade de "
-"recuperação."
+msgstr "Chance de melhorar Poções de Saúde, melhorando sua cura."
 
 msgid "无响应"
-msgstr "Sem resposta"
+msgstr "Nenhuma resposta"
 
 msgid "按 Ctrl + Alt + Delete 打开任务管理器。"
 msgstr "Pressione Ctrl + Alt + Delete para abrir o Gerenciador de Tarefas."
 
 msgid "弹幕"
-msgstr "comentários flutuantes"
+msgstr "Inferno de balas"
 
 msgid "——因为太长了看不清所以必须要慢下来……"
 msgstr ""
-"— Porque é muito longo para ver claramente, então tenho que desacelerar……"
+"—Muito tempo para ver claramente, não tenho escolha a não ser desacelerar..."
 
 msgid "神经网络"
-msgstr "rede neural"
+msgstr "Rede Neural"
 
 msgid "21世纪最伟大的发明。"
-msgstr "A invenção mais grande do século XXI."
+msgstr "A maior invenção do século XXI."
 
 msgid "等级提升时，额外使你的{{0}}和{{1}}两者中最高的属性+2。"
 msgstr ""
-"Ao subir de nível, adicionalmente aumenta o maior atributo entre {{0}} e "
-"{{1}} em +2."
+"Ao subir de nível, concede adicionalmente +2 ao maior valor entre {{0}} e "
+"{{1}}."
 
 msgid "升级时，提升攻击力或法术强度中更高的一方。"
-msgstr "Ao subir de nível, aumente o maior entre ataque ou poder mágico."
+msgstr ""
+"Ao subir de nível, aumente o que for maior entre poder de ataque e poder de "
+"habilidade."
 
 msgid "魂火"
-msgstr "Fogo da Alma"
+msgstr "Chama da Alma"
 
 msgid "燃尽你的灵魂。"
-msgstr "Consuma sua alma."
+msgstr "Queime sua alma."
 
 msgid "每回合自动生成2个白色魂火，对接触到的敌人造成{{0}}伤害，或抵挡飞行道具。生效后会消失。"
 msgstr ""
-"A cada turno, gera automaticamente 2 chamas de alma brancas, causando {{0}} "
-"de dano a inimigos que entram em contato ou bloqueando projéteis. Após "
-"ativar, desaparece."
+"Gera automaticamente 2 Chamas da Alma brancas por rodada, causando {{0}} de "
+"dano aos inimigos ou bloqueando projéteis. Desaparece após a ativação."
 
 msgid "两个法术伤害环绕物。"
-msgstr "dois objetos circundantes de dano mágico."
+msgstr "Duas esferas de dano mágico."
 
 msgid "XIX.太阳"
-msgstr "XIX. Sol"
+msgstr "XIX. O Sol"
 
 msgid "洞察一切真相，但权力在你手上。"
-msgstr "Você percebe todas as verdades, mas o poder está em suas mãos."
+msgstr "Veja todas as verdades, mas o poder está em suas mãos."
 
 msgid "环绕物变远。"
-msgstr "Os circundantes se afastam."
+msgstr "Objetos orbitais se afastam."
 
 msgid "XVII.星星"
-msgstr "XVII. Estrelas"
+msgstr "XVII. A Estrela"
 
 msgid "希望，成长，获得新生。"
-msgstr "Esperança, crescimento, ganhar uma nova vida."
+msgstr "Esperança, crescimento, renascimento."
 
 msgid "鱼"
-msgstr "peixe"
+msgstr "Peixe"
 
 msgid "它还活着！"
-msgstr "Ele ainda está vivo!"
+msgstr "Ainda está vivo!"
 
 msgid "暴击暴击"
-msgstr "Crítico crítico"
+msgstr "Sobrecarga crítica"
 
 msgid "特别狠的一下。"
-msgstr "Um golpe muito forte."
+msgstr "Um golpe particularmente pesado."
 
 msgid "暴击率每超过100%，可固定多享有一次暴击收益，不足100%的部分可以再次判定暴击。"
 msgstr ""
-"A cada vez que a chance de crítico ultrapassar 100%, é possível ganhar um "
-"benefício de crítico adicional fixo, e a parte que não atinge 100% pode ser "
-"julgada novamente para crítico."
+"Cada taxa crítica de 100% concede um bônus crítico extra a cada acerto. E a "
+"taxa crítica restante terá a chance de ativar outro acerto crítico."
 
 msgid "暴击率溢出时提升伤害。"
-msgstr "Quando a taxa de crítico exceder, aumenta o dano."
+msgstr "Aumenta o dano quando a taxa de acerto crítico excede o limite."
 
 msgid "蜕变挽歌"
 msgstr "Elegia da Metamorfose"
 
 msgid "为武器灌输神圣的力量。"
-msgstr "Infundir força sagrada na arma."
+msgstr "Infundir armas com poder sagrado."
 
 msgid "生命大于50%时，普通攻击会释放和当前武器攻击相当的剑气。"
 msgstr ""
-"Quando a vida estiver acima de 50%, o ataque normal lançará uma rajada de "
-"espada equivalente ao ataque da arma atual."
+"Quando HP >50%, ataques normais liberarão ondas de espada com o mesmo poder "
+"de ataque da arma atual."
 
 msgid "血量充足时，攻击携带剑气。"
-msgstr "Quando a vida estiver plena, o ataque carrega energia de espada."
+msgstr "Os ataques carregam energia de espada quando a saúde é suficiente."
 
 msgid "弱欲之壶"
-msgstr "Jarro do Desejo Fraco"
+msgstr "Vaso do Desejo Fraco"
 
 msgid "自己从卡组抽两张。"
-msgstr "Você compra duas cartas do baralho."
+msgstr "Compre duas cartas do baralho sozinho."
 
 msgid "宝箱 +2"
 msgstr "Baú +2"
@@ -692,78 +677,76 @@ msgstr "Noz Explosiva"
 
 msgid "“我仅有的能力就是一颗火热的心，但这对于保护世界来说远远不够。”"
 msgstr ""
-"\"Minha única capacidade é um coração ardente, mas isso é muito pouco para "
-"proteger o mundo.\""
+"“Minha única habilidade é um coração de fogo, mas está longe de ser "
+"suficiente para proteger o mundo.”"
 
 msgid ""
 "生成一个可以爆炸的环绕物，接触敌人时会产生爆炸并销毁，造成{{0}}伤害。\n"
 "这个环绕物有3秒的重置时间。"
 msgstr ""
-"Gerar um objeto circundante explosivo que, ao tocar em um inimigo, explodirá"
-" e será destruído, causando {{0}} de dano. Este objeto circundante tem um "
-"tempo de recarga de 3 segundos."
+"Cria uma esfera explosiva que detona ao contato com o inimigo, causando "
+"{{0}} de dano. Tempo de reinicialização de 3s para a esfera."
 
 msgid "可爆炸的法术伤害环绕物。"
-msgstr "Entorno de dano mágico explosivo."
+msgstr "Aura de dano mágico explosivo."
 
 msgid "计分板"
-msgstr "marcador"
+msgstr "Placar"
 
 msgid "只要我掉血的够快，死亡就追不上我！"
 msgstr ""
-"Enquanto eu perder sangue rápido o suficiente, a morte não consegue me "
-"alcançar!"
+"Enquanto eu perder HP rápido o suficiente, a morte nunca me alcançará!"
 
 msgid "受到的伤害会缓慢结算，回合结束时清空未结算的剩余伤害。"
 msgstr ""
-"O dano sofrido será contabilizado lentamente, e ao final do turno, o dano "
-"restante não contabilizado será zerado."
+"O dano é resolvido gradual e lentamente, e o dano restante não resolvido é "
+"eliminado no final da rodada."
 
 msgid "受伤改为持续掉血。"
-msgstr "Ferido alterado para perda contínua de sangue."
+msgstr "Lesão é transformada em perda contínua de sangue."
 
 msgid "银弹"
-msgstr "bala de prata"
+msgstr "Bala de Prata"
 
 msgid "解决一切问题。"
-msgstr "Resolver todos os problemas."
+msgstr "Resolve todos os problemas."
 
 msgid "远程武器贯穿伤害不再衰减。"
-msgstr "O dano de penetração das armas de longo alcance não decai mais."
+msgstr "O dano de penetração de armas de longo alcance não é mais reduzido."
 
 msgid "XIX.月亮"
 msgstr "XIX. Lua"
 
 msgid "照亮你的内心。"
-msgstr "Ilumine seu coração."
+msgstr "Ilumina seu eu interior."
 
 msgid ""
 "暴击会在敌人所在的位置产生一枚可以贯穿大量敌人的冰霜子弹，造成{{0}}伤害并暴击。\n"
 "每多持有一个月亮，会多产生一枚随机方向的冰霜子弹，但这枚子弹不会对中央的敌人造成更多次伤害。\n"
 "这个效果有1秒的冷却。"
 msgstr ""
-"Um golpe crítico gera uma bala de gelo que pode atravessar muitos inimigos na posição do inimigo, causando {{0}} de dano e crítico.\n"
-"Por cada lua adicional que você possuir, gera uma bala de gelo em uma direção aleatória adicional, mas essa bala não causará danos adicionais ao inimigo central.\n"
-"Este efeito tem um cooldown de 1 segundo."
+"Críticos criam uma bala de gelo na posição do inimigo que pode penetrar "
+"muitos inimigos, causando {{0}} de dano e acerto crítico. Cada Lua cria uma "
+"bala de gelo extra em uma direção aleatória, mas não causa mais dano ao "
+"inimigo central. 1s de recarga."
 
 msgid "暴击时，产生可穿透的法术伤害飞弹。"
-msgstr ""
-"Ao acertar um golpe crítico, gera um míssil de dano mágico perfurável."
+msgstr "O dano penetrante de armas de longo alcance não diminui mais."
 
 msgid "XXI.审判"
 msgstr "XXI. Julgamento"
 
 msgid "唤醒潜能，自我审判。"
-msgstr "Despertar o potencial, auto-julgamento."
+msgstr "Desperte o potencial, julgue a si mesmo."
 
 msgid "每次升级降低1点攻击力。"
-msgstr "Cada subida de nível reduz 1 ponto de ataque."
+msgstr "Cada nível acima reduz o poder de ataque em 1."
 
 msgid "IV.皇帝"
-msgstr "IV. Imperador"
+msgstr "IV. O Imperador"
 
 msgid "无法违抗。"
-msgstr "Não pode ser desobedecido."
+msgstr "Não pode desobedecer."
 
 msgid "在有头目的回合开始时，获得一个护盾。"
 msgstr "No início do turno com chefe, ganhe um escudo."
@@ -772,22 +755,22 @@ msgid "VIII.力量"
 msgstr "VIII. Força"
 
 msgid "并非蛮力。"
-msgstr "Não é força bruta."
+msgstr "Não força bruta."
 
 msgid "合并图层"
-msgstr "Mesclar Camadas"
+msgstr "Mesclar camadas"
 
 msgid "坏了！撤不回了！"
-msgstr "Deu ruim! Não consigo retirar!"
+msgstr "Ah, não! Não é possível desfazer!"
 
 msgid "所有属性不再下降。"
-msgstr "Todos os atributos deixaram de diminuir."
+msgstr "Todas as estatísticas não diminuem mais."
 
 msgid "机魂"
-msgstr "Alma da Máquina"
+msgstr "Alma Mech"
 
 msgid "“愿人类，荣光永存。”"
-msgstr "Que a humanidade, glória permaneça para sempre."
+msgstr "“Que a glória da humanidade dure para sempre.”"
 
 msgid ""
 "根据持有机魂数量执行效果：\n"
@@ -796,41 +779,39 @@ msgid ""
 "3个：机器人不再环绕角色，而是跟随角色并自动向周围发射子弹，造成{{1}}伤害。\n"
 "4个及以上：重复以上效果。"
 msgstr ""
-"Efeitos executados com base na quantidade de almas mecânicas possuídas:\n"
-"1: Gera um pequeno robô que orbita e bloqueia balas.\n"
-"2: O robô causa {{0}} de dano físico a unidades que entram em contato.\n"
-"3: O robô deixa de orbitar o personagem, passa a segui-lo e dispara balas automaticamente ao redor, causando {{1}} de dano.\n"
-"4 ou mais: Repete os efeitos acima."
+"Efeito baseado no número de Orbes Espirituais segurados: 1: Gera um pequeno "
+"robô orbital que bloqueia balas. 2: O robô causa {{0}} de dano físico às "
+"unidades contatadas. 3: O robô não orbita mais o personagem, mas o segue e "
+"dispara balas automaticamente ao redor dele, causando {{1}} de dano. 4 ou "
+"mais: Repete os efeitos acima."
 
 msgid "生成小机器人环绕物。"
-msgstr "Gerar circunvalação do pequeno robô."
+msgstr "Gere pequenos ambientes de robôs."
 
 msgid "看板娘"
-msgstr ""
-"异常: HTTPSConnectionPool(host='ark.cn-beijing.volces.com', port=443): Read "
-"timed out. (read timeout=30)"
+msgstr "Museu Kanban"
 
 msgid "所有的可选角色都是这位cosplay的。"
-msgstr "Essa pessoa fez cosplay de todos os personagens opcionais."
+msgstr "Todos os personagens disponíveis são cosplayers dela."
 
 msgid "骑士"
-msgstr "cavaleiro"
+msgstr "Cavaleiro"
 
 msgid "其实这是一件盔甲，你只需要穿上它就好。战斗几乎是全自动的。"
 msgstr ""
-"Na verdade, isso é uma armadura; você só precisa vesti-la. A batalha é quase"
-" totalmente automática."
+"Na verdade, isto é uma armadura. Basta usá-la. O combate é quase totalmente "
+"automático."
 
 msgid "升级时以随机属性提升来代替自由加点。"
 msgstr ""
-"Ao subir de nível, o aumento aleatório de atributos substitui a distribuição"
-" livre de pontos."
+"Aumento aleatório de estatísticas ao subir de nível em vez de alocação "
+"gratuita de pontos."
 
 msgid "升级自动加点。"
-msgstr "Auto-atribuição de pontos ao subir de nível."
+msgstr "Atribuir pontos automaticamente ao subir de nível."
 
 msgid "树"
-msgstr "árvore"
+msgstr "Árvore"
 
 msgid "圣诞快乐！"
 msgstr "Feliz Natal!"
@@ -839,33 +820,32 @@ msgid ""
 "受到接触伤害时反弹同等伤害并击退。\n"
 "移动速度修正为20%。"
 msgstr ""
-"Quando sofrer dano por contato, refletir dano igual e repelir.\n"
-"Velocidade de movimento corrigida para 20%."
+"Reflete dano e recuo iguais ao receber dano de contato. Velocidade de "
+"movimento modificada para 20%."
 
 msgid "移速很慢，反弹伤害。"
-msgstr "Velocidade de movimento muito lenta, reflete dano."
+msgstr "A velocidade de movimento é muito lenta e reflete o dano."
 
 msgid "煮蛋"
 msgstr "ovo cozido"
 
 msgid "为了对抗入侵星球的外星势力，他选择拿起了武器。"
 msgstr ""
-"Para combater as forças alienígenas que invadiram o planeta, ele escolheu "
-"pegar as armas."
+"Para lutar contra as forças alienígenas que invadiam o planeta, ele escolheu"
+" pegar em armas."
 
 msgid ""
 "每两回合可以获得一把新武器，最多可以同时装备六把武器。\n"
 "每多装备一把武器会带来更低的伤害修正。"
 msgstr ""
-"A cada duas rodadas, você pode obter uma nova arma e pode equipar no máximo "
-"seis armas ao mesmo tempo. Cada arma adicional equipada resultará em uma "
-"menor correção de dano."
+"Ganhe uma nova arma a cada duas rodadas. Máximo de seis armas equipadas. "
+"Cada arma adicional equipada aplica uma modificação de dano menor."
 
 msgid "最多同时装备六把武器。"
-msgstr "Equipe no máximo seis armas ao mesmo tempo."
+msgstr "No máximo seis armas podem ser equipadas ao mesmo tempo."
 
 msgid "狩龙人"
-msgstr "caçador de dragões"
+msgstr "Caçador de Dragões"
 
 msgid ""
 "每次攻击会积攒1点怒气，累计到达5点时积满。积满怒气时需切换武器才能继续攻击。\n"
@@ -875,140 +855,147 @@ msgstr ""
 "Após trocar de arma com a raiva cheia, o primeiro ataque causará {{0}} de dano e terá {{1}} de roubo de vida."
 
 msgid "神社巫女"
-msgstr "miko de jinja"
+msgstr "Donzela do Santuário"
 
 msgid ""
 "角色会积攒最多8团魂火，这个效果有3秒冷却时间。\n"
 "魂火会环绕在角色周围，帮助角色抵挡子弹，并对接触的敌人造成{{0}}伤害。\n"
 "持有魂火会使你的攻击力下降。"
 msgstr ""
-"O personagem acumulará até 8 chamas de alma, e esse efeito tem um tempo de recarga de 3 segundos.\n"
-"Chamas de alma circularão ao redor do personagem, ajudando-o a bloquear balas e causando dano {{0}} aos inimigos que entrarem em contato.\n"
-"Manter chamas de alma reduzirá sua força de ataque."
+"O personagem pode acumular até 8 orbes de Fogo da Alma, e este efeito tem um"
+" tempo de recarga de 3 segundos. Orbes de Fogo da Alma orbitarão ao redor do"
+" personagem, ajudando a bloquear balas e causando {{0}} de dano aos inimigos"
+" que tocarem. Ter orbes de Fogo da Alma reduzirá seu poder de ataque."
 
 msgid "生成魂火环绕物帮助战斗。"
-msgstr "Gerar fogo de alma circundante para ajudar na luta."
+msgstr "Gera uma aura de fogo da alma para auxiliar no combate."
 
 msgid "精灵"
-msgstr "Elfo"
+msgstr "Duende"
 
 msgid ""
 "只能装备两把相同的武器。\n"
 "切换武器时会进行一次闪躲。闪躲时不会受到伤害，同时临时提升暴击率。"
 msgstr ""
-"Só é possível equipar duas armas iguais.\n"
-"Ao trocar de arma, será executado um desvio.\n"
-"Durante o desvio, não sofrerá dano e a chance de crítico será temporariamente aumentada."
+"Só é possível equipar duas armas idênticas. Trocar de arma ativa uma "
+"esquiva. Esquivar concede um aumento temporário na taxa de acerto crítico e "
+"imunidade a dano."
 
 msgid "切换武器改为闪躲。"
-msgstr "Trocar de arma alterado para esquivar."
+msgstr "Mude a arma para esquivar."
 
 msgid "勇者"
-msgstr "Valente"
+msgstr "Herói"
 
 msgid ""
 "等级提升所需要的经验值更多。\n"
 "游戏结束会保留存档，再次选择该角色时可以读取上次游戏进度。"
 msgstr ""
-"Para subir de nível, é necessária mais experiência. Ao finalizar o jogo, o "
-"progresso será salvo; ao selecionar o personagem novamente, é possível "
-"carregar o último progresso do jogo."
+"Requer mais XP para subir de nível. Salva o progresso no fim do jogo. Pode "
+"carregar o último progresso ao selecionar este personagem novamente."
 
 msgid "重玩该角色可以读档。"
 msgstr ""
-"Para recomeçar a jogar com esse personagem, é possível carregar um save."
+"Você pode carregar um jogo salvo para jogar novamente com esse personagem."
 
 msgid "将军"
-msgstr "general"
+msgstr "Em geral"
 
 msgid ""
 "只能装备两把相同的武器。\n"
 "切换武器时会进行一次冲撞，对路径上的敌人造成{{0}}伤害，并在终点处产生一次地震。地震对周围造成{{1}}伤害，并产生{{2}}范围的击退。"
 msgstr ""
-"Pode equipar apenas duas armas idênticas.\n"
-"Ao trocar de arma, ocorrerá um choque, causando {{0}} de dano aos inimigos no caminho e gerando um terremoto no ponto final. O terremoto causa {{1}} de dano ao redor e gera um arremesso com alcance de {{2}}."
+"Só é possível equipar duas armas idênticas. Ao trocar de arma, uma investida"
+" será realizada, causando {{0}} de dano aos inimigos ao longo do caminho e "
+"desencadeando um terremoto no ponto final. O terremoto causa {{1}} de dano à"
+" área ao redor e gera um empurrão com um raio de {{2}}."
 
 msgid "切换武器改为冲撞。"
-msgstr "Mude a troca de arma para carregamento."
+msgstr "Mude o interruptor da arma para carregar."
 
 msgid "朝圣者"
-msgstr "peregrino"
+msgstr "Peregrino"
 
 msgid "你们打一架，打赢的去喂虫子。"
-msgstr ""
+msgstr "Você luta, e o vencedor alimenta os vermes."
 
 msgid ""
 "生成一条圣蛇，持续追向玩家并冲刺。\n"
 "头部会对玩家造成伤害，身体会对接触到的敌人造成{{0}}伤害。"
 msgstr ""
-"Gerar uma serpente sagrada que persegue constantemente o jogador e se lança."
-" A cabeça causará dano ao jogador, e o corpo causará {{0}} de dano aos "
-"inimigos que entram em contato."
+"Gera uma serpente sagrada que persegue o jogador continuamente e avança. A "
+"cabeça causa dano ao jogador, enquanto o corpo causa {{0}} de dano aos "
+"inimigos que entrarem em contato."
 
 msgid "生成追赶玩家的圣蛇。"
-msgstr "Gerar a cobra sagrada que persegue o jogador."
+msgstr "Gera a cobra sagrada que persegue o jogador."
 
 msgid "容器"
-msgstr "recipiente"
+msgstr "Navio"
 
 msgid "若生命值已满时拾取生命药剂，你获得一次属性提升加点，但同时扣除{{0}}生命上限，{{1}}护甲与{{2}}移动速度。"
 msgstr ""
-"Se coletar uma poção de vida quando a vida estiver cheia, você ganha um "
-"ponto de aumento de atributos, mas ao mesmo tempo deduz {{0}} do limite de "
-"vida, {{1}} de armadura e {{2}} de velocidade de movimento."
+"Se você pegar uma poção de saúde quando sua saúde estiver cheia, você ganha "
+"um ponto de melhoria de atributo, mas isso reduzirá {{0}} de saúde máxima, "
+"{{1}} de armadura e {{2}} de velocidade de movimento ao mesmo tempo."
 
 msgid "满血拾取药瓶时，扣除少许属性，获得升级加点。"
 msgstr ""
-"Ao coletar uma poção com vida cheia, deduzir um pouco de atributos e ganhar "
-"pontos de upgrade."
+"Ao pegar uma poção com a saúde cheia, você reduz uma pequena quantidade de "
+"estatísticas e ganha pontos de melhoria."
 
 msgid "战斗人形"
-msgstr "androide de combate"
+msgstr "Androide de Combate"
 
 msgid ""
 "伤害修正为80%。\n"
 "回合开始时生成一个环绕角色的魂火。若一段时间后魂火未被破坏，则角色获得一个[机魂]道具。机魂道具的叠加会为玩家带来不同的提升。"
 msgstr ""
-"O dano foi ajustado para 80%.\n"
-"No início do turno, uma chama de alma que envolve o personagem é gerada. Se, após um período de tempo, a chama de alma não for destruída, o personagem obtém um item [Alma Mecânica]. O acúmulo de itens [Alma Mecânica] trará diferentes melhorias para o jogador."
+"Dano modificado para 80%. Cria uma Chama da Alma ao redor do personagem no "
+"início de cada turno. Se não for destruído após um período, o personagem "
+"ganha um item [Alma Mech]. Acumular Almas Mech concede diferentes "
+"aprimoramentos."
 
 msgid "保护魂火可以强化角色。"
-msgstr "Proteger o fogo da alma pode fortalecer o personagem."
+msgstr "Proteger o fogo da alma pode fortalecer o caráter."
 
 msgid "商人"
-msgstr "comerciante"
+msgstr "Comerciante"
 
 msgid "其实开店是为了攒钱上大鞋……"
-msgstr ""
-"Na verdade, abri a loja para juntar dinheiro para comprar sapatos grandes..."
+msgstr "Na verdade, administrar a loja é para economizar para a faculdade..."
 
 msgid ""
 "升级所需的经验值更多。\n"
 "获取经验值同时获取等量金币，回合结束时可以使用金币购买道具。\n"
 "宝箱不再提供自选道具，改为获得金币。"
 msgstr ""
-"Mais pontos de experiência são necessários para subir de nível.\n"
-"Ganhar pontos de experiência também concede a mesma quantidade de moedas; ao final do turno, é possível usar moedas para comprar itens.\n"
-"Os baús não oferecem mais itens selecionáveis, passando a conceder moedas."
+"Requer mais XP para subir de nível. Ganhar XP também concede a mesma "
+"quantidade de ouro, que pode ser usado para comprar itens ao final das "
+"rodadas. Os baús não fornecem mais itens selecionáveis, mas sim ouro."
 
 msgid "从经验和宝箱获取金币，使用金币购买道具。"
 msgstr ""
-"Obtenha moedas da experiência e dos baús, use as moedas para comprar itens."
+"Ganhe moedas de ouro com experiência e baús de tesouro e use-as para comprar"
+" itens."
 
 msgid "盗贼"
-msgstr "ladrão"
+msgstr "Por conta própria"
 
 msgid "花枝丸说用手柄玩特别有意思！"
-msgstr "Hanazhimaru disse que jogar com o controle é muito divertido!"
+msgstr "Hua-zhi-wan diz que é especialmente divertido jogar com um gamepad!"
 
 msgid "自由指定攻击方位。"
-msgstr "Especificar livremente a direção do ataque."
+msgstr ""
+"Ressuscita quando estiver próximo da morte, aumenta permanentemente o "
+"multiplicador de dano, mantém o sangramento e ganha roubo de vida. Limitado "
+"a uma vez por rodada."
 
 msgid "爱丽丝"
 msgstr "Alice"
 
 msgid "陷入歇斯底里的疯狂吧……"
-msgstr "Caia na histeria da loucura..."
+msgstr "Cair na loucura histérica..."
 
 msgid ""
 "生命归零时进入癫狂状态，每秒持续流血{{0}}并获得{{1}}生命偷取（普通攻击产生击杀时恢复生命）。\n"
@@ -1029,339 +1016,345 @@ msgstr ""
 " turno."
 
 msgid "色欲"
-msgstr "luxúria"
+msgstr "Luxúria"
 
 msgid "余烬仍舔旧吻。"
-msgstr "Cinzas ainda lambem o beijo antigo."
+msgstr "As brasas ainda lambem beijos antigos."
 
 msgid ""
 "你的生命值会在回合开始时从满状态重新计算。\n"
 "但你的生命上限修正为{{0}}，同时失去其他生命恢复手段。"
 msgstr ""
-"Seus pontos de vida serão recalculados a partir do estado cheio no início do"
-" turno. Mas seu limite de vida será ajustado para {{0}}, e ao mesmo tempo "
-"perderá outros meios de recuperação de vida."
+"Sua saúde será recalculada a partir do valor total no início do turno. Mas "
+"sua saúde máxima será ajustada para {{0}}, e você perderá outros meios de "
+"recuperação de saúde."
 
 msgid ""
 "每回合自动补满生命，战斗中无法恢复。\n"
 "降低生命上限。"
 msgstr ""
-"A cada turno recupera automaticamente a vida totalmente, mas não pode ser "
-"recuperada durante a batalha. Reduz o limite de vida."
+"Restaura automaticamente a saúde completa a cada turno; não é possível "
+"recuperar durante a batalha. Reduz a saúde máxima."
 
 msgid "贪婪"
-msgstr "ganância"
+msgstr "Ambição"
 
 msgid "深渊回以金币。"
-msgstr "O abismo retorna com moedas de ouro."
+msgstr ""
+"Restaura automaticamente a saúde completa a cada turno; não é possível "
+"recuperar durante a batalha. Reduz a saúde máxima."
 
 msgid ""
 "经验收益翻倍。\n"
 "但无法选择升级属性。"
 msgstr ""
-"Ganho de experiência dobrado. Mas não é possível escolher upar os atributos."
+"Ganhos de XP em dobro. Não é possível selecionar estatísticas para "
+"aprimorar."
 
 msgid "懒惰"
-msgstr "preguiça"
+msgstr "Preguiça"
 
 msgid "棺内大梦未醒。"
-msgstr "Dentro do caixão, o grande sonho ainda não acordou."
+msgstr "Dentro do caixão, o grande sonho ainda não despertou."
 
 msgid ""
 "将你的攻击力转化为 50% 的法术强度修正。\n"
 "但你的额外移速修正为 25%。"
 msgstr ""
-"Converta sua força de ataque em 50% de modificador de poder mágico. Mas seu "
-"modificador de velocidade de movimento extra é de 25%."
+"Converte seu poder de ataque em uma modificação de 50% do poder mágico. Mas "
+"sua velocidade de movimento adicional é modificada para 25%."
 
 msgid "法术强度转为攻击力，降低移速。"
 msgstr ""
-"Poder Mágico é convertido em Ataque, reduzindo a Velocidade de Movimento."
+"Poder de Habilidade convertido em Dano de Ataque, reduz a velocidade de "
+"movimento."
 
 msgid "愤怒"
-msgstr "raiva"
+msgstr "Fúria"
 
 msgid "焚刃亦焚持者。"
-msgstr "Lâmina em chamas também queima o portador."
+msgstr "Queimar a lâmina também queima o suporte."
 
 msgid ""
 "你的伤害倍率修正为 120%。\n"
 "但你的护甲修正为 20%。"
 msgstr ""
-"Seu multiplicador de dano foi ajustado para 120%. Mas sua armadura foi "
-"ajustada para 20%."
+"Seu multiplicador de dano foi modificado para 120%. Mas sua armadura foi "
+"modificada para 20%."
 
 msgid "提升伤害倍率，降低护甲。"
-msgstr "Aumentar o multiplicador de dano e reduzir a armadura."
+msgstr "Aumenta o multiplicador de dano e reduz a armadura."
 
 msgid "嫉妒"
-msgstr "ciúme"
+msgstr "Inveja"
 
 msgid "他人火光刺骨。"
-msgstr "O fogo dos outros fere até os ossos."
+msgstr "A luz do fogo dos outros é penetrante até os ossos."
 
 msgid "头目的生命值降低30%。"
-msgstr "O chefão tem sua vida reduzida em 30%."
+msgstr "A saúde do chefe é reduzida em 30%."
 
 msgid "头目生命值降低。"
-msgstr "Vida do Chefe reduzida."
+msgstr "A saúde do chefe foi reduzida."
 
 msgid "傲慢"
-msgstr "arrogância"
+msgstr "Orgulho"
 
 msgid "昂首步入裂天。"
-msgstr "Entra de cabeça erguida no céu rachado."
+msgstr "Entre no céu que se abre com a cabeça erguida."
 
 msgid ""
 "将你的法术强度转化为 50% 的攻击力修正。\n"
 "但你的额外攻击范围修正为 50%。"
 msgstr ""
-"Converta sua força mágica em 50% de modificador de ataque.\n"
-"Mas seu alcance de ataque extra é modificado para 50%."
+"Converte seu poder mágico em uma modificação de 50% no poder de ataque. Mas "
+"seu alcance de ataque adicional é modificado para 50%."
 
 msgid "攻击力转为法术强度，降低攻击范围。"
 msgstr ""
-"Força de ataque convertida em poder mágico, reduzindo o alcance de ataque."
+"Poder de Ataque convertido em Poder de Habilidade, reduzindo o alcance do "
+"ataque."
 
 msgid "暴食"
-msgstr "binge"
+msgstr "Glutonaria"
 
 msgid "咀嚼直至自噬。"
 msgstr "Mastigue até a autofagia."
 
 msgid "自动拾取所有掉落的经验。"
-msgstr "Coletar automaticamente todas as experiências que caem."
+msgstr "Coleta automaticamente todo o XP perdido."
 
 msgid "自动拾取经验。"
-msgstr "Coletar experiência automaticamente."
+msgstr "Experiência de retirada automática."
 
 msgid "慷慨"
-msgstr "generosidade"
+msgstr "Caridade"
 
 msgid "白骨仍存余温。"
-msgstr "Os ossos brancos ainda mantêm resquícios de calor."
+msgstr "Os ossos brancos ainda retêm calor persistente."
 
 msgid "升级时，你的属性品质提高一个等级。"
-msgstr ""
-"Ao subir de nível, a qualidade dos seus atributos aumenta em um nível."
+msgstr "Sua qualidade de estatísticas aumenta em um grau ao subir de nível."
 
 msgid "属性品质等级提高。"
-msgstr "O nível de qualidade do atributo é aumentado."
+msgstr "Nível de qualidade do atributo aumentado."
 
 msgid "贞洁"
-msgstr "castidade"
+msgstr "Castidade"
 
 msgid "霜刃守心未锈。"
-msgstr "Lâmina de geada guarda o coração, não enferrujou."
+msgstr "A lâmina com fio de gelo protege o coração, sem ferrugem."
 
 msgid "每{{0}}秒恢复{{1}}生命值。"
-msgstr "A cada {{0}} segundos recupera {{1}} pontos de vida."
+msgstr "Restaura {{1}} HP a cada {{0}} segundos."
 
 msgid "自动恢复生命。"
-msgstr "Recuperação automática de vida."
+msgstr "Restaurar a saúde automaticamente."
 
 msgid "勤奋"
-msgstr "diligência"
+msgstr "Diligência"
 
 msgid "挥剑直至剑眠。"
-msgstr "Brandir a espada até que ela durma."
+msgstr "Empunhe a espada até que ela durma."
 
 msgid "获得等同于等级的攻击力修正。"
-msgstr "Ganhar um modificador de ataque equivalente ao nível."
+msgstr "Ganha uma modificação de poder de ataque igual ao nível."
 
 msgid "大幅提升攻击力。"
-msgstr "Aumenta significativamente o ataque."
+msgstr "Aumenta muito o poder de ataque."
 
 msgid "温和"
-msgstr "suave"
+msgstr "Paciência"
 
 msgid "荒泊开出白花。"
-msgstr "O lago desolado floresce flores brancas."
+msgstr "Flores brancas florescem na costa desolada."
 
 msgid ""
 "成功闪避攻击时恢复生命值。\n"
 "闪避修正+20%，允许溢出闪避属性上限。"
 msgstr ""
-"Ao desviar com sucesso de um ataque, recupera vida. Modificador de desvio "
-"+20%, permite ultrapassar o limite máximo do atributo de desvio."
+"Restaura HP após esquiva bem-sucedida. Modificação de esquiva +20%, "
+"permitindo exceder o limite de atributos de esquiva."
 
 msgid "闪避上升，闪避时恢复生命。"
-msgstr "Esquiva aumentada, recupera vida ao esquivar."
+msgstr "Esquiva aumentada, restaura saúde ao esquivar."
 
 msgid "宽容"
-msgstr "tolerância"
+msgstr "Gentileza"
 
 msgid "让敌影穿身过。"
 msgstr "Deixe a sombra do inimigo passar pelo corpo."
 
 msgid "谦逊"
-msgstr "humildade"
+msgstr "Humildade"
 
 msgid "垂首方见真王。"
-msgstr "Somente ao abaixar a cabeça se vê o verdadeiro rei."
+msgstr "Abaixe a cabeça para ver o verdadeiro rei."
 
 msgid "获得等同于等级的法术强度修正。"
-msgstr "Ganhe um modificador de poder mágico equivalente ao nível."
+msgstr "Ganha uma modificação de poder mágico igual ao nível."
 
 msgid "大幅提升法术强度。"
-msgstr "Significativamente aumenta a força mágica."
+msgstr "Aumenta significativamente o poder mágico."
 
 msgid "节制"
-msgstr "moderação"
+msgstr "Temperança"
 
 msgid "留一隙以窥暗。"
-msgstr "Deixar uma fresta para espiar a escuridão."
+msgstr "Deixe uma fresta para espiar a escuridão."
 
 msgid "空手"
-msgstr "mãos vazias"
+msgstr "Desarmado"
 
 msgid "啥也没有"
 msgstr "Nada"
 
 msgid "手枪"
-msgstr "pistola"
+msgstr "Pistola"
 
 msgid "非常破旧的手枪，曾经被一众充满信仰与希望的骑士用作入门练习的新人武器。"
 msgstr ""
-"Pistola muito desgastada, que outrora foi usada por um grupo de cavaleiros "
-"cheios de fé e esperança como arma de iniciantes para treinamento inicial."
+"Uma pistola muito usada, antigamente por cavaleiros cheios de fé e esperança"
+" como arma de treino para novatos."
 
 msgid "长矛"
-msgstr "lança"
+msgstr "Lança"
 
 msgid "沉重的长矛，见证了无数文明的兴衰和战争的残酷。"
 msgstr ""
-"A lança pesada testemunhou a ascensão e queda de inúmeras civilizações e a "
-"crueldade das guerras."
+"Uma lança pesada que testemunhou a ascensão e queda de inúmeras civilizações"
+" e a crueldade da guerra."
 
 msgid "无锋剑"
-msgstr "espada sem filo"
+msgstr "Espada sem fio"
 
 msgid "“少年人的梦想，踏上旅途的兴奋。”"
-msgstr "\"Os sonhos dos jovens, a excitação de começar a jornada.\""
+msgstr "“O sonho de um jovem, a emoção de partir em uma jornada.”"
 
 msgid "AK47"
 msgstr "AK47"
 
 msgid "在现代战争的钢铁风暴中，AK-47以其无与伦比的耐用性和致命的火力，成为了战场上的传奇。"
 msgstr ""
-"Na tempestade de aço das guerras modernas, o AK-47, com sua incomparável "
-"durabilidade e fogo letal, tornou-se uma lenda no campo de batalha."
+"Nas tempestades de aço da guerra moderna, o AK-47 se tornou uma lenda no "
+"campo de batalha com sua durabilidade incomparável e poder de fogo letal."
 
 msgid "光子法杖"
-msgstr "Cajado de Fóton"
+msgstr "Cajado Mágico de Fótons"
 
 msgid "有什么东西能快得过光呢？"
-msgstr "O que pode ser mais rápido do que a luz?"
+msgstr "O que pode ser mais rápido que a luz?"
 
 msgid "豆射手"
-msgstr "Lança-Ervilha"
+msgstr "Disparador de ervilha"
 
 msgid "“嘿！不要忘了吃早餐！”"
-msgstr "Ei! Não se esqueça de tomar café da manhã!"
+msgstr "\"Ei! Não se esqueça de tomar café da manhã!\""
 
 msgid "霰弹枪"
-msgstr "espingarda de cano largo"
+msgstr "Espingarda"
 
 msgid "经典的泵动式霰弹枪，拉动护木的声音依旧清脆且安全可靠。"
 msgstr ""
-"Clássica espingarda de bomba, o som de puxar a guarda ainda é claro, seguro "
-"e confiável."
+"Uma espingarda clássica de ação de bombeamento, o som de puxar o ferrolho "
+"ainda é nítido e confiável."
 
 msgid "无限真空刃"
 msgstr "Lâmina de Vácuo Infinito"
 
 msgid "以无数的真空之刃将敌人切碎。"
-msgstr "Com inúmeras lâminas de vácuo, despedaçar os inimigos."
+msgstr "Destrói inimigos com inúmeras lâminas de vácuo."
 
 msgid "手里剑"
-msgstr "shuriken"
+msgstr "Shuriken"
 
 msgid "每一名忍者的必备武器，更是那些精通潜行和暗杀技巧的战士们的得力助手。"
 msgstr ""
-"A arma essencial de todo ninja, e, ainda mais, um auxiliar confiável para os"
-" guerreiros que dominam as técnicas de furtividade e assassinato."
+"Uma arma essencial para todo ninja e até mesmo uma assistente confiável para"
+" guerreiros habilidosos em furtividade e assassinato."
 
 msgid "火焰法杖"
-msgstr "Cajado de Fogo"
+msgstr "Cajado Mágico de Chamas"
 
 msgid "有什么东西能烧得过火呢？"
-msgstr "O que pode queimar demais?"
+msgstr "O que pode queimar mais que o fogo?"
 
 msgid "鲜红魔镰"
-msgstr "Foice Demoníaca Vermelha Brilhante"
+msgstr "Foice Demoníaca Carmesim"
 
 msgid "化身流丽死神，手持不死身躯之血铸成的魔镰奋战。"
 msgstr ""
-"Se transforma em um elegante Anjo da Morte, segurando uma foice mágica "
-"forjada com o sangue de um corpo imortal e lutando bravamente."
+"Torne-se uma bela ceifadora, lutando com uma foice demoníaca forjada a "
+"partir do sangue de corpos mortos-vivos."
 
 msgid "西洋剑"
-msgstr "espada de esgrima"
+msgstr "Florete"
 
 msgid "感受优雅的战斗艺术。"
-msgstr "Sentir a arte elegante de combate."
+msgstr "Experimente a elegante arte do combate."
 
 msgid "弹弓"
-msgstr "lança-pedras"
+msgstr "Estilingue"
 
 msgid "“半夜打你家玻璃！”"
-msgstr "À meia-noite, vou bater no vidro da sua casa!"
+msgstr "“Quebre suas janelas à meia-noite!”"
 
 msgid "苦无"
-msgstr "kunai"
+msgstr "Kunai"
 
 msgid "每一名忍者的必备武器，更是那些行走在阴影中的刺客们的首选武器。"
 msgstr ""
-"Arma essencial de cada ninja, e, além disso, a arma preferida dos assassinos"
-" que andam nas sombras."
+"Uma arma essencial para todo ninja, e até mesmo a arma preferida dos "
+"assassinos que andam nas sombras."
 
 msgid "灵体长矛"
-msgstr "Lança Espiritual"
+msgstr "Lança Etérea"
 
 msgid "似乎有一股淡淡的鱼腥味，这让你充满了决心。"
-msgstr "Parece haver um leve cheiro de peixe, o que te enche de determinação."
+msgstr "Parece haver um leve cheiro de peixe, que lhe enche de determinação."
 
 msgid "战斧"
-msgstr "tomahawk"
+msgstr "Machado de Batalha"
 
 msgid "“兽人永不为奴！”"
-msgstr "\"Os Orcs nunca serão escravos!\""
+msgstr "“Orcs nunca serão escravos!”"
 
 msgid "空手？"
-msgstr "Com as mãos vazias?"
+msgstr "Desarmado?"
 
 msgid "觉醒了杀意之波动，即便赤手空拳也能爆发出强大的杀伤力。"
 msgstr ""
-"Despertou as ondas de intenção homicida; mesmo com as mãos nuas, consegue "
-"explodir um poder letal forte."
+"Despertou a onda de intenção assassina, pode liberar um poderoso poder de "
+"matar, mesmo estando desarmado."
 
 msgid "妈妈的菜刀"
-msgstr "faca da mãe"
+msgstr "Faca da mamãe"
 
 msgid "戳！戳！戳！"
-msgstr "Pica! Pica! Pica!"
+msgstr "Facada! Facada! Facada!"
 
 msgid "M4A1"
 msgstr "M4A1"
 
 msgid "在现代战场的无情风暴中，M4A1以其无与伦比的适应性和致命的精确度，成为了士兵们手中的信赖之选。"
 msgstr ""
-"Em meio à tempestade implacável do campo de batalha moderno, o M4A1, com sua"
-" adaptabilidade incomparável e precisão letal, se tornou a escolha confiável"
-" nas mãos dos soldados."
+"Nas tempestades implacáveis dos campos de batalha modernos, o M4A1 se tornou"
+" a escolha confiável dos soldados com sua adaptabilidade incomparável e "
+"precisão letal."
 
 msgid "M870"
 msgstr "M870"
 
 msgid "在现代战场中，M870以其泵动式的威力和模块化的灵活性，成为了战士们手中的毁灭使者。"
 msgstr ""
+"Nos campos de batalha modernos, o M870 se tornou um prenúncio de destruição "
+"para os guerreiros com sua potência de bombeamento e flexibilidade modular."
 
 msgid "十字架"
-msgstr "cruz"
+msgstr "Crucifixo"
 
 msgid "别把他带进恶魔城。"
-msgstr "Não leve-o para o Castelo do Demônio."
+msgstr "Não leve isso para o Castelo Drácula."
 
 msgid "XIII.死亡"
 msgstr "XIII. Morte"
@@ -1370,383 +1363,381 @@ msgid "无谓的反抗。"
 msgstr "Resistência inútil."
 
 msgid "新手"
-msgstr "iniciante"
+msgstr "Novato"
 
 msgid "完成一轮游戏。"
-msgstr "Completar uma rodada de jogo."
+msgstr "Termine o jogo uma vez."
 
 msgid "老手"
-msgstr "veterano"
+msgstr "Veterano"
 
 msgid "通关一轮游戏。"
-msgstr "Completar uma rodada do jogo."
+msgstr "Termine o jogo uma vez."
 
 msgid "好身手！"
-msgstr "Boa habilidade!"
+msgstr "Ótimas habilidades!"
 
 msgid "闪避率达到 40%。"
-msgstr "Taxa de esquiva atinge 40%."
+msgstr "A taxa de evasão chega a 40%."
 
 msgid "飞毛腿"
-msgstr "pés de vento"
+msgstr "Corredor Veloz"
 
 msgid "速度达到 2。"
-msgstr "Velocidade atinge 2."
+msgstr "A velocidade chega a 2."
 
 msgid "钢手"
-msgstr "Mão de Aço"
+msgstr "Punho de Ferro"
 
 msgid "护甲达到 20。"
-msgstr "Armadura atingir 20."
+msgstr "A armadura chega a 20."
 
 msgid "暗影魔术手"
-msgstr "Mão Mágica da Sombra"
+msgstr "Mago das Sombras"
 
 msgid "持有【伤害类型为法术的武器】通关。"
-msgstr "Portar uma arma de dano mágico para completar a fase."
+msgstr "Limpe o jogo com [armas do tipo dano mágico]."
 
 msgid "长手"
-msgstr "mão longa"
+msgstr "Braço Longo"
 
 msgid "攻击距离达到 200。"
-msgstr "Alcance de ataque atinge 200."
+msgstr "O alcance do ataque chega a 200."
 
 msgid "回春妙手"
-msgstr "mão de santo"
+msgstr "Toque de Cura"
 
 msgid "药瓶恢复达到 15。"
-msgstr "Recuperação do frasco de remédio atingiu 15."
+msgstr "A recuperação do frasco de poção chega a 15."
 
 msgid "好多手！"
-msgstr "Muitas mãos!"
+msgstr "Tantas mãos!"
 
 msgid "持有至少 3 个道具【铁匠锤子】。"
-msgstr "Possuir pelo menos 3 itens【martelo de ferreiro】."
+msgstr "Possuir pelo menos 3 itens de [Martelo de Ferreiro]."
 
 msgid "持家能手"
-msgstr "craque em gerenciar a casa"
+msgstr "Especialista em casa"
 
 msgid "通关时持有道具数量不超过 20。"
-msgstr "Ao passar o nível, a quantidade de itens em posse não exceda 20."
+msgstr "Termine o jogo com no máximo 20 itens."
 
 msgid "运营糕手"
 msgstr "Especialista em Operações"
 
 msgid "使用角色【煮蛋】时获取了道具【双持】。"
-msgstr "Quando usou o personagem【煮蛋】, obteve o item【双持】."
+msgstr "Adquiriu o item [Shuangchi] ao usar o personagem [Zhudan]."
 
 msgid "圣手"
-msgstr "mão santa"
+msgstr "Mão Sagrada"
 
 msgid "获得一次5级道具。"
-msgstr "Obter um item de nível 5."
+msgstr "Obtenha um item de nível 5."
 
 msgid "我全都要（伸手）！"
-msgstr "Eu quero tudo (estendendo a mão)!"
+msgstr "Eu quero tudo (estenda a mão)!"
 
 msgid "获得道具【坏点】。"
-msgstr "Obter item【坏点】."
+msgstr "Adquira o item [Ponto Ruim]."
 
 msgid "我还留了一手！"
-msgstr "Eu tenho um truque a mais!"
+msgstr "Eu tinha um truque na manga!"
 
 msgid "通关时持有复活道具。"
-msgstr "Ter um item de ressurreição ao concluir o nível."
+msgstr "Segure um item de revitalização ao terminar o jogo."
 
 msgid "在武器有空位的情况下通关。"
-msgstr "Completar com slots vazios nas armas."
+msgstr "Termine o jogo com os espaços para armas disponíveis."
 
 msgid "真正的高手"
-msgstr "verdadeiro mestre"
+msgstr "Verdadeiro Mestre"
 
 msgid "在不持有道具【读取存档】的情况下使用【勇者】通关。"
-msgstr "Completar o jogo usando o [Herói] sem possuir o item [Ler Save]."
+msgstr "Termine o jogo usando [Herói] sem segurar o item [Carregar Salvar]."
 
 msgid "人类荣光"
 msgstr "Glória da Humanidade"
 
 msgid "使用角色【战斗人形】，在游戏结束时持有至少 20 个道具【机魂】。"
 msgstr ""
-"Use o personagem【Humanoide de Combate】e tenha pelo menos 20 itens【Alma "
-"Mecânica】ao final do jogo."
+"Use o personagem [Andróide de Combate] e tenha pelo menos 20 itens [Alma "
+"Mech] no final do jogo."
 
 msgid "头目使用了高速移动！"
 msgstr "O chefe usou movimento de alta velocidade!"
 
 msgid "头目波次结束时未能击杀头目。"
-msgstr "Ao finalizar a onda do chefão, não foi possível derrotá-lo."
+msgstr "Não foi possível derrotar o chefe quando a onda de chefes terminou."
 
 msgid "探险家.I"
 msgstr "Explorador.I"
 
 msgid "击败敌人总数超过1000。"
-msgstr "Derrotar um total de mais de 1000 inimigos."
+msgstr "O número total de inimigos derrotados excede 1000."
 
 msgid "探险家.II"
-msgstr "Explorador.II"
+msgstr "Explorador II"
 
 msgid "击败敌人总数超过3000。"
-msgstr "O total de inimigos derrotados ultrapassa 3000."
+msgstr "O número total de inimigos derrotados excede 3000."
 
 msgid "探险家.III"
 msgstr "Explorador.III"
 
 msgid "击败敌人总数超过10000。"
-msgstr "Total de inimigos derrotados superior a 10.000."
+msgstr "O número total de inimigos derrotados excede 10.000."
 
 msgid "探险家.IV"
-msgstr "Explorador.IV"
+msgstr "Explorador IV"
 
 msgid "击败敌人总数超过20000。"
-msgstr "Total de inimigos derrotados ultrapassa 20000."
+msgstr "O número total de inimigos derrotados excede 20.000."
 
 msgid "修行者.I"
 msgstr "Praticante.I"
 
 msgid "吸收经验总次数达到2000。"
-msgstr "O número total de vezes de absorção de experiência atingiu 2000."
+msgstr "tempo total de absorção de experiência chega a 2000."
 
 msgid "修行者.II"
 msgstr "Praticante.II"
 
 msgid "吸收经验总次数达到6000。"
-msgstr "O número total de vezes de absorver experiência atingiu 6000."
+msgstr "O número total de vezes de absorção de experiência atingiu 6000."
 
 msgid "修行者.III"
-msgstr "Monge.III"
+msgstr "Praticante.III"
 
 msgid "吸收经验总次数达到20000。"
-msgstr "O total de vezes de absorver experiência atingiu 20000."
+msgstr "O número total de vezes de absorção de experiência chega a 20.000."
 
 msgid "修行者.IV"
 msgstr "Praticante.IV"
 
 msgid "吸收经验总次数达到50000。"
-msgstr "O número total de vezes de absorver experiência atingiu 50000."
+msgstr "O número total de vezes de absorção de experiência chega a 50000."
 
 msgid "屠龙者.I"
-msgstr "Matador de Dragões.I"
+msgstr "Matador de Dragões I"
 
 msgid "击败头目总数超过5。"
-msgstr "Total de chefões derrotados mais de 5."
+msgstr "O número total de chefes derrotados excede 5."
 
 msgid "屠龙者.II"
-msgstr "Matador de Dragões.II"
+msgstr "Matador de Dragões II"
 
 msgid "击败头目总数超过10。"
-msgstr "Total de chefes derrotados ultrapassa 10."
+msgstr "O número total de chefes derrotados excede 10."
 
 msgid "屠龙者.III"
-msgstr "Matador de Dragões.III"
+msgstr "Dragon Slayer III"
 
 msgid "击败头目总数超过20。"
-msgstr "Total de chefões derrotados mais de 20."
+msgstr "O número total de chefes derrotados excede 20."
 
 msgid "寻宝猎人.I"
-msgstr "Caçador de Tesouros.I"
+msgstr "Caçador de Tesouros I"
 
 msgid "拾取道具累计超过20。"
-msgstr "Coletar itens acumulados mais de 20."
+msgstr "Os itens coletados cumulativamente excedem 20."
 
 msgid "寻宝猎人.II"
 msgstr "Caçador de Tesouros.II"
 
 msgid "拾取道具累计超过50。"
-msgstr "Coletar itens acumulou mais de 50."
+msgstr "Os itens coletados cumulativamente excedem 50."
 
 msgid "寻宝猎人.III"
 msgstr "Caçador de Tesouros.III"
 
 msgid "拾取道具累计超过200。"
-msgstr "Coletar itens totalizando mais de 200."
+msgstr "Os itens coletados cumulativamente excedem 200."
 
 msgid "毕业了！"
-msgstr "Formei!"
+msgstr "Graduado!"
 
 msgid "在标准难度下使用【初始角色】通关游戏。"
-msgstr "Completar o jogo na dificuldade padrão usando o [personagem inicial]."
+msgstr "Termine o jogo na dificuldade Padrão usando [Personagem Inicial]."
 
 msgid "冲刺！冲！"
-msgstr "Sprint! Corra!"
+msgstr "Corra! Ataque!"
 
 msgid "在标准难度下使用【骑士】通关游戏。"
-msgstr "Na dificuldade padrão, use o【Cavaleiro】para concluir o jogo."
+msgstr "Termine o jogo na dificuldade Padrão usando [Cavaleiro]."
 
 msgid "花园保卫战"
-msgstr "Batalha de Defesa do Jardim"
+msgstr "Defesa do Jardim"
 
 msgid "在标准难度下使用【树】通关游戏。"
-msgstr "Zerar o jogo na dificuldade padrão usando【树】."
+msgstr "Termine o jogo na dificuldade Padrão usando [Árvore]."
 
 msgid "全能者"
-msgstr "Onipotente"
+msgstr "Omni-Especialista"
 
 msgid "在标准难度下使用【煮蛋】通关游戏。"
-msgstr "Completar o jogo na dificuldade padrão usando【煮蛋】."
+msgstr "Complete o jogo usando [Ovo Cozido] na dificuldade padrão."
 
 msgid "狩猎艺术"
-msgstr "Arte de Caça"
+msgstr "Arte da Caça"
 
 msgid "在标准难度下使用【狩龙人】通关游戏。"
-msgstr "Completar o jogo na dificuldade padrão usando o [Caçador de Dragões]."
+msgstr "Termine o jogo na dificuldade Padrão usando [Caçador de Dragões]."
 
 msgid "日常清扫"
 msgstr "Limpeza diária"
 
 msgid "在标准难度下使用【神社巫女】通关游戏。"
-msgstr "Completar o jogo na dificuldade padrão usando a【Miko】."
+msgstr "Termine o jogo na dificuldade Padrão usando [Shrine Maiden]."
 
 msgid "修行还在继续……"
-msgstr "Prática espiritual ainda continua……"
+msgstr "A prática espiritual continua..."
 
 msgid "在标准难度下使用【精灵】通关游戏。"
-msgstr "Completar o jogo na dificuldade padrão usando o [Elfo]."
+msgstr "Termine o jogo na dificuldade Padrão usando [Elfo]."
 
 msgid "修行刚刚开始！"
-msgstr "Prática espiritual acabou de começar!"
+msgstr "A prática espiritual apenas começou!"
 
 msgid "在标准难度下使用【勇者】通关游戏。"
-msgstr "Completar o jogo na dificuldade padrão usando o Herói."
+msgstr "Termine o jogo na dificuldade Padrão usando [Herói]."
 
 msgid "半人马之力"
-msgstr "Força de Centauro"
+msgstr "Força do Centauro"
 
 msgid "在标准难度下使用【将军】通关游戏。"
-msgstr "Completar o jogo na dificuldade padrão usando o Geral."
+msgstr "Termine o jogo na dificuldade Padrão usando [Geral]."
 
 msgid "在标准难度下使用【朝圣者】通关游戏。"
-msgstr "Completar o jogo na dificuldade padrão usando o Peregrino."
+msgstr "Termine o jogo na dificuldade Padrão usando [Peregrino]."
 
 msgid "纳垢"
 msgstr "Nurgle"
 
 msgid "在标准难度下使用【容器】通关游戏。"
-msgstr "Completar o jogo na dificuldade padrão usando【容器】."
+msgstr "Termine o jogo na dificuldade Padrão usando [Vessel]."
 
 msgid "灭绝"
-msgstr "extinção"
+msgstr "Extinção"
 
 msgid "在标准难度下使用【战斗人形】通关游戏。"
-msgstr "Completar o jogo na dificuldade padrão usando【Humanóide de Combate】."
+msgstr "Termine o jogo na dificuldade Padrão usando [Combat Android]."
 
 msgid "上大鞋！"
-msgstr "Calçar sapatos grandes!"
+msgstr "ir para a faculdade"
 
 msgid "在标准难度下使用【商人】通关游戏。"
-msgstr "Completar o jogo na dificuldade padrão usando o [Comerciante]."
+msgstr "Termine o jogo na dificuldade Padrão usando [Comerciante]."
 
 msgid "精准手法"
-msgstr "técnica precisa"
+msgstr "Dedo leve"
 
 msgid "在标准难度下使用【盗贼】通关游戏。"
-msgstr "Completar o jogo usando o Ladino na dificuldade padrão."
+msgstr "Termine o jogo na dificuldade Padrão usando [Ladino]."
 
 msgid "梦游"
-msgstr "sonambulismo"
+msgstr "Sonambulismo"
 
 msgid "在标准难度下使用【爱丽丝】通关游戏。"
-msgstr "Completar o jogo usando Alice na dificuldade padrão."
+msgstr "Termine o jogo na dificuldade Padrão usando [Alice]."
 
 msgid "戈多石像"
-msgstr "Estátua de Pedra Godo"
+msgstr "Estátua de Godot"
 
 msgid "创世之神！"
 msgstr "Deus Criador!"
 
 msgid "史莱姆王"
-msgstr "Rei Slime"
+msgstr "Rei do Slime"
 
 msgid "肚子里似乎有什么宝贝……"
-msgstr "No estômago parece haver algum tesouro..."
+msgstr "Parece haver algum tesouro em sua barriga..."
 
 msgid "幽灵王"
 msgstr "Rei Fantasma"
 
 msgid "其实只是一张床单……"
-msgstr "Na verdade, é apenas uma toalha de cama..."
+msgstr "Na verdade é só um lençol..."
 
 msgid "骷髅王"
 msgstr "Rei Esqueleto"
 
 msgid "死过一次……但还不够"
-msgstr "Já morri uma vez... mas ainda não basta"
+msgstr "Morreu uma vez... mas isso não é o suficiente"
 
 msgid "骑士首领"
-msgstr "líder de cavaleiros"
+msgstr "Capitão Cavaleiro"
 
 msgid "火力压制！"
-msgstr "Supressão de fogo!"
+msgstr "Supressão de incêndio!"
 
 msgid "战斗阶段未收集的经验点数会在回合结束时自动收集一半。"
 msgstr ""
-"Pontos de experiência não coletados na fase de combate serão automaticamente"
-" coletados metade no final do turno."
+"Metade dos pontos de experiência não coletados durante a fase de combate "
+"serão coletados automaticamente no final do turno."
 
 msgid "切换武器会重置攻击动作，但切换武器存在1秒的冷却时间。"
 msgstr ""
-"Trocar de arma resetará o movimento de ataque, mas trocar de arma tem um "
-"cooldown de 1 segundo."
+"Trocar de armas redefine a animação de ataque, mas tem um tempo de recarga "
+"de 1 segundo."
 
 msgid "攻速属性对法杖类武器的攻击频率影响较小。"
 msgstr ""
-"O atributo de velocidade de ataque tem um impacto menor na frequência de "
-"ataque das armas do tipo cajado."
+"A velocidade de ataque tem menos impacto na frequência de ataque de armas de"
+" cajado mágico."
 
 msgid "不同武器对各属性的利用效率不同。"
 msgstr ""
-"Diferentes armas têm diferentes eficiências na utilização de cada atributo."
+"Armas diferentes têm eficiências variadas na utilização de estatísticas."
 
 msgid "幸运属性会影响宝箱中的道具等级分布。幸运属性过低时，宝箱内不会开出高级道具。幸运属性较高时，宝箱内会移除低等级道具。"
 msgstr ""
-"O atributo de sorte afeta a distribuição de níveis de itens nos baús. Quando"
-" o atributo de sorte for muito baixo, itens de alto nível não serão obtidos "
-"nos baús. Quando o atributo de sorte for alto, itens de baixo nível serão "
-"removidos dos baús."
+"Sua estatística de Sorte afeta a qualidade dos itens dos baús: Pouca Sorte: "
+"Impede que itens raros apareçam. Muita Sorte: Remove itens comuns do "
+"conjunto de saques."
 
 msgid "击杀体型变大的精英怪物可以获得掉落物。当有剩余道具时，掉落物固定为宝箱，否则固定为药剂。"
 msgstr ""
-"Matar monstros élite de tamanho aumentado permite obter drops. Quando houver"
-" itens restantes, o drop será fixo em baú; caso contrário, será fixo em "
-"poção."
+"Derrotar monstros de elite com um número maior de itens concede itens. "
+"Quando houver um número restante de itens, o item deve ser um baú; caso "
+"contrário, é uma poção."
 
 msgid "生命值越低，怪物掉落药剂的概率越高。"
-msgstr ""
-"Quanto menor a vida, maior a probabilidade de o monstro dropar poções."
+msgstr "HP mais baixo aumenta a chance de monstros derrubarem poções."
 
 msgid "连续多回合不受到伤害会获得“神秘奖励”。"
 msgstr ""
-"Vários turnos consecutivos sem sofrer danos concederão uma \"recompensa "
-"misteriosa\"."
+"Não sofrer dano por várias rodadas consecutivas concede uma \"Recompensa "
+"Misteriosa\"."
 
 msgid "击败BOSS会获得丰厚的额外奖励。"
-msgstr "Derrotar o BOSS resultará em recompensas extras generosas."
+msgstr "Derrotar um CHEFE concede recompensas extras generosas."
 
 msgid "回到游戏"
-msgstr "Voltar para o jogo"
+msgstr "Retomar o jogo"
 
 msgid "设置"
 msgstr "Configurações"
 
 msgid "结束本局"
-msgstr "Terminar esta rodada"
+msgstr "Fim do Jogo"
 
 msgid "返回标题画面"
-msgstr "Voltar para a tela de título"
+msgstr "Voltar ao título"
 
 msgid "成就"
-msgstr "conquista"
+msgstr "Conquistas"
 
 msgid "解锁："
-msgstr "Desbloquear:"
+msgstr "Desbloqueado:"
 
 msgid "图鉴"
-msgstr "guia ilustrado"
+msgstr "Compêndio"
 
 msgid "游戏结束"
-msgstr "Fim de jogo"
+msgstr "Game Over"
 
 msgid "再来一局"
-msgstr "Mais uma rodada"
+msgstr "Jogar novamente"
 
 msgid "回到标题画面"
 msgstr "Voltar para a tela de título"
@@ -1755,111 +1746,109 @@ msgid "无尽模式"
 msgstr "Modo Infinito"
 
 msgid "角色"
-msgstr "personagem"
+msgstr "Personagem"
 
 msgid "武器"
-msgstr "arma"
+msgstr "Arma"
 
 msgid "道具"
-msgstr "propriedades"
+msgstr "Item"
 
 msgid "媒体设置"
 msgstr "Configurações de mídia"
 
 msgid "游戏设置"
-msgstr "Configurações do Jogo"
+msgstr "Configurações do jogo"
 
 msgid "返回"
-msgstr "voltar"
+msgstr "Voltar"
 
 msgid "返回上级"
-msgstr "Voltar ao superior"
+msgstr "Retornar ao pai"
 
 msgid "音乐音效"
 msgstr "Música e efeitos sonoros"
 
 msgid "显示效果"
-msgstr "efeito de exibição"
+msgstr "Efeitos de exibição"
 
 msgid "音乐音量"
 msgstr "Volume da música"
 
 msgid "音效音量"
-msgstr "Volume de efeitos sonoros"
+msgstr "Volume dos efeitos sonoros"
 
 msgid "全屏"
-msgstr "Tela Cheia"
+msgstr "Tela cheia"
 
 msgid "动态伤害显示"
-msgstr "Exibição Dinâmica de Dano"
+msgstr "Exibição dinâmica de danos"
 
 msgid "屏幕暗角"
-msgstr "canto escuro da tela"
+msgstr "Escurecimento da tela"
 
 msgid "屏幕抖动"
-msgstr "tremor na tela"
+msgstr "Tela trêmula"
 
 msgid "语言"
-msgstr "língua"
+msgstr "Linguagem"
 
 msgid "默认标准难度"
-msgstr "Dificuldade padrão padrão"
+msgstr "Dificuldade Padrão Padrão"
 
 msgid "游戏外使用完整描述"
-msgstr "Usar descrição completa fora do jogo"
+msgstr "Use a descrição completa fora do jogo"
 
 msgid "简单难度下使用完整描述"
-msgstr "Usar descrição completa em nível fácil"
+msgstr "Use descrições completas em dificuldade fácil"
 
 msgid "普通难度下使用完整描述"
-msgstr "Usar descrição completa em dificuldade normal"
+msgstr "Use a descrição completa na dificuldade normal"
 
 msgid "事件："
 msgstr "Evento:"
 
 msgid "属性"
-msgstr "propriedade"
+msgstr "Estatísticas"
 
 msgid "物品"
-msgstr "objeto"
+msgstr "Unid"
 
 msgid "道具："
-msgstr ""
-"异常: HTTPSConnectionPool(host='ark.cn-beijing.volces.com', port=443): Read "
-"timed out. (read timeout=30)"
+msgstr "Adereços:"
 
 msgid "武器："
-msgstr "Armas:"
+msgstr "Arma:"
 
 msgid "达成成就！"
-msgstr "Conquista alcançada!"
+msgstr "Conquista desbloqueada!"
 
 msgid "好！"
-msgstr "Bom!"
+msgstr "OK!"
 
 msgid "继续"
 msgstr "Continuar"
 
 msgid "开始游戏"
-msgstr "Iniciar Jogo"
+msgstr "Iniciar jogo"
 
 msgid "关于"
 msgstr "Sobre"
 
 msgid "退出"
-msgstr "Sair"
+msgstr "Saída"
 
 msgid "新！"
 msgstr "Novo!"
 
 msgid "购买"
-msgstr "comprar"
+msgstr "Comprar"
 
 msgid "锁定"
-msgstr "bloquear"
+msgstr "Trancar"
 
 msgid "选择难度"
-msgstr "Selecionar a dificuldade"
+msgstr "Selecione a dificuldade"
 
 msgid ""
 "简单难度：\n"
@@ -1869,15 +1858,14 @@ msgid ""
 "生命值会以[color=royalblue]人畜无害的蓝色[/color]显示。\n"
 "[color=red]无法解锁完整成就[/color]。"
 msgstr ""
-"Dificuldade Fácil:\n"
-"\n"
-"Fim do turno[color=skyblue]recupera automaticamente 80% do valor de experiência[/color].\n"
-"A vida[color=green]vida[/color]e o[color=yellow]dano[/color]dos inimigos serão menores.\n"
-"O valor de vida será exibido em[color=royalblue]azul inofensivo[/color].\n"
-"[color=red]Não é possível desbloquear conquistas completas[/color]."
+"Fácil: Ao final de cada rodada, [color=skyblue]80% do XP é coletado "
+"automaticamente[/color]. Os inimigos têm [color=green]HP[/color] e "
+"[color=yellow]dano[/color] menores. O HP será exibido em "
+"[color=royalblue]azul inofensivo[/color]. [color=red]Não é possível "
+"desbloquear conquistas completas[/color]."
 
 msgid "选择"
-msgstr "escolha"
+msgstr "Selecione"
 
 msgid ""
 "标准难度：\n"
@@ -1887,72 +1875,71 @@ msgid ""
 "游戏结束后可以进入[color=skyblue]无尽模式[/color]。\n"
 "[color=gray]这是游戏设计原本的预期难度。[/color]"
 msgstr ""
-"Dificuldade padrão:\n"
-"\n"
-"Fim do turno[color=red]recupera automaticamente apenas 50% do valor da experiência[/color].\n"
-"[color=red]O dano dos inimigos fica cada vez maior[/color].\n"
-"Após o término do jogo é possível acessar[color=skyblue]modo infinito[/color].\n"
-"[color=gray]Esta é a dificuldade originalmente prevista no design do jogo[/color]."
+"Padrão: Ao final de cada rodada, [color=red]apenas 50% do XP é coletado "
+"automaticamente[/color]. [color=red]O dano inimigo aumenta "
+"progressivamente[/color]. Após o término do jogo, você pode entrar no "
+"[color=skyblue]Modo Infinito[/color]. [color=gray]Esta é a dificuldade "
+"original do design do jogo.[/color]"
 
 msgid "装备到这里"
-msgstr "Equipar aqui"
+msgstr "Equipe aqui"
 
 msgid "装备武器到……"
-msgstr "Equipar armas em..."
+msgstr "Equipar arma para..."
 
 msgid "放弃"
-msgstr "desistir"
+msgstr "Descartar"
 
 msgid "角色选择"
 msgstr "Seleção de Personagens"
 
 msgid "等级提升！"
-msgstr "Nível subiu!"
+msgstr "Suba de nível!"
 
 msgid "继续前进"
-msgstr "Continuar avançando"
+msgstr "Prosseguir"
 
 msgid "获得道具！"
-msgstr "Item obtido!"
+msgstr "Item adquirido!"
 
 msgid "重置"
-msgstr "Redefinir"
+msgstr "Reiniciar"
 
 msgid "购买道具！"
-msgstr "Comprar itens!"
+msgstr "Compre itens!"
 
 msgid "结束"
-msgstr "Fim"
+msgstr "Terminar"
 
 msgid "我们安全了，暂时的。"
-msgstr "Estamos seguros, temporariamente."
+msgstr "Estamos seguros, só por enquanto."
 
 msgid "你听到了吗？"
-msgstr "Você ouviu?"
+msgstr "Você ouviu isso?"
 
 msgid "已完成"
 msgstr "Concluído"
 
 msgid "无尽"
-msgstr "infinito"
+msgstr "Sem fim"
 
 msgid "失败"
-msgstr "fracasso"
+msgstr "Fracassado"
 
 msgid "时间到！"
-msgstr "Hora certa!"
+msgstr "Acabou o tempo!"
 
 msgid "第%d波/共%d波"
-msgstr "%dª onda/%d ondas"
+msgstr "Onda %d/%d"
 
 msgid "第%d波/无尽"
-msgstr "Onda %d/Infinito"
+msgstr "Onda %d/Sem fim"
 
 msgid "提示："
-msgstr "Dica:"
+msgstr " Dica:"
 
 msgid "唯一"
-msgstr "único"
+msgstr "Exclusivo"
 
 msgid "???"
 msgstr "???"
@@ -1961,233 +1948,228 @@ msgid "已购买"
 msgstr "Comprado"
 
 msgid "[解锁]"
-msgstr "[Desbloquear]"
+msgstr "[Desbloqueado]"
 
 msgid "幸运消耗%d"
-msgstr "Consumo de sorte %d"
+msgstr "Sorte consumida: %d"
 
 msgid "获得武器！"
-msgstr "Obter arma!"
+msgstr "Pegue a arma!"
 
 msgid "刷新"
 msgstr "Atualizar"
 
 msgid "金币"
-msgstr "moeda de ouro"
+msgstr "Ouro"
 
 msgid "【唯一】"
-msgstr "【único】"
+msgstr "[Exclusivo]"
 
 msgid "波次"
-msgstr "onda"
+msgstr "Aceno"
 
 msgid "等级"
-msgstr "nível"
+msgstr "Nível"
 
 msgid "生命值"
-msgstr "pontos de vida"
+msgstr "HP"
 
 msgid "宝箱"
-msgstr "baú"
+msgstr "Baú do Tesouro"
 
 msgid "拾取范围"
-msgstr "Alcance de coleta"
+msgstr "Alcance de captação"
 
 msgid "连续无伤奖励 - 额外诅咒道具："
-msgstr "Recompensa por Consecutivo sem Danos - Itens de Maldição Extra:"
+msgstr "Recompensa consecutiva sem dano - Item amaldiçoado extra:"
 
 msgid "连续无伤奖励 - 额外祝福道具："
-msgstr "Recompensa por Sem Danos Contínuos - Item de Bênção Extra:"
+msgstr "Recompensa contínua sem dano - Item de bênção adicional:"
 
 msgid "移除"
-msgstr "remover"
+msgstr "Remover"
 
 msgid "伤害"
-msgstr "dano"
+msgstr "Dano"
 
 msgid "冷却"
-msgstr "resfriamento"
+msgstr "Esfriar"
 
 msgid "范围"
-msgstr "escopo"
+msgstr "Faixa"
 
 msgid "暴击率"
-msgstr "taxa de crítico"
+msgstr "Taxa crítica"
 
 msgid "暴击效果"
 msgstr "Efeito Crítico"
 
 msgid "击退"
-msgstr "repelir"
+msgstr "Recuo"
 
 msgid "生命偷取"
 msgstr "Roubo de Vida"
 
 msgid "吸收"
-msgstr "absorver"
+msgstr "Absorver"
 
 msgid "攻击力"
 msgstr "Poder de Ataque"
 
 msgid "法术强度"
-msgstr "Poder de Magia"
+msgstr "Poder Mágico"
 
 msgid "伤害倍率"
-msgstr "multiplicador de dano"
+msgstr "Dano Mult"
 
 msgid "攻击速度"
-msgstr "Velocidade de ataque"
+msgstr "Velocidade de Ataque"
 
 msgid "速度"
-msgstr "velocidade"
+msgstr "Velocidade"
 
 msgid "攻击范围"
 msgstr "Alcance de ataque"
 
 msgid "幸运"
-msgstr "sorte"
+msgstr "Sorte"
 
 msgid "生命上限"
-msgstr "Limite máximo de vida"
+msgstr "HP máximo"
 
 msgid "护甲"
 msgstr "Armadura"
 
 msgid "闪避率"
-msgstr "taxa de esquiva"
+msgstr "Desviar"
 
 msgid "贯穿"
-msgstr "percorrer"
+msgstr "Penetração"
 
 msgid "药瓶恢复"
-msgstr "Restauração de frasco de remédio"
+msgstr "Recuperação de Poção"
 
 msgid "回合恢复"
 msgstr "Recuperação de Rodada"
 
 msgid "物理"
-msgstr "Física"
+msgstr "Físico"
 
 msgid "法术"
-msgstr "magia"
+msgstr "Soletrar"
 
 msgid "影响物理攻击效益。随等级提升自然增长。"
 msgstr ""
-"Afeta a eficiência do ataque físico. Cresce naturalmente com o aumento do "
-"nível."
+"Afeta os efeitos de ataques físicos. Aumenta naturalmente com o nível."
 
 msgid "影响法术攻击效益。随等级提升自然增长。"
 msgstr ""
-"Afeta a eficiência do ataque mágico. Cresce naturalmente com o aumento do "
-"nível."
+"Afeta os efeitos de ataques mágicos. Aumenta naturalmente com o nível."
 
 msgid "影响所有攻击效果的收益。"
-msgstr "Afecta os ganhos de todos os efeitos de ataque."
+msgstr "Afeta todos os efeitos de ataque."
 
 msgid "影响武器的攻击动作间隔。"
-msgstr "Afeta o intervalo da ação de ataque da arma."
+msgstr "Afeta o intervalo entre animações de ataque de arma."
 
 msgid "影响人物移动速度。上限为2。"
-msgstr ""
-"Afecta a velocidade de movimento do personagem. O limite superior é 2."
+msgstr "Afeta a velocidade de movimento do personagem. O limite é 2."
 
 msgid "影响武器攻击动作的感知距离，影响近战武器的长度。"
 msgstr ""
-"Afeta a distância de percepção do movimento de ataque da arma e o "
-"comprimento das armas de combate corpo a corpo."
+"Afeta a distância de percepção das ações de ataque de armas e o comprimento "
+"das armas brancas."
 
 msgid "影响武器暴击触发概率，影响攻击特效触发概率。"
 msgstr ""
-"Afeta a probabilidade de ativação do crítico da arma e a probabilidade de "
-"ativação do efeito de ataque."
+"Afeta a probabilidade de ativação do acerto crítico da arma e a "
+"probabilidade de ativação do efeito especial do ataque."
 
 msgid "影响等级提升时的属性质量，影响道具品质。"
 msgstr ""
-"Afeta a qualidade dos atributos ao subir de nível e a qualidade dos itens."
+"Afeta a qualidade das estatísticas ao subir de nível e a qualidade dos "
+"itens."
 
 msgid "人物最大生命值。随等级提升自然增长。"
-msgstr "Vida máxima do personagem. Aumenta naturalmente com o nível."
+msgstr "HP máximo do personagem. Aumenta naturalmente com o nível."
 
 msgid "人物受到攻击时，按照护甲值减免一部分伤害。"
-msgstr ""
-"Quando o personagem é atacado, uma parte do dano é reduzida de acordo com o "
-"valor de armadura."
+msgstr "Reduz o dano recebido com base no valor da armadura quando atacado."
 
 msgid "人物受到飞行道具攻击时，依照概率免受此伤害。上限为60%。"
 msgstr ""
-"Quando o personagem sofre um ataque de projéteis voadores, evita esse dano "
-"com base em uma probabilidade. O limite máximo é de 60%."
+"Concede uma chance de evitar dano de ataques de projéteis. O limite é de "
+"60%."
 
 msgid "影响武器暴击伤害。"
 msgstr "Afeta o dano crítico da arma."
 
 msgid "影响远程武器攻击时，子弹穿透敌人的次数。"
 msgstr ""
-"Afeta o número de vezes que a bala perfura os inimigos ao atacar com armas "
-"de longo alcance."
+"Afeta o número de vezes que as balas penetram nos inimigos ao atacar com "
+"armas de longo alcance."
 
 msgid "影响拾取药瓶使用时的治疗效果。"
-msgstr "Afecta o efeito curativo ao pegar a poção e usá-la."
+msgstr "Afeta o efeito de cura ao pegar e usar a poção."
 
 msgid "每回合开始时的恢复一定的生命值。"
-msgstr ""
-"No início de cada turno, recupera uma certa quantidade de pontos de vida."
+msgstr "Restaure uma certa quantidade de saúde no início de cada rodada."
 
 msgid "枪械"
-msgstr "armas de fogo"
+msgstr "Armas de fogo"
 
 msgid "冷兵器"
-msgstr "armas brancas"
+msgstr "Armas Brancas"
 
 msgid "魔法"
-msgstr "magia"
+msgstr "Magia"
 
 msgid "溅射"
-msgstr "sputtering"
+msgstr "Splash"
 
 msgid "弹射"
-msgstr "ejeção"
+msgstr "Quicar"
 
 msgid "随从"
-msgstr "acompanhante"
+msgstr "Seguidor"
 
 msgid "投射物"
-msgstr "projétil"
+msgstr "Projétil"
 
 msgid "当前波次。随着波次提升，怪物的强度会有所上升。部分波次会有头目出现。"
 msgstr ""
-"Onda atual. À medida que as ondas aumentam, a força dos monstros irá subir. "
+"Onda atual. À medida que a onda aumenta, a força dos monstros aumenta. "
 "Algumas ondas terão chefes."
 
 msgid "当前经验值和下一级所需经验值。每次升级会提升属性。"
 msgstr ""
 "Pontos de experiência atuais e pontos de experiência necessários para o "
-"próximo nível. Cada subida de nível aumenta os atributos."
+"próximo nível. Cada nível aumenta os atributos."
 
 msgid "本回合内可能掉落的宝箱数量。每回合会自然增加1，拾取宝箱会扣除。"
 msgstr ""
-"Quantidade de baús que podem ser dropados durante este turno. A cada turno "
-"aumenta naturalmente em 1, e coletar um baú a deduz."
+"Número de baús que podem cair nesta rodada. Aumenta naturalmente em 1 a cada"
+" rodada e é deduzido ao coletar baús."
 
 msgid "影响拾取掉落物的范围。生命已满时不拾取药瓶。"
 msgstr ""
-"Afecta o alcance de coleta de itens dropados. Não coleta poções quando a "
-"vida estiver cheia."
+"Afeta o alcance da coleta de itens caídos. Não coleta poções quando a saúde "
+"está cheia."
 
 msgid "闪避"
-msgstr "Esquiva"
+msgstr "Desviar"
 
 msgid "格挡"
-msgstr "bloquear"
+msgstr "Bloquear"
 
 msgid "升级"
-msgstr "upgrade"
+msgstr "Subir de nível"
 
 msgid "吸收机魂"
-msgstr "Absorver Alma Mecânica"
+msgstr "Absorver Alma Mech"
 
 msgid "W/S/A/D"
-msgstr "W/S/A/D"
+msgstr "S/S/A/D"
 
 msgid "Q/E/空格"
 msgstr "Q/E/espaço"
@@ -2199,23 +2181,21 @@ msgid "LB/RB"
 msgstr "LB/RB"
 
 msgid "猛推 [color=blue]%s[/color] 以移动"
-msgstr "Empurre fortemente [color=blue]%s[/color] para mover"
+msgstr "Empurre com força [color=blue]%s[/color] para mover"
 
 msgid "接近[color=red]敌人[/color]以自动攻击"
-msgstr "Aproxime-se de [color=red]inimigo[/color] para atacar automaticamente"
+msgstr "Aproxime-se do [color=red]inimigo[/color] para atacar automaticamente"
 
 msgid "按下 [color=darkgreen]%s[/color] 以切换武器"
-msgstr "Pressione [color=darkgreen]%s[/color] para alternar de arma"
+msgstr "Pressione [color=darkgreen]%s[/color] para trocar de arma"
 
 msgid "收集[color=royalblue]经验[/color]与[color=gold]宝箱[/color]，生存下去直到取得胜利"
-msgstr ""
-"Colete [color=royalblue]experiência[/color] e [color=gold]baú[/color], "
-"sobreviva até vencer"
+msgstr "Colecione experiência e baús de tesouro, sobreviva até a vitória"
 
 msgid ""
 "回合开始时获得一层护盾。\n"
 "{{SHIELD}}"
-msgstr ""
+msgstr "Ganhe 1 Escudo no início do seu turno. {{ESCUDO}}"
 
 msgid "+2 宝箱"
 msgstr ""
@@ -2226,166 +2206,208 @@ msgstr ""
 msgid ""
 "在有头目的回合开始时，获得一层护盾。\n"
 "{{SHIELD}}"
-msgstr ""
+msgstr "Ganhe 1 Escudo no início de qualquer rodada com um Chefe. {{ESCUDO}}"
 
 msgid "正义"
-msgstr ""
+msgstr "Justiça"
 
 msgid "平衡。"
-msgstr ""
+msgstr "Equilíbrio."
 
 msgid "+4"
-msgstr ""
+msgstr "+4"
 
 msgid "“到底能不能留作最后一张牌啊！”"
-msgstr ""
+msgstr "“Posso salvar isso como meu último cartão ou não?!”"
 
 msgid ""
 "敌群数量大幅提升。\n"
 "[color=green]宝箱 +4[/color]"
-msgstr ""
+msgstr "“O número de inimigos aumentou muito. [color=green]Baús +4[/color]”"
 
 msgid "御剑术.I"
-msgstr ""
+msgstr "Controle de Espada · I"
 
 msgid "以气御剑。"
-msgstr ""
+msgstr "Manipule espadas com energia."
 
 msgid ""
 "生成一把剑作为环绕物。\n"
 "它会主动攻击靠近的敌人，造成范围法术伤害。\n"
 "其攻击频率不受攻速的影响。"
 msgstr ""
+"Invoca uma espada como orbe. Ataca inimigos próximos automaticamente, "
+"causando dano mágico em área. A velocidade de ataque não afeta sua "
+"frequência."
 
 msgid "环绕物，主动攻击，造成法术伤害。"
-msgstr ""
+msgstr "Orbe, ataca ativamente, causa dano mágico."
 
 msgid "晴天娃娃"
-msgstr ""
+msgstr "Boneca Ensolarada"
 
 msgid ""
 "“卷袖搴裳手持帚，挂向阴空便摇手。”\n"
 "[right]——【元】李俊民 [/right]"
 msgstr ""
+"“Mangas arregaçadas, vassoura na mão - pendure-a na sombra e observe-a "
+"acenar.\" [direita]— 【Yuan】Li Junmin[/direita]"
 
 msgid ""
 "生成一个晴天娃娃跟班。\n"
 "和她距离较近时，伤害倍率临时提升为原来的{{0}}。"
 msgstr ""
+"Invoca uma companheira Boneca Ensolarada. Ficar perto dela aumenta "
+"temporariamente seu multiplicador de dano para {{0}}."
 
 msgid "生成跟班，靠近提升伤害倍率。"
-msgstr ""
+msgstr "Companheiro, a proximidade aumenta o multiplicador de dano."
 
 msgid "巫术娃娃"
-msgstr ""
+msgstr "Boneca Voodoo"
 
 msgid "以蕴含魔力的毛线编制而成，也许可以伤害到你想伤害的人。"
 msgstr ""
+"Feito com fios encantados, ele pode machucar quem você quiser machucar."
 
 msgid ""
 "生成一个巫术娃娃。不会对角色造成伤害。\n"
 "承受伤害时会传递{{0}}给最早出现的敌人。"
 msgstr ""
+"Invoca uma Boneca Vodu que não causa dano a você. Ao sofrer dano, transfere "
+"{{0}} para o primeiro inimigo que aparecer."
 
 msgid "生成娃娃，向敌人传导伤害。"
-msgstr ""
+msgstr "Invoca uma boneca e transfere dano aos inimigos."
 
 msgid "苹果"
-msgstr ""
+msgstr "Maçã"
 
 msgid "可以让智慧接近你，但会导致医生远离你。"
 msgstr ""
+"Traz a sabedoria para mais perto, mas faz com que os médicos o evitem."
 
 msgid ""
 "+{{0}} 生命偷取\n"
 "{{HP_STEAL}}"
-msgstr ""
+msgstr "+{{0}} Roubo de Vida {{HP_STEAL}}"
 
 msgid "XXI.世界"
-msgstr ""
+msgstr "XXI. O Mundo"
 
 msgid "回报亦有代价，耕耘即可收获。"
-msgstr ""
+msgstr "Toda recompensa tem seu custo, todo esforço sua colheita."
 
 msgid "下一波次开始时额外生成一个相对弱小的头目，击杀可以照常获得头目奖励。"
 msgstr ""
+"Quando a próxima onda começa, gera um chefe ainda mais fraco. Derrotá-lo "
+"concede recompensas normais de chefe."
 
 msgid "下回合生成额外的弱版头目。"
-msgstr ""
+msgstr "Gera um chefe ainda mais fraco na próxima rodada."
 
 msgid "黑黄杖"
-msgstr ""
+msgstr "Bar Black King"
 
 msgid "「天神下凡」"
-msgstr ""
+msgstr "「Avatar」"
 
 msgid "首次受到伤害时，无敌时间提升至{{0}}秒。"
 msgstr ""
+"Ao receber o primeiro dano, aumenta a duração da invencibilidade para {{0}} "
+"segundos."
 
 msgid "变巨术"
-msgstr ""
+msgstr "Transformação Gigante"
 
 msgid "最有效的战术才经得起时间的考验。"
-msgstr ""
+msgstr "Somente as táticas mais eficazes resistem ao teste do tempo."
 
 msgid ""
 "武器体积变大，攻击动画变慢。\n"
 "伤害倍率变为{{0}}。"
 msgstr ""
+"O tamanho da arma aumenta, a animação do ataque diminui. O multiplicador de "
+"dano se torna {{0}}."
 
 msgid "武器体积变大，动作变慢，伤害倍率上升。"
 msgstr ""
+"O tamanho da arma aumenta, os ataques ficam lentos e o multiplicador de dano"
+" aumenta."
 
 msgid ""
 "每次攻击会积攒1点怒气，累计到达5点时积满。积满怒气时需切换武器才能继续攻击。\n"
 "积满怒气切换武器后，首次攻击会造成{{0}}伤害，并携带{{1}}的生命偷取。\n"
 "{{HP_STEAL}}"
 msgstr ""
+"Cada ataque acumula 1 de Fúria. Com 5 de Fúria, você precisará trocar de "
+"arma para continuar atacando. Após trocar com Fúria máxima, seu primeiro "
+"ataque causa {{0}} de dano adicional com {{1}} Roubo de Vida. {{HP_STEAL}}"
 
 msgid ""
 "攻击积攒怒气，怒气满时停止攻击。\n"
 "满怒气下，切换武器首次攻击增伤，并生命偷取。"
 msgstr ""
+"Ataques aumentam a Fúria. Com a Fúria máxima, os ataques cessam. Trocar de "
+"arma com a Fúria máxima potencializa seu próximo ataque com dano adicional e"
+" Roubo de Vida."
 
 msgid ""
 "生命归零时进入癫狂状态，每秒持续流血{{0}}并获得{{1}}生命偷取（普通攻击产生击杀时恢复生命）。\n"
 "这个效果每回合限一次，每次触发永久增加{{2}}伤害倍率。\n"
 "{{HP_STEAL}}"
 msgstr ""
+"Quando PV chegar a 0, entre em Frenesi: Sangre {{0}} PV por segundo, Ganhe "
+"{{1}} Roubo de Vida (Mortes com ataques básicos restauram PV). Multiplicador"
+" de Dano Permanente +{{2}} pode ser ativado uma vez por turno. {{ROUBO_PV}}"
 
 msgid ""
 "濒死时复活，永久提升伤害倍率，持续流血并获得生命偷取。\n"
 "每回合限一次。\n"
 "{{HP_STEAL}}"
 msgstr ""
+"Reviva às portas da morte com aumento de dano permanente, sangramento "
+"constante e roubo de vida. Uma vez por turno. {{HP_STEAL}}"
 
 msgid "欧头"
-msgstr ""
+msgstr "Jogador profissional"
 
 msgid "有人问他是职业选手吗，他说，他觉得他是。"
 msgstr ""
+"Quando perguntado se ele é um jogador profissional, ele diz: \"Acho que "
+"sou\"."
 
 msgid ""
 "无法主动操作该角色。\n"
 "每次获得新武器时，会替换掉更早获得的武器。\n"
 "升级时会获得更高的基础属性提升。\n"
 msgstr ""
+"Não é possível controlar este personagem diretamente. Novas armas substituem"
+" automaticamente as mais antigas. Ganha estatísticas básicas mais altas ao "
+"subir de nível."
 
 msgid "无法主动控制，武器轮换装备，属性更高。"
 msgstr ""
+"Não é possível direcionar o controle, alterna entre armas e ganha melhores "
+"estatísticas ao subir de nível."
 
 msgid "我觉得我是！"
-msgstr ""
+msgstr "Acho que sim!"
 
 msgid "在标准难度下使用【欧头】通关游戏。"
-msgstr ""
+msgstr "Complete uma partida com \"Jogador Profissional\" na dificuldade Padrão."
 
 msgid "[color=purple]护盾[/color][color=gray]: 护盾可以让你免受本回合初次受到的伤害。[/color]"
 msgstr ""
+"[color=purple]Escudo[/color][color=gray]: Bloqueia a primeira ocorrência de "
+"dano a cada turno.[/color]"
 
 msgid ""
 "[color=red]生命偷取[/color][color=gray]: 当使用普通攻击击杀敌人时，恢复与生命偷取等同的生命值。[/color]"
 msgstr ""
+"[color=red]Roubo de Vida[/color][color=gray]: Restaura HP igual à sua "
+"estatística de Roubo de Vida ao desferir golpes fatais com Ataques "
+"Básicos.[/color]"
 
 msgid "攻击力转为法术强度，降低移速。"
 msgstr ""
