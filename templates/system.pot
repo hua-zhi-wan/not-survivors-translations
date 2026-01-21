@@ -781,6 +781,14 @@ msgstr ""
 msgid "LB/RB"
 msgstr ""
 
+#: scripts/ui/tutorial_panel.gd
+msgid "L摇杆"
+msgstr ""
+
+#: scripts/ui/tutorial_panel.gd
+msgid "L键/R键"
+msgstr ""
+
 #: scenes/ui/tutorial_panel.tscn
 msgid "猛推 [color=blue]%s[/color] 以移动"
 msgstr ""
