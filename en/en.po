@@ -2333,6 +2333,12 @@ msgstr "left joystick"
 msgid "LB/RB"
 msgstr "LB/RB"
 
+msgid "L摇杆"
+msgstr "Left Stick"
+
+msgid "L键/R键"
+msgstr "L/R Button"
+
 msgid "猛推 [color=blue]%s[/color] 以移动"
 msgstr "Push hard [color=blue]%s[/color] to move"
 

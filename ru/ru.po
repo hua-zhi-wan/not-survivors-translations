@@ -2198,6 +2198,12 @@ msgstr "левый джойстик"
 msgid "LB/RB"
 msgstr "ЛБ/РБ"
 
+msgid "L摇杆"
+msgstr "Левый стик"
+
+msgid "L键/R键"
+msgstr "кнопка L/R"
+
 msgid "猛推 [color=blue]%s[/color] 以移动"
 msgstr "Нажмите сильнее [color=blue]%s[/color], чтобы переместить"
 

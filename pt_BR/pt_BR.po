@@ -2180,6 +2180,12 @@ msgstr "joystick esquerdo"
 msgid "LB/RB"
 msgstr "LB/RB"
 
+msgid "L摇杆"
+msgstr "Stick esquerdo"
+
+msgid "L键/R键"
+msgstr "botão L/R"
+
 msgid "猛推 [color=blue]%s[/color] 以移动"
 msgstr "Empurre com força [color=blue]%s[/color] para mover"
 

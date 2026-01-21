@@ -2238,6 +2238,12 @@ msgstr "linker Joystick"
 msgid "LB/RB"
 msgstr "LB/RB"
 
+msgid "L摇杆"
+msgstr "Linker Stick"
+
+msgid "L键/R键"
+msgstr "L-Taste/R-Taste"
+
 msgid "猛推 [color=blue]%s[/color] 以移动"
 msgstr "Drücken Sie fest [color=blue]%s[/color], um sich zu bewegen"
 

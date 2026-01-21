@@ -2212,6 +2212,12 @@ msgstr "左搖桿"
 msgid "LB/RB"
 msgstr "LB/RB"
 
+msgid "L摇杆"
+msgstr "L搖桿"
+
+msgid "L键/R键"
+msgstr "L鍵/R鍵"
+
 msgid "猛推 [color=blue]%s[/color] 以移动"
 msgstr "猛推[color=blue]%s[/color] 以移動"
 

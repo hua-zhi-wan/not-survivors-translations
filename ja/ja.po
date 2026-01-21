@@ -2019,6 +2019,12 @@ msgstr "左スティック"
 msgid "LB/RB"
 msgstr "Lボンパー/Rボンパー"
 
+msgid "L摇杆"
+msgstr "Lスティック"
+
+msgid "L键/R键"
+msgstr "L/Rボタン"
+
 msgid "猛推 [color=blue]%s[/color] 以移动"
 msgstr "[color=blue]%s[/color] を強く押して移動する"
 

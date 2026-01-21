@@ -2002,6 +2002,12 @@ msgstr "왼쪽 조이스틱"
 msgid "LB/RB"
 msgstr "LB/RB"
 
+msgid "L摇杆"
+msgstr "왼쪽 스틱"
+
+msgid "L键/R键"
+msgstr "L/R 버튼"
+
 msgid "猛推 [color=blue]%s[/color] 以移动"
 msgstr "[color=blue]%s[/color]을 세게 눌러 움직이세요"
 
