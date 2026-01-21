@@ -63,23 +63,48 @@ def update_translations():
             # 加载已存在的PO文件
             po = polib.pofile(po_path)
 
-        # 创建现有条目的映射，方便快速查找
-        existing = {entry.msgid: entry for entry in po}
-
+        # 创建一个新的 PO 文件，用于存储去重后的条目
+        new_po = polib.POFile()
+        new_po.metadata = po.metadata
+        
+        # 创建现有条目的映射，使用 (msgctxt, msgid) 作为键，确保不同上下文的相同msgid被视为不同条目
+        existing = {}
+        
+        # 首先处理现有条目，确保去重
+        for entry in po:
+            # 保留头部的 msgid "" 用于存储元数据
+            if entry.msgid == "":
+                new_po.append(entry)
+            elif entry.msgid:
+                key = (entry.msgctxt, entry.msgid)
+                if key not in existing:
+                    existing[key] = entry
+                    new_po.append(entry)
+        
         # 更新现有条目并添加新条目
         for msgid, trans in translations.items():
             msgstr = trans.get(lang, "")
-
-            if msgid in existing:
+            
+            # 首先尝试使用 (None, msgid) 作为键，因为 Excel 中没有 msgctxt 信息
+            key = (None, msgid)
+            
+            if key in existing:
                 # 更新现有条目的翻译
-                existing[msgid].msgstr = msgstr
+                existing[key].msgstr = msgstr
+            elif msgid in {k[1] for k in existing.keys()}:
+                # 如果找到了具有相同 msgid 但不同 msgctxt 的条目，更新第一个找到的条目
+                for existing_key, entry in existing.items():
+                    if existing_key[1] == msgid:
+                        entry.msgstr = msgstr
+                        break
             else:
                 # 添加新的翻译条目
                 new_entry = polib.POEntry(msgid=msgid, msgstr=msgstr)
-                po.append(new_entry)
+                new_po.append(new_entry)
+                existing[key] = new_entry
 
-        # 保存更新后的PO文件
-        po.save(po_path)
+        # 保存更新后的PO文件（去重后的版本）
+        new_po.save(po_path)
         print(f"已成功更新 {po_path}")
 
 

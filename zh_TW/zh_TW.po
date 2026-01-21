@@ -1318,9 +1318,6 @@ msgstr "寬容"
 msgid "Kindness."
 msgstr "Kindness."
 
-msgid "BOSS的生命值降低30%。"
-msgstr "BOSS的生命值降低30%。"
-
 msgid "谦逊"
 msgstr "謙遜"
 
@@ -1335,9 +1332,6 @@ msgstr "節制"
 
 msgid "Temperance."
 msgstr "Temperance."
-
-msgid "自动拾取所有掉落的经验。"
-msgstr "自動拾取所有掉落的經驗。"
 
 msgid "空手"
 msgstr "空手"
@@ -1561,9 +1555,6 @@ msgstr "我還留了一手！"
 msgid "通关时持有复活道具。"
 msgstr "通關時持有復活道具。"
 
-msgid "空手？"
-msgstr "空手？"
-
 msgid "在武器有空位的情况下通关。"
 msgstr "在武器有空位的情況下通關。"
 
@@ -1632,9 +1623,6 @@ msgstr "半人馬之力"
 
 msgid "在标准难度下使用【将军】通关游戏。"
 msgstr "在標準難度下使用【將軍】通關遊戲。"
-
-msgid "朝圣者"
-msgstr "朝聖者"
 
 msgid "在标准难度下使用【朝圣者】通关游戏。"
 msgstr "在標準難度下使用【朝聖者】通關遊戲。"
